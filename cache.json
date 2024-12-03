@@ -12,12 +12,27 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382731",
+          "author": "Ryan Trimble",
+          "description": "We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.\nOne of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/",
+          "publishedOn": "2024-12-02T14:02:13.000Z",
+          "wordCount": 5054,
+          "title": "One of Those “Onboarding” UIs, With Anchor Positioning",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/11/anchor-view-driven-animation.mov",
+            "length": "7007669",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/08/css-modules-connections.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382697",
           "author": "Scott Fennell",
           "description": "What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.\nWordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/wordpress-multi-multisite-a-case-study/",
           "publishedOn": "2024-11-27T16:09:14.000Z",
-          "wordCount": 5941,
+          "wordCount": 5899,
           "title": "WordPress Multi-Multisite: A Case Study",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/11/2b6LXlN.mp4",
@@ -42,7 +57,7 @@
           "description": "Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.\nAlt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/alt-text-not-always-needed/",
           "publishedOn": "2024-11-25T15:23:39.000Z",
-          "wordCount": 3781,
+          "wordCount": 3848,
           "title": "Alt Text: Not Always Needed",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/02/image-alt-attribute.png"
         },
@@ -102,7 +117,7 @@
           "description": "Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.\nThe Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/",
           "publishedOn": "2024-11-08T13:57:09.000Z",
-          "wordCount": 4932,
+          "wordCount": 4881,
           "title": "The Different (and Modern) Ways to Toggle Content",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         },
@@ -112,7 +127,7 @@
           "description": "The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …\nPopping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/",
           "publishedOn": "2024-11-06T15:31:20.000Z",
-          "wordCount": 3555,
+          "wordCount": 3547,
           "title": "Popping Comments With CSS Anchor Positioning and View-Driven Animations",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/example1.png"
         },
@@ -122,7 +137,7 @@
           "description": "We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.\nFluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fluid-everything-else/",
           "publishedOn": "2024-11-05T20:49:40.000Z",
-          "wordCount": 4317,
+          "wordCount": 4297,
           "title": "Fluid Everything Else",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/01/water-css.png"
         }
@@ -139,7 +154,7 @@
           "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
           "publishedOn": "2024-11-30T09:00:00.000Z",
-          "wordCount": 4637,
+          "wordCount": 4635,
           "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
@@ -169,7 +184,7 @@
           "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
           "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
           "publishedOn": "2024-11-27T10:00:00.000Z",
-          "wordCount": 4227,
+          "wordCount": 4226,
           "title": "The Hype Around Signals",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
@@ -184,7 +199,7 @@
           "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
           "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
           "publishedOn": "2024-11-22T09:00:00.000Z",
-          "wordCount": 5818,
+          "wordCount": 5819,
           "title": "Why You Should Speak At Events As An Early-Career Professional",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
@@ -229,7 +244,7 @@
           "description": "Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!",
           "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
           "publishedOn": "2024-11-08T09:00:00.000Z",
-          "wordCount": 3668,
+          "wordCount": 3661,
           "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
@@ -260,6 +275,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "674de68794b89afe5676934e",
+          "author": "Isaiah Clifford Opoku",
+          "description": "Minimal APIs are an exciting feature introduced in .NET 6, designed to revolutionize how you create APIs. Imagine building robust APIs with minimal code and zero boilerplate—no more wrestling with controllers, routing, or middleware. That’s what mini...",
+          "link": "https://www.freecodecamp.org/news/create-a-minimal-api-in-net-core-handbook/",
+          "publishedOn": "2024-12-02T16:55:35.000Z",
+          "wordCount": 10605,
+          "title": "How to Create a Minimal API in .NET Core – A Step By Step Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733158500882/9af04a12-2121-4efd-a66f-00330896e358.png"
+        },
         {
           "id": "67488780f60a357b6cecd459",
           "author": "Adekola Olawale",
@@ -349,16 +374,6 @@
           "wordCount": 3971,
           "title": "How to Simplify AWS Multi-Account Management with Terraform and GitOps",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730239127065/317aa4dd-aba9-4a9e-8abb-7cacfbd0e672.png"
-        },
-        {
-          "id": "6745acca09ace2d743c17be9",
-          "author": "Kedar Makode",
-          "description": "In the world of modern software development, efficiency and consistency are key. Developers and operations teams need solutions that help them manage, deploy, and run applications seamlessly across different environments. Containers and Docker are te...",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-docker-and-containers-for-beginners/",
-          "publishedOn": "2024-11-26T11:11:06.000Z",
-          "wordCount": 2911,
-          "title": "An Introduction to Docker and Containers for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731093934598/6f2fa740-63e6-48e9-8e17-364544d1fcc6.png"
         }
       ]
     }
