@@ -17,7 +17,7 @@
           "description": "We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.\nOne of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/",
           "publishedOn": "2024-12-02T14:02:13.000Z",
-          "wordCount": 5054,
+          "wordCount": 5040,
           "title": "One of Those “Onboarding” UIs, With Anchor Positioning",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/11/anchor-view-driven-animation.mov",
@@ -144,137 +144,40 @@
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
-          "publishedOn": "2024-11-30T09:00:00.000Z",
-          "wordCount": 4635,
-          "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
-          "author": "hello@smashingmagazine.com (The Smashing Team)",
-          "description": "It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!",
-          "link": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
-          "publishedOn": "2024-11-28T12:00:00.000Z",
-          "wordCount": 3706,
-          "title": "Bundle Up And Save On Smashing Books And Workshops",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
-          "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
-          "publishedOn": "2024-11-27T10:00:00.000Z",
-          "wordCount": 4226,
-          "title": "The Hype Around Signals",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
-          "author": "hello@smashingmagazine.com (Victoria Nduka)",
-          "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
-          "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
-          "publishedOn": "2024-11-22T09:00:00.000Z",
-          "wordCount": 5819,
-          "title": "Why You Should Speak At Events As An Early-Career Professional",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.",
-          "link": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
-          "publishedOn": "2024-11-19T09:00:00.000Z",
-          "wordCount": 4311,
-          "title": "AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-transformative-impact-web-design-supercharging-productivity/ai-transformative-impact-web-design-supercharging-productivity.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-transformative-impact-web-design-supercharging-productivity/ai-transformative-impact-web-design-supercharging-productivity.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let’s explore its newly released Penpot Plugin System. So now, if there’s a functionality missing, you don’t need to jump into the code base straight away; you can create a plugin to achieve what you need. And you can even serve it from localhost!",
-          "link": "https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/",
-          "publishedOn": "2024-11-14T10:00:00.000Z",
-          "wordCount": 3624,
-          "title": "Open-Source Meets Design Tooling With Penpot",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/open-source-meets-design-tooling-penpot/open-source-meets-design-tooling-penpot.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/open-source-meets-design-tooling-penpot/open-source-meets-design-tooling-penpot.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
-          "author": "hello@smashingmagazine.com (Thomas Bohm)",
-          "description": "Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!",
-          "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
-          "publishedOn": "2024-11-08T09:00:00.000Z",
-          "wordCount": 3661,
-          "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "Feeling good with your Lighthouse score of 100%? You should! But you should also know that you’re only looking at part of the performance picture. Learn how Lighthouse scores are measured differently than other tools, the impact that has on measuring performance metrics, and why you need real-user monitoring for a complete picture.",
-          "link": "https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/",
-          "publishedOn": "2024-11-05T10:00:00.000Z",
-          "wordCount": 4240,
-          "title": "Why Optimizing Your Lighthouse Score Is Not Enough For A Fast Website",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-optimizing-lighthouse-score-not-enough-fast-website/why-optimizing-lighthouse-score-not-enough-fast-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/why-optimizing-lighthouse-score-not-enough-fast-website/why-optimizing-lighthouse-score-not-enough-fast-website.jpg"
-        }
-      ]
-    },
-    {
       "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "674f6a16678426d72d800cd5",
+          "author": "Ankur Tyagi",
+          "description": "Okay, I know you may be skeptical: other guides have promised painless code reviews only to reveal that their solution requires some hyper-specific tech stack or a paid developer tool. I won’t do that to you. This guide provides a straightforward and...",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/",
+          "publishedOn": "2024-12-03T20:29:10.000Z",
+          "wordCount": 3187,
+          "title": "How to Perform Code Reviews in Tech – The Painless Way",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733242289474/def1a314-fe64-448b-9236-f66a529e3f13.png"
+        },
+        {
+          "id": "674f49768f5b31d71eee8f9a",
+          "author": "Beau Carnes",
+          "description": "Spreadsheets are important for modern data management, analysis, and organization. Whether you're tracking personal finances, managing a business, or conducting advanced data analysis, spreadsheets offer a versatile platform for countless tasks. Amon...",
+          "link": "https://www.freecodecamp.org/news/learn-google-sheets-course-for-beginners/",
+          "publishedOn": "2024-12-03T18:09:58.000Z",
+          "wordCount": 1309,
+          "title": "Learn Google Sheets – Course for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733249376070/af3b622d-ff58-446a-ae47-b4dcac71cffe.jpeg"
+        },
+        {
+          "id": "674f227adf280a40b7047b7f",
+          "author": "Abhijeet Dave",
+          "description": "In this digital world, it’s important for your applications to have a smooth and secure authentication process. This helps improve user experience and the overall security of your apps. Google Authentication is among the most trusted and convenient w...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-google-auth-in-laravel-apps/",
+          "publishedOn": "2024-12-03T15:23:38.000Z",
+          "wordCount": 2542,
+          "title": "How to Set Up Google Authentication in Laravel Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732711351776/931a1ade-e652-4a0b-a16e-925482128fc0.png"
+        },
         {
           "id": "674de68794b89afe5676934e",
           "author": "Isaiah Clifford Opoku",
@@ -344,36 +247,6 @@
           "wordCount": 2413,
           "title": "How to Handle MongoDB Migrations with ts-migrate-mongoose",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732615343335/0a1b3e5e-bfa7-4f57-81a7-7f4bac9e8b0a.png"
-        },
-        {
-          "id": "67462204c9e1cbc5414b4e0c",
-          "author": "Kedar Makode",
-          "description": "If you want to practice and improve your web hosting skills, this tutorial is for you. With AWS EC2 and a little magic called user data scripts, you’ll be running a stunning website with a CSS template in no time. And the best part? You don’t need to...",
-          "link": "https://www.freecodecamp.org/news/aws-ec2-how-to-host-a-website-with-user-data-scripts/",
-          "publishedOn": "2024-11-26T19:31:16.000Z",
-          "wordCount": 1872,
-          "title": "AWS EC2: How to Quickly Host Your Website with User Data Scripts",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732639814571/62719c49-cd15-4f2c-9586-22a5a300bc4a.png"
-        },
-        {
-          "id": "6745ffa3608b32cb4a868bca",
-          "author": "Beau Carnes",
-          "description": "Artificial Intelligence is evolving rapidly, and with tools like Ollama, you can bring cutting-edge AI capabilities directly to your local environment. Learning how to harness local large language models (LLMs) can open up a world of opportunities. L...",
-          "link": "https://www.freecodecamp.org/news/local-ai-development-with-ollama-course/",
-          "publishedOn": "2024-11-26T17:04:35.000Z",
-          "wordCount": 1335,
-          "title": "Local AI Development with Ollama Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732640638451/ecee4cf1-efb6-41cc-823b-4808bc1670df.jpeg"
-        },
-        {
-          "id": "6745e19265a8ceed4a65c3eb",
-          "author": "Nitheesh Poojary",
-          "description": "In the past, in the world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment lived in a separate account. This arrange...",
-          "link": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management-with-terraform-and-gitops/",
-          "publishedOn": "2024-11-26T14:56:18.000Z",
-          "wordCount": 3971,
-          "title": "How to Simplify AWS Multi-Account Management with Terraform and GitOps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730239127065/317aa4dd-aba9-4a9e-8abb-7cacfbd0e672.png"
         }
       ]
     }

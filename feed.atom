@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-03T01:22:37.017Z</id>
+    <id>urn:2024-12-04T01:23:24.055Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T01:22:37.017Z</updated>
+    <updated>2024-12-04T01:23:24.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Code Reviews in Tech – The Painless Way]]></title>
+        <id>674f6a16678426d72d800cd5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/"/>
+        <updated>2024-12-03T20:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Okay, I know you may be skeptical: other guides have promised painless code reviews only to reveal that their solution requires some hyper-specific tech stack or a paid developer tool. I won’t do that to you. This guide provides a straightforward and...]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Google Sheets – Course for Beginners]]></title>
+        <id>674f49768f5b31d71eee8f9a</id>
+        <link href="https://www.freecodecamp.org/news/learn-google-sheets-course-for-beginners/"/>
+        <updated>2024-12-03T18:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Spreadsheets are important for modern data management, analysis, and organization. Whether you're tracking personal finances, managing a business, or conducting advanced data analysis, spreadsheets offer a versatile platform for countless tasks. Amon...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Google Authentication in Laravel Applications]]></title>
+        <id>674f227adf280a40b7047b7f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-google-auth-in-laravel-apps/"/>
+        <updated>2024-12-03T15:23:38.000Z</updated>
+        <summary type="html"><![CDATA[In this digital world, it’s important for your applications to have a smooth and secure authentication process. This helps improve user experience and the overall security of your apps. Google Authentication is among the most trusted and convenient w...]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Minimal API in .NET Core – A Step By Step Handbook]]></title>
         <id>674de68794b89afe5676934e</id>
@@ -27,16 +57,6 @@ One of Those “Onboarding” UIs, With Anchor Positioning originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dreaming Of Miracles (December 2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/</id>
-        <link href="https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/"/>
-        <updated>2024-11-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Microservices Book – Learn How to Build and Manage Services in the Cloud]]></title>
         <id>67488780f60a357b6cecd459</id>
         <link href="https://www.freecodecamp.org/news/the-microservices-book-build-and-manage-services-in-the-cloud/"/>
@@ -44,16 +64,6 @@ One of Those “Onboarding” UIs, With Anchor Positioning originally published 
         <summary type="html"><![CDATA[In today’s fast-paced tech landscape, microservices have emerged as one of the most efficient ways to architect and manage scalable, flexible, and resilient cloud-based systems. Whether you're working with large-scale applications or building somethi...]]></summary>
         <author>
             <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundle Up And Save On Smashing Books And Workshops]]></title>
-        <id>https://smashingmagazine.com/2024/11/bundle-up-and-save/</id>
-        <link href="https://smashingmagazine.com/2024/11/bundle-up-and-save/"/>
-        <updated>2024-11-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (The Smashing Team)</name>
         </author>
     </entry>
     <entry>
@@ -118,36 +128,6 @@ WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hype Around Signals]]></title>
-        <id>https://smashingmagazine.com/2024/11/the-hype-around-signals/</id>
-        <link href="https://smashingmagazine.com/2024/11/the-hype-around-signals/"/>
-        <updated>2024-11-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS EC2: How to Quickly Host Your Website with User Data Scripts]]></title>
-        <id>67462204c9e1cbc5414b4e0c</id>
-        <link href="https://www.freecodecamp.org/news/aws-ec2-how-to-host-a-website-with-user-data-scripts/"/>
-        <updated>2024-11-26T19:31:16.000Z</updated>
-        <summary type="html"><![CDATA[If you want to practice and improve your web hosting skills, this tutorial is for you. With AWS EC2 and a little magic called user data scripts, you’ll be running a stunning website with a CSS template in no time. And the best part? You don’t need to...]]></summary>
-        <author>
-            <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local AI Development with Ollama Course]]></title>
-        <id>6745ffa3608b32cb4a868bca</id>
-        <link href="https://www.freecodecamp.org/news/local-ai-development-with-ollama-course/"/>
-        <updated>2024-11-26T17:04:35.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is evolving rapidly, and with tools like Ollama, you can bring cutting-edge AI capabilities directly to your local environment. Learning how to harness local large language models (LLMs) can open up a world of opportunities. L...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Follow Up: We Officially Have a CSS Logo!]]></title>
         <id>https://css-tricks.com/?p=382773</id>
         <link href="https://css-tricks.com/follow-up-we-officially-have-a-css-logo/"/>
@@ -156,16 +136,6 @@ WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, whic
 Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Simplify AWS Multi-Account Management with Terraform and GitOps]]></title>
-        <id>6745e19265a8ceed4a65c3eb</id>
-        <link href="https://www.freecodecamp.org/news/simplify-aws-multi-account-management-with-terraform-and-gitops/"/>
-        <updated>2024-11-26T14:56:18.000Z</updated>
-        <summary type="html"><![CDATA[In the past, in the world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment lived in a separate account. This arrange...]]></summary>
-        <author>
-            <name>Nitheesh Poojary</name>
         </author>
     </entry>
     <entry>
@@ -191,16 +161,6 @@ Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why You Should Speak At Events As An Early-Career Professional]]></title>
-        <id>https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/</id>
-        <link href="https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/"/>
-        <updated>2024-11-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victoria Nduka)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?]]></title>
         <id>https://css-tricks.com/?p=382572</id>
         <link href="https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/"/>
@@ -220,26 +180,6 @@ Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? orig
 Complete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry]]></title>
-        <id>https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/</id>
-        <link href="https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/"/>
-        <updated>2024-11-19T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source Meets Design Tooling With Penpot]]></title>
-        <id>https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/</id>
-        <link href="https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/"/>
-        <updated>2024-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let’s explore its newly released Penpot Plugin System. So now, if there’s a functionality missing, you don’t need to jump into the code base straight away; you can create a plugin to achieve what you need. And you can even serve it from localhost!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
         </author>
     </entry>
     <entry>
@@ -276,16 +216,6 @@ The Different (and Modern) Ways to Toggle Content originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alternatives To Typical Technical Illustrations And Data Visualisations]]></title>
-        <id>https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/</id>
-        <link href="https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/"/>
-        <updated>2024-11-08T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Popping Comments With CSS Anchor Positioning and View-Driven Animations]]></title>
         <id>https://css-tricks.com/?p=382247</id>
         <link href="https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/"/>
@@ -305,16 +235,6 @@ Popping Comments With CSS Anchor Positioning and View-Driven Animations original
 Fluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Richard Hubbard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Optimizing Your Lighthouse Score Is Not Enough For A Fast Website]]></title>
-        <id>https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/</id>
-        <link href="https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/"/>
-        <updated>2024-11-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Feeling good with your Lighthouse score of 100%? You should! But you should also know that you’re only looking at part of the performance picture. Learn how Lighthouse scores are measured differently than other tools, the impact that has on measuring performance metrics, and why you need real-user monitoring for a complete picture.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
