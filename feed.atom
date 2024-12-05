@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-04T01:23:24.055Z</id>
+    <id>urn:2024-12-05T01:22:38.553Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-04T01:23:24.055Z</updated>
+    <updated>2024-12-05T01:22:38.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open Source Projects as a Beginner]]></title>
+        <id>6750bb3aa3b6f30029afad23</id>
+        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-as-a-beginner/"/>
+        <updated>2024-12-04T20:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I attended an open-source summit and was struck by an unexpected revelation. During a panel discussion about community contributions, a question was posed to the audience: “How many of you have contributed to an open-source project before?”...]]></summary>
+        <author>
+            <name>Fanny Nyayic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js vs React – Differences and How to Choose the Right One for Your Project]]></title>
+        <id>6750b8d54a1773ff14ce07cd</id>
+        <link href="https://www.freecodecamp.org/news/nextjs-vs-react-differences/"/>
+        <updated>2024-12-04T20:17:25.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, there are many tools, languages, frameworks and open-source packages you have to learn in order to make your job easier and straightforward (though the journey isn’t a straightforward one but you will get there). Some of these tools, ...]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Multilingual Apps with i18n in React]]></title>
+        <id>6750aec5bb4ed9c12f206d7d</id>
+        <link href="https://www.freecodecamp.org/news/build-multilingual-apps-with-i18n-in-react/"/>
+        <updated>2024-12-04T19:34:29.000Z</updated>
+        <summary type="html"><![CDATA[I recently worked on an exciting project that involved creating a website capable of switching between languages to appeal to a broader audience. This made me understand the concept of "localization" better, which typically entails adapting content t...]]></summary>
+        <author>
+            <name>Timilehin Micheal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Code That's Easy to Read – Tips for Developers]]></title>
+        <id>675098030c45d94ee71d4e04</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-code-thats-easy-to-read/"/>
+        <updated>2024-12-04T17:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Programs are meant to be read by humans and only incidentally for computers to execute. - Donald Knuth Have you ever heard that programmers spend more time reading code than writing it? Well, I’ve found that this is often true: as a developer, you’l...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Better Names for Your Variables, Functions, and Classes – With Examples]]></title>
+        <id>6750922cfe6f3f72caf2624a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-better-variable-names/"/>
+        <updated>2024-12-04T17:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Naming is one of the most important and challenging parts of writing clean, maintainable, and scalable code. A well-thought-out variable name, for example, can act as self-documenting code, saving time and effort in understanding the logic. But poorl...]]></summary>
+        <author>
+            <name>Asfak Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Law of Diminishing Returns]]></title>
+        <id>https://css-tricks.com/?p=382846</id>
+        <link href="https://css-tricks.com/the-law-of-diminishing-returns/"/>
+        <updated>2024-12-04T16:20:24.000Z</updated>
+        <summary type="html"><![CDATA[Striking the right balance can be tough. We don’t want cool mama bear's porridge or hot papa's bear porridge, but something right in the middle, like baby bear’s porridge.
+The Law of Diminishing Returns originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Stable Diffusion VAE From Scratch using Pytorch]]></title>
+        <id>67506cfb94f39e7617233d40</id>
+        <link href="https://www.freecodecamp.org/news/build-a-stable-diffusion-vae-from-scratch-using-pytorch/"/>
+        <updated>2024-12-04T14:53:47.000Z</updated>
+        <summary type="html"><![CDATA[We just published a course on the freeCodeCamp.org YouTube channel that will teach you everything you need to know about Variational Autoencoders (VAEs). This course is perfect for anyone looking to dive deep into one of the fundamental concepts behi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Perform Code Reviews in Tech – The Painless Way]]></title>
         <id>674f6a16678426d72d800cd5</id>
@@ -36,6 +107,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bundle Up And Save On Smashing Books And Workshops]]></title>
+        <id>https://smashingmagazine.com/2024/12/bundle-up-and-save/</id>
+        <link href="https://smashingmagazine.com/2024/12/bundle-up-and-save/"/>
+        <updated>2024-12-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (The Smashing Team)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating An Effective Multistep Form For Better User Experience]]></title>
+        <id>https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/</id>
+        <link href="https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/"/>
+        <updated>2024-12-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Create a Minimal API in .NET Core – A Step By Step Handbook]]></title>
         <id>674de68794b89afe5676934e</id>
         <link href="https://www.freecodecamp.org/news/create-a-minimal-api-in-net-core-handbook/"/>
@@ -57,23 +148,13 @@ One of Those “Onboarding” UIs, With Anchor Positioning originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Microservices Book – Learn How to Build and Manage Services in the Cloud]]></title>
-        <id>67488780f60a357b6cecd459</id>
-        <link href="https://www.freecodecamp.org/news/the-microservices-book-build-and-manage-services-in-the-cloud/"/>
-        <updated>2024-11-28T15:08:48.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced tech landscape, microservices have emerged as one of the most efficient ways to architect and manage scalable, flexible, and resilient cloud-based systems. Whether you're working with large-scale applications or building somethi...]]></summary>
+        <title type="html"><![CDATA[Dreaming Of Miracles (December 2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/</id>
+        <link href="https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/"/>
+        <updated>2024-11-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!]]></summary>
         <author>
-            <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Memory Card Game Using React]]></title>
-        <id>674755a7cc41aab7422d5afb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-memory-card-game-using-react/"/>
-        <updated>2024-11-27T17:23:51.000Z</updated>
-        <summary type="html"><![CDATA[Recently, while watching my kid 🧒🏻 playing free memory games on her tablet, I noticed her struggling with an overwhelming number of ads and annoying pop-up banners. This inspired me to build a similar game for her. Since she's currently into anime,...]]></summary>
-        <author>
-            <name>Mihail Gaberov</name>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
     <entry>
@@ -88,43 +169,13 @@ WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Event Driven Architecture by Building a SaaS Application]]></title>
-        <id>674742bddd0689ed5ac84f80</id>
-        <link href="https://www.freecodecamp.org/news/learn-event-driven-architecture-by-building-a-saas-application/"/>
-        <updated>2024-11-27T16:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Building modern, scalable web applications requires mastering the tools and patterns that power dynamic, production-ready platforms. Event-driven architecture is one of these patterns, enabling applications to efficiently handle real-time interaction...]]></summary>
+        <title type="html"><![CDATA[The Hype Around Signals]]></title>
+        <id>https://smashingmagazine.com/2024/11/the-hype-around-signals/</id>
+        <link href="https://smashingmagazine.com/2024/11/the-hype-around-signals/"/>
+        <updated>2024-11-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.]]></summary>
         <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React from Bob Ziroll]]></title>
-        <id>67473fd3641b955d44e3795b</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-2024/"/>
-        <updated>2024-11-27T15:50:43.000Z</updated>
-        <summary type="html"><![CDATA[Learning React can feel challenging at first, especially when you're unsure of how to start or find yourself staring at an empty code editor. But the right course can help you understand the core concepts and help you gain practical experience by bui...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Hackers Use Command Execution to Break Into Systems]]></title>
-        <id>67472c4bfc3f1e96f2028a30</id>
-        <link href="https://www.freecodecamp.org/news/how-hackers-use-command-execution-to-break-into-systems/"/>
-        <updated>2024-11-27T14:27:23.000Z</updated>
-        <summary type="html"><![CDATA[When learning about cybersecurity, you’ll quickly realize that some vulnerabilities are more dangerous than others. One of the most serious ones is called command execution.  Hackers use it to run harmful commands on a system, gain access to sensitiv...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle MongoDB Migrations with ts-migrate-mongoose]]></title>
-        <id>6747274cb7666002fd1cb1a6</id>
-        <link href="https://www.freecodecamp.org/news/handle-mongodb-migrations-with-ts-migrate-mongoose/"/>
-        <updated>2024-11-27T14:06:04.000Z</updated>
-        <summary type="html"><![CDATA[Database migrations are modifications made to a database. These modifications may include changing the schema of a table, updating the data in a set of records, seeding data or deleting a range of records. Database migrations are usually run before a...]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
         </author>
     </entry>
     <entry>
@@ -161,6 +212,16 @@ Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why You Should Speak At Events As An Early-Career Professional]]></title>
+        <id>https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/</id>
+        <link href="https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/"/>
+        <updated>2024-11-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victoria Nduka)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?]]></title>
         <id>https://css-tricks.com/?p=382572</id>
         <link href="https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/"/>
@@ -180,6 +241,26 @@ Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? orig
 Complete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry]]></title>
+        <id>https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/</id>
+        <link href="https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/"/>
+        <updated>2024-11-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source Meets Design Tooling With Penpot]]></title>
+        <id>https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/</id>
+        <link href="https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/"/>
+        <updated>2024-11-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let’s explore its newly released Penpot Plugin System. So now, if there’s a functionality missing, you don’t need to jump into the code base straight away; you can create a plugin to achieve what you need. And you can even serve it from localhost!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
         </author>
     </entry>
     <entry>
@@ -213,6 +294,16 @@ Tim Brown: Flexible Typesetting is now yours, for free originally published on C
 The Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternatives To Typical Technical Illustrations And Data Visualisations]]></title>
+        <id>https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/</id>
+        <link href="https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/"/>
+        <updated>2024-11-08T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
         </author>
     </entry>
     <entry>
