@@ -17,7 +17,7 @@
           "description": "Striking the right balance can be tough. We don’t want cool mama bear's porridge or hot papa's bear porridge, but something right in the middle, like baby bear’s porridge.\nThe Law of Diminishing Returns originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-law-of-diminishing-returns/",
           "publishedOn": "2024-12-04T16:20:24.000Z",
-          "wordCount": 2039,
+          "wordCount": 2077,
           "title": "The Law of Diminishing Returns",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/11/cssstacks.png"
         },
@@ -140,16 +140,6 @@
           "wordCount": 3542,
           "title": "Popping Comments With CSS Anchor Positioning and View-Driven Animations",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/example1.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382107",
-          "author": "Richard Hubbard",
-          "description": "We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.\nFluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fluid-everything-else/",
-          "publishedOn": "2024-11-05T20:49:40.000Z",
-          "wordCount": 4397,
-          "title": "Fluid Everything Else",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/01/water-css.png"
         }
       ]
     },
@@ -179,7 +169,7 @@
           "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
           "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
           "publishedOn": "2024-12-03T10:00:00.000Z",
-          "wordCount": 5237,
+          "wordCount": 5228,
           "title": "Creating An Effective Multistep Form For Better User Experience",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
@@ -194,7 +184,7 @@
           "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
           "publishedOn": "2024-11-30T09:00:00.000Z",
-          "wordCount": 4748,
+          "wordCount": 4633,
           "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
@@ -209,7 +199,7 @@
           "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
           "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
           "publishedOn": "2024-11-27T10:00:00.000Z",
-          "wordCount": 4226,
+          "wordCount": 4220,
           "title": "The Hype Around Signals",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
@@ -224,7 +214,7 @@
           "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
           "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
           "publishedOn": "2024-11-22T09:00:00.000Z",
-          "wordCount": 5818,
+          "wordCount": 5812,
           "title": "Why You Should Speak At Events As An Early-Career Professional",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
@@ -239,7 +229,7 @@
           "description": "Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.",
           "link": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
           "publishedOn": "2024-11-19T09:00:00.000Z",
-          "wordCount": 4304,
+          "wordCount": 4305,
           "title": "AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-transformative-impact-web-design-supercharging-productivity/ai-transformative-impact-web-design-supercharging-productivity.jpg",
@@ -269,7 +259,7 @@
           "description": "Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!",
           "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
           "publishedOn": "2024-11-08T09:00:00.000Z",
-          "wordCount": 3666,
+          "wordCount": 3656,
           "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
@@ -285,6 +275,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6752020830d899211b5bda58",
+          "author": "Alex Tray",
+          "description": "Apps are accessible worldwide. This means anyone from anywhere in the world can download your app.  So, if you want to cater to people everywhere, your app needs to support multiple languages.  Fortunately, Svelte is easy to work with, and it makes l...",
+          "link": "https://www.freecodecamp.org/news/svelte-i18n-and-localization-made-easy/",
+          "publishedOn": "2024-12-05T19:42:00.000Z",
+          "wordCount": 2951,
+          "title": "Svelte i18n and Localization Made Easy",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733421094910/f2f91ab6-0717-4135-9f08-719f041471f6.jpeg"
+        },
+        {
+          "id": "6751e08319cee0c3e45cb876",
+          "author": "Marco Venturi",
+          "description": "Over 40% of the web is powered by WordPress. But this makes this popular CMS an attractive target for hackers. So if you run a WordPress site, you’ll need to make sure it’s secure. And this isn’t just a technical task, but is also a key responsibilit...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-wpscan-to-keep-your-wordpress-site-secure/",
+          "publishedOn": "2024-12-05T17:18:59.000Z",
+          "wordCount": 3728,
+          "title": "How to Use WPScan to Keep Your WordPress Site Secure",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732705985906/49090646-5b75-40f4-ad55-473d723b4237.jpeg"
+        },
+        {
+          "id": "6751d2f856661d3d5a501466",
+          "author": "Prince Onukwili",
+          "description": "Hey everyone! 🌟 If you’re in the tech space, chances are you’ve come across terms like Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment. You’ve probably also heard about automation pipelines, staging environments, pro...",
+          "link": "https://www.freecodecamp.org/news/learn-continuous-integration-delivery-and-deployment/",
+          "publishedOn": "2024-12-05T16:21:12.000Z",
+          "wordCount": 10474,
+          "title": "Learn Continuous Integration, Delivery, and Deployment with GitHub Actions, Docker, and Google Cloud Run",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733170224698/a712aae3-5973-43c7-855a-4299054fe9e7.png"
+        },
+        {
+          "id": "675194a23929bef2d9561a44",
+          "author": "Estefania Cassingena Navone",
+          "description": "Arduino is an open-source electronics platform that allows you to control the physical world through programming. With Arduino, you can read sensor data, control motors, light LEDs, and much more. It's a great way to learn electronics and programming...",
+          "link": "https://www.freecodecamp.org/news/learn-arduino-in-spanish-course-for-beginners/",
+          "publishedOn": "2024-12-05T11:55:14.000Z",
+          "wordCount": 1337,
+          "title": "Learn Arduino in Spanish - Course for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733088215802/7caee798-7552-4b20-ab4f-41cab4cd24c8.png"
+        },
         {
           "id": "6750bb3aa3b6f30029afad23",
           "author": "Fanny Nyayic",
@@ -321,7 +351,7 @@
           "description": "Programs are meant to be read by humans and only incidentally for computers to execute. - Donald Knuth Have you ever heard that programmers spend more time reading code than writing it? Well, I’ve found that this is often true: as a developer, you’l...",
           "link": "https://www.freecodecamp.org/news/how-to-write-code-thats-easy-to-read/",
           "publishedOn": "2024-12-04T17:57:23.000Z",
-          "wordCount": 2437,
+          "wordCount": 2448,
           "title": "How to Write Code That's Easy to Read – Tips for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733334801650/9c73c253-246a-4678-8d65-6679ff7f35f2.png"
         },
@@ -344,46 +374,6 @@
           "wordCount": 1327,
           "title": "Build a Stable Diffusion VAE From Scratch using Pytorch",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733323982008/68d50c5d-0829-4d5c-90d0-c9feeedbd92d.jpeg"
-        },
-        {
-          "id": "674f6a16678426d72d800cd5",
-          "author": "Ankur Tyagi",
-          "description": "Okay, I know you may be skeptical: other guides have promised painless code reviews only to reveal that their solution requires some hyper-specific tech stack or a paid developer tool. I won’t do that to you. This guide provides a straightforward and...",
-          "link": "https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/",
-          "publishedOn": "2024-12-03T20:29:10.000Z",
-          "wordCount": 3187,
-          "title": "How to Perform Code Reviews in Tech – The Painless Way",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733242289474/def1a314-fe64-448b-9236-f66a529e3f13.png"
-        },
-        {
-          "id": "674f49768f5b31d71eee8f9a",
-          "author": "Beau Carnes",
-          "description": "Spreadsheets are important for modern data management, analysis, and organization. Whether you're tracking personal finances, managing a business, or conducting advanced data analysis, spreadsheets offer a versatile platform for countless tasks. Amon...",
-          "link": "https://www.freecodecamp.org/news/learn-google-sheets-course-for-beginners/",
-          "publishedOn": "2024-12-03T18:09:58.000Z",
-          "wordCount": 1309,
-          "title": "Learn Google Sheets – Course for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733249376070/af3b622d-ff58-446a-ae47-b4dcac71cffe.jpeg"
-        },
-        {
-          "id": "674f227adf280a40b7047b7f",
-          "author": "Abhijeet Dave",
-          "description": "In this digital world, it’s important for your applications to have a smooth and secure authentication process. This helps improve user experience and the overall security of your apps. Google Authentication is among the most trusted and convenient w...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-google-auth-in-laravel-apps/",
-          "publishedOn": "2024-12-03T15:23:38.000Z",
-          "wordCount": 2542,
-          "title": "How to Set Up Google Authentication in Laravel Applications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732711351776/931a1ade-e652-4a0b-a16e-925482128fc0.png"
-        },
-        {
-          "id": "674de68794b89afe5676934e",
-          "author": "Isaiah Clifford Opoku",
-          "description": "Minimal APIs are an exciting feature introduced in .NET 6, designed to revolutionize how you create APIs. Imagine building robust APIs with minimal code and zero boilerplate—no more wrestling with controllers, routing, or middleware. That’s what mini...",
-          "link": "https://www.freecodecamp.org/news/create-a-minimal-api-in-net-core-handbook/",
-          "publishedOn": "2024-12-02T16:55:35.000Z",
-          "wordCount": 10605,
-          "title": "How to Create a Minimal API in .NET Core – A Step By Step Handbook",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733158500882/9af04a12-2121-4efd-a66f-00330896e358.png"
         }
       ]
     }
