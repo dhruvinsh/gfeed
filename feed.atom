@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-06T01:21:38.040Z</id>
+    <id>urn:2024-12-07T01:21:18.761Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T01:21:38.040Z</updated>
+    <updated>2024-12-07T01:21:18.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How a breakdancing injury launched a coding empire with Scott Tolinski [Podcast #152]]]></title>
+        <id>675350a6e49bb5519b7b5208</id>
+        <link href="https://www.freecodecamp.org/news/scott-tolinski-syntax-podcast-interview/"/>
+        <updated>2024-12-06T19:29:42.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Scott Tolinski. He's a developer who 14 years ago - after injuring himself breakdancing – decided to create a programming tutorial YouTube channel called LevelUpTuts...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Wrapped 2024]]></title>
+        <id>https://css-tricks.com/?p=382964</id>
+        <link href="https://css-tricks.com/css-wrapped-2024/"/>
+        <updated>2024-12-06T19:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Join the Chrome DevRel team and a skateboarding Chrome Dino on a journey through the latest CSS launched for Chrome and the web platform in 2024, highlighting 17 new features
+That breaks down (approximately) as:
+Components
+Interactions
+Developer experience
+Plus:…
+CSS Wrapped 2024 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowing CSS is Mastery to Frontend Development]]></title>
+        <id>https://css-tricks.com/?p=382956</id>
+        <link href="https://css-tricks.com/knowing-css-is-mastery-to-frontend-development/"/>
+        <updated>2024-12-06T17:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Anselm Hannemann on the intersection between frameworks and learning the basics:
+Nowadays people can write great React and TypeScript code. Most of the time a component library like MUI, Tailwind and others are used for styling. However, nearly no 
+…
+Knowing CSS is Mastery to Frontend Development originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Importance Of Graceful Degradation In Accessible Interface Design]]></title>
+        <id>https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/</id>
+        <link href="https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/"/>
+        <updated>2024-12-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Svelte i18n and Localization Made Easy]]></title>
         <id>6752020830d899211b5bda58</id>
@@ -104,16 +153,6 @@
 The Law of Diminishing Returns originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Stable Diffusion VAE From Scratch using Pytorch]]></title>
-        <id>67506cfb94f39e7617233d40</id>
-        <link href="https://www.freecodecamp.org/news/build-a-stable-diffusion-vae-from-scratch-using-pytorch/"/>
-        <updated>2024-12-04T14:53:47.000Z</updated>
-        <summary type="html"><![CDATA[We just published a course on the freeCodeCamp.org YouTube channel that will teach you everything you need to know about Variational Autoencoders (VAEs). This course is perfect for anyone looking to dive deep into one of the fundamental concepts behi...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -304,17 +343,6 @@ The Different (and Modern) Ways to Toggle Content originally published on CS
         <summary type="html"><![CDATA[Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Thomas Bohm)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popping Comments With CSS Anchor Positioning and View-Driven Animations]]></title>
-        <id>https://css-tricks.com/?p=382247</id>
-        <link href="https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/"/>
-        <updated>2024-11-06T15:31:20.000Z</updated>
-        <summary type="html"><![CDATA[The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …
-Popping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
