@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382893",
+          "author": "Juan Diego Rodríguez",
+          "description": "As awesome as I think it is, CSS Anchor Positioning has a lot of quirks, some of which are the product of its novelty and others due to its unique way of working. Today, I want to bring you yet another Anchor Positioning quirk that has bugged me since I first saw it.\nYet Another Anchor Positioning Quirk originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/yet-another-anchor-positioning-quirk/",
+          "publishedOn": "2024-12-09T16:54:00.000Z",
+          "wordCount": 2949,
+          "title": "Yet Another Anchor Positioning Quirk",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=382964",
           "author": "Geoff Graham",
           "description": "Join the Chrome DevRel team and a skateboarding Chrome Dino on a journey through the latest CSS launched for Chrome and the web platform in 2024, highlighting 17 new features\nThat breaks down (approximately) as:\nComponents\nInteractions\nDeveloper experience\nPlus:…\nCSS Wrapped 2024 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +37,7 @@
           "description": "Anselm Hannemann on the intersection between frameworks and learning the basics:\nNowadays people can write great React and TypeScript code. Most of the time a component library like MUI, Tailwind and others are used for styling. However, nearly no \n…\nKnowing CSS is Mastery to Frontend Development originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/knowing-css-is-mastery-to-frontend-development/",
           "publishedOn": "2024-12-06T17:40:36.000Z",
-          "wordCount": 1959,
+          "wordCount": 1982,
           "title": "Knowing CSS is Mastery to Frontend Development",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/02/css-mind-blown.png"
         },
@@ -149,12 +159,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
+          "author": "hello@smashingmagazine.com (Akshay Gupta)",
+          "description": "SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.",
+          "link": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
+          "publishedOn": "2024-12-09T09:00:00.000Z",
+          "wordCount": 4329,
+          "title": "Mastering SVG Arcs",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
           "author": "hello@smashingmagazine.com (Eleanor Hecks)",
           "description": "Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.",
           "link": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
           "publishedOn": "2024-12-06T09:00:00.000Z",
-          "wordCount": 4356,
+          "wordCount": 4346,
           "title": "The Importance Of Graceful Degradation In Accessible Interface Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg",
@@ -164,27 +189,12 @@
           "imageUrl": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
-          "author": "hello@smashingmagazine.com (The Smashing Team)",
-          "description": "It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!",
-          "link": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
-          "publishedOn": "2024-12-03T12:00:00.000Z",
-          "wordCount": 3704,
-          "title": "Bundle Up And Save On Smashing Books And Workshops",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png"
-        },
-        {
           "id": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
           "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
           "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
           "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
           "publishedOn": "2024-12-03T10:00:00.000Z",
-          "wordCount": 5232,
+          "wordCount": 5226,
           "title": "Creating An Effective Multistep Form For Better User Experience",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
@@ -199,7 +209,7 @@
           "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
           "publishedOn": "2024-11-30T09:00:00.000Z",
-          "wordCount": 4626,
+          "wordCount": 4638,
           "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
@@ -214,7 +224,7 @@
           "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
           "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
           "publishedOn": "2024-11-27T10:00:00.000Z",
-          "wordCount": 4227,
+          "wordCount": 4237,
           "title": "The Hype Around Signals",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
@@ -229,7 +239,7 @@
           "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
           "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
           "publishedOn": "2024-11-22T09:00:00.000Z",
-          "wordCount": 5811,
+          "wordCount": 5806,
           "title": "Why You Should Speak At Events As An Early-Career Professional",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
@@ -244,7 +254,7 @@
           "description": "Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.",
           "link": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
           "publishedOn": "2024-11-19T09:00:00.000Z",
-          "wordCount": 4301,
+          "wordCount": 4314,
           "title": "AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-transformative-impact-web-design-supercharging-productivity/ai-transformative-impact-web-design-supercharging-productivity.jpg",
@@ -267,6 +277,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/open-source-meets-design-tooling-penpot/open-source-meets-design-tooling-penpot.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
+          "author": "hello@smashingmagazine.com (The Smashing Team)",
+          "description": "It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!",
+          "link": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
+          "publishedOn": "2024-11-12T12:00:00.000Z",
+          "wordCount": 3703,
+          "title": "Bundle Up And Save On Smashing Books And Workshops",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png"
         }
       ]
     },
@@ -275,6 +300,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67570d22e8032cfb3def7b4e",
+          "author": "Elabonga Atuo",
+          "description": "In this tutorial, you’ll learn how to build a weather app in R. Really – a weather app, in R? Wait, hear me out. When you think of R, you probably imagine someone wearing chunky thick prescription glasses and devouring a book. You know, a statisticia...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-weather-app-with-r-shiny/",
+          "publishedOn": "2024-12-09T15:30:42.000Z",
+          "wordCount": 4222,
+          "title": "How to Build a Weather App with R Shiny",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733174501446/a177379f-3c32-424a-9fbe-6608310f2ea6.png"
+        },
         {
           "id": "675350a6e49bb5519b7b5208",
           "author": "Quincy Larson",
@@ -364,16 +399,6 @@
           "wordCount": 2448,
           "title": "How to Write Code That's Easy to Read – Tips for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733334801650/9c73c253-246a-4678-8d65-6679ff7f35f2.png"
-        },
-        {
-          "id": "6750922cfe6f3f72caf2624a",
-          "author": "Asfak Ahmed",
-          "description": "Naming is one of the most important and challenging parts of writing clean, maintainable, and scalable code. A well-thought-out variable name, for example, can act as self-documenting code, saving time and effort in understanding the logic. But poorl...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-better-variable-names/",
-          "publishedOn": "2024-12-04T17:32:28.000Z",
-          "wordCount": 2944,
-          "title": "How to Write Better Names for Your Variables, Functions, and Classes – With Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733325693047/f3dff206-f0cf-47b0-9345-991b4d980d71.png"
         }
       ]
     }

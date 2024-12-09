@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-09T04:51:00.602Z</id>
+    <id>urn:2024-12-09T22:20:38.045Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-09T04:51:00.602Z</updated>
+    <updated>2024-12-09T22:20:38.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yet Another Anchor Positioning Quirk]]></title>
+        <id>https://css-tricks.com/?p=382893</id>
+        <link href="https://css-tricks.com/yet-another-anchor-positioning-quirk/"/>
+        <updated>2024-12-09T16:54:00.000Z</updated>
+        <summary type="html"><![CDATA[As awesome as I think it is, CSS Anchor Positioning has a lot of quirks, some of which are the product of its novelty and others due to its unique way of working. Today, I want to bring you yet another Anchor Positioning quirk that has bugged me since I first saw it.
+Yet Another Anchor Positioning Quirk originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Weather App with R Shiny]]></title>
+        <id>67570d22e8032cfb3def7b4e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-weather-app-with-r-shiny/"/>
+        <updated>2024-12-09T15:30:42.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll learn how to build a weather app in R. Really – a weather app, in R? Wait, hear me out. When you think of R, you probably imagine someone wearing chunky thick prescription glasses and devouring a book. You know, a statisticia...]]></summary>
+        <author>
+            <name>Elabonga Atuo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering SVG Arcs]]></title>
+        <id>https://smashingmagazine.com/2024/12/mastering-svg-arcs/</id>
+        <link href="https://smashingmagazine.com/2024/12/mastering-svg-arcs/"/>
+        <updated>2024-12-09T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Akshay Gupta)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a breakdancing injury launched a coding empire with Scott Tolinski [Podcast #152]]]></title>
         <id>675350a6e49bb5519b7b5208</id>
@@ -135,16 +166,6 @@ Knowing CSS is Mastery to Frontend Development originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Write Better Names for Your Variables, Functions, and Classes – With Examples]]></title>
-        <id>6750922cfe6f3f72caf2624a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-better-variable-names/"/>
-        <updated>2024-12-04T17:32:28.000Z</updated>
-        <summary type="html"><![CDATA[Naming is one of the most important and challenging parts of writing clean, maintainable, and scalable code. A well-thought-out variable name, for example, can act as self-documenting code, saving time and effort in understanding the logic. But poorl...]]></summary>
-        <author>
-            <name>Asfak Ahmed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Law of Diminishing Returns]]></title>
         <id>https://css-tricks.com/?p=382846</id>
         <link href="https://css-tricks.com/the-law-of-diminishing-returns/"/>
@@ -153,16 +174,6 @@ Knowing CSS is Mastery to Frontend Development originally published on CSS-Trick
 The Law of Diminishing Returns originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundle Up And Save On Smashing Books And Workshops]]></title>
-        <id>https://smashingmagazine.com/2024/12/bundle-up-and-save/</id>
-        <link href="https://smashingmagazine.com/2024/12/bundle-up-and-save/"/>
-        <updated>2024-12-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (The Smashing Team)</name>
         </author>
     </entry>
     <entry>
@@ -311,6 +322,16 @@ Complete CSS Course originally published on CSS-Tricks, which is part of the Dig
 Anchoreum: A New Game for Learning Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundle Up And Save On Smashing Books And Workshops]]></title>
+        <id>https://smashingmagazine.com/2024/11/bundle-up-and-save/</id>
+        <link href="https://smashingmagazine.com/2024/11/bundle-up-and-save/"/>
+        <updated>2024-11-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (The Smashing Team)</name>
         </author>
     </entry>
     <entry>
