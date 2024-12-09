@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-08T01:28:03.895Z</id>
+    <id>urn:2024-12-09T01:24:36.726Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-08T01:28:03.895Z</updated>
+    <updated>2024-12-09T01:24:36.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -322,17 +322,6 @@ Anchoreum: A New Game for Learning Anchor Positioning originally published on CS
 Tim Brown: Flexible Typesetting is now yours, for free originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Different (and Modern) Ways to Toggle Content]]></title>
-        <id>https://css-tricks.com/?p=382363</id>
-        <link href="https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/"/>
-        <updated>2024-11-08T13:57:09.000Z</updated>
-        <summary type="html"><![CDATA[Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.
-The Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
