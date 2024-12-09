@@ -4,6 +4,7 @@ from typing import TYPE_CHECKING
 
 import httpx
 import yaml
+from opml import OpmlDocument
 from pydantic import BaseModel
 
 if TYPE_CHECKING:
@@ -94,12 +95,22 @@ async def main():
         releases = await asyncio.gather(*tasks)
 
     feed = []
+    feed_opml = OpmlDocument()
     for release in releases:
         if release is not None:
             feed.append({"href": release.atom})
+            feed_opml.add_rss(
+                text=f"Release from {release.name}",
+                xml_url=release.atom,
+                html_url=release.html_url,
+                title=f"Release from {release.name}",
+            )
 
     with open("osmosfeed.yaml", "w") as fp:
         yaml.dump({"sources": feed}, fp)
+
+    with open("feed.opml", "wb") as fp:
+        feed_opml.dump(fp)
 
 
 if __name__ == "__main__":
