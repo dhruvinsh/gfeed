@@ -22,6 +22,7 @@ class StarredRepo(BaseModel):
 class ReleaseData(BaseModel):
     """Data store for release information and rss feed."""
 
+    full_name: str
     name: str
     html_url: str
     tag_name: str
@@ -64,6 +65,7 @@ async def latest_release(
 
     try:
         release = ReleaseData(
+            full_name=repo.full_name,
             name=data["name"] or repo.full_name,
             html_url=data["html_url"],
             tag_name=data["tag_name"],
@@ -100,10 +102,10 @@ async def main():
         if release is not None:
             feed.append({"href": release.atom})
             feed_opml.add_rss(
-                text=f"Release from {release.name}",
+                text=f"Release from {release.full_name}",
                 xml_url=release.atom,
                 html_url=release.html_url,
-                title=f"Release from {release.name}",
+                title=f"Release from {release.full_name}",
             )
 
     with open("osmosfeed.yaml", "w") as fp:
