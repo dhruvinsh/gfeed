@@ -1,3 +1,4 @@
+import argparse
 import asyncio
 import os
 from typing import TYPE_CHECKING
@@ -78,7 +79,7 @@ async def latest_release(
     return release
 
 
-async def main():
+async def main(osmos: bool, opml: bool):
     token = os.environ.get("GITHUB_TOKEN")
     if token is None:
         raise ValueError("Please set GITHUB_TOKEN environment variable")
@@ -108,12 +109,20 @@ async def main():
                 title=f"Release from {release.full_name}",
             )
 
-    with open("osmosfeed.yaml", "w") as fp:
-        yaml.dump({"sources": feed}, fp)
+    if osmos:
+        with open("osmosfeed.yaml", "w") as fp:
+            yaml.dump({"sources": feed}, fp)
 
-    with open("feed.opml", "wb") as fp:
-        feed_opml.dump(fp)
+    if opml:
+        with open("feed.opml", "wb") as fp:
+            feed_opml.dump(fp, pretty=True)
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    parser = argparse.ArgumentParser()
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--osmos", action="store_true")
+    group.add_argument("--opml", action="store_true")
+
+    args = parser.parse_args()
+    asyncio.run(main(args.osmos, args.opml))
