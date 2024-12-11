@@ -1,6 +1,7 @@
 name: "Python Builder"
 run-name: Running build by ${{ github.actor }}
 on:
+  workflow_dispatch:
   push:
     tags:
       - v*
