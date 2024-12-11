@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-11T01:22:24.645Z</id>
+    <id>urn:2024-12-11T20:13:06.949Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T01:22:24.645Z</updated>
+    <updated>2024-12-11T20:13:06.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines]]></title>
+        <id>https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/</id>
+        <link href="https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/"/>
+        <updated>2024-12-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mariana Beldi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Django's MVT Architecture Works: A Deep Dive into Models, Views, and Templates]]></title>
+        <id>6758c1285b5802ad4fa00d45</id>
+        <link href="https://www.freecodecamp.org/news/how-django-mvt-architecture-works/"/>
+        <updated>2024-12-10T22:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Django is a high-level Python framework. It’s popular for its simplicity and efficiency in building robust web applications. At the heart of Django’s architecture is the Model-View-Template (MVT) pattern. Having a good understanding of how Models, Vi...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry]]></title>
         <id>https://css-tricks.com/?p=382974</id>
@@ -179,16 +199,6 @@ Knowing CSS is Mastery to Frontend Development originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Write Code That's Easy to Read – Tips for Developers]]></title>
-        <id>675098030c45d94ee71d4e04</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-code-thats-easy-to-read/"/>
-        <updated>2024-12-04T17:57:23.000Z</updated>
-        <summary type="html"><![CDATA[Programs are meant to be read by humans and only incidentally for computers to execute. - Donald Knuth Have you ever heard that programmers spend more time reading code than writing it? Well, I’ve found that this is often true: as a developer, you’l...]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Law of Diminishing Returns]]></title>
         <id>https://css-tricks.com/?p=382846</id>
         <link href="https://css-tricks.com/the-law-of-diminishing-returns/"/>
@@ -355,17 +365,6 @@ Anchoreum: A New Game for Learning Anchor Positioning originally published on CS
         <summary type="html"><![CDATA[It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (The Smashing Team)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tim Brown: Flexible Typesetting is now yours, for free]]></title>
-        <id>https://css-tricks.com/?p=382456</id>
-        <link href="https://css-tricks.com/tim-brown-flexible-typesetting-is-now-yours-for-free/"/>
-        <updated>2024-11-11T14:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Another title from A Book Apart has been re-released for free. The latest? Tim Brown's Flexible Typesetting. I may not be the utmost expert on typography and its best practices but I do remember reading this book (it's still on the shelf next to me!) thinking maybe, just maybe, I might be able to hold a conversation about it with Robin when I finished it.
-Tim Brown: Flexible Typesetting is now yours, for free originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
