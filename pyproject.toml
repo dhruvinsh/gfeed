@@ -11,3 +11,8 @@ dependencies = [
     "pyopml>=1.0.0",
     "pyyaml>=6.0.2",
 ]
+
+[dependency-groups]
+dev = [
+    "pyinstaller>=6.11.1",
+]
