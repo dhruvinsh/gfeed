@@ -8,11 +8,17 @@ on:
 
 jobs:
   build:
+    runs-on: ${{ matrix.os }}
+
     strategy:
       matrix:
-        os: ["ubuntu-latest"]
-
-    runs-on: ${{ matrix.os }}
+        include:
+          - os: macos-latest
+            name: darwin
+          - os: ubuntu-latest
+            name: linux
+          - os: windows-latest
+            name: win
 
     steps:
       - name: Checkout repository
@@ -31,8 +37,8 @@ jobs:
       - name: Install the project
         run: uv sync --all-extras --dev
 
-      - name: Build package with pyinstaller on ${{ matrix.TARGET }}
-        run: uv run pyinstaller --onefile gfeed.py
+      - name: Build package with pyinstaller on ${{ matrix.os }}
+        run: uv run pyinstaller --onefile gfeed.py --name gfeed-${{matrix.name}}
 
       - name: Upload package
         uses: actions/upload-artifact@v4
