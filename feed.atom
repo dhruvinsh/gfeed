@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-11T20:18:15.456Z</id>
+    <id>urn:2024-12-12T01:22:01.869Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T20:18:15.456Z</updated>
+    <updated>2024-12-12T01:22:01.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fluid Superscripts and Subscripts]]></title>
+        <id>https://css-tricks.com/?p=382867</id>
+        <link href="https://css-tricks.com/fluid-superscripts-and-subscripts/"/>
+        <updated>2024-12-11T20:23:46.000Z</updated>
+        <summary type="html"><![CDATA[How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling.
+Fluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lorenz Wöehr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Video Subtitle Generator using the Gemini API]]></title>
+        <id>6759af8bb972ec12da4879d3</id>
+        <link href="https://www.freecodecamp.org/news/build-a-video-subtitle-generator-using-the-gemini-api/"/>
+        <updated>2024-12-11T15:28:11.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll build an AI-powered subtitle generator using Google's Gemini API. We'll create a project called “AI-Subtitle-Generator” using React for the front end and Express for the back end. Get ready for a fun and practical project. Ta...]]></summary>
+        <author>
+            <name>Sanjay R</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines]]></title>
         <id>https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/</id>
@@ -189,16 +210,6 @@ Knowing CSS is Mastery to Frontend Development originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build Multilingual Apps with i18n in React]]></title>
-        <id>6750aec5bb4ed9c12f206d7d</id>
-        <link href="https://www.freecodecamp.org/news/build-multilingual-apps-with-i18n-in-react/"/>
-        <updated>2024-12-04T19:34:29.000Z</updated>
-        <summary type="html"><![CDATA[I recently worked on an exciting project that involved creating a website capable of switching between languages to appeal to a broader audience. This made me understand the concept of "localization" better, which typically entails adapting content t...]]></summary>
-        <author>
-            <name>Ayantunji Timilehin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Law of Diminishing Returns]]></title>
         <id>https://css-tricks.com/?p=382846</id>
         <link href="https://css-tricks.com/the-law-of-diminishing-returns/"/>
@@ -355,16 +366,6 @@ Complete CSS Course originally published on CSS-Tricks, which is part of the Dig
 Anchoreum: A New Game for Learning Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundle Up And Save On Smashing Books And Workshops]]></title>
-        <id>https://smashingmagazine.com/2024/11/bundle-up-and-save/</id>
-        <link href="https://smashingmagazine.com/2024/11/bundle-up-and-save/"/>
-        <updated>2024-11-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (The Smashing Team)</name>
         </author>
     </entry>
 </feed>
