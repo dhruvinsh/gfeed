@@ -1,6 +1,6 @@
 build
 dist
-gfeed.spec
+*.spec
 feed.opml
 public
 node_modules
