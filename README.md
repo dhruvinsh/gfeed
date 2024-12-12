@@ -1,10 +1,17 @@
-# About
+# Gfeed
 
-This is repository hosts the UI and content of an RSS feed reader.
+Convert your GitHub star repositories to RSS feed (opml).
 
-## Links and references
+## Usage
 
-- [How does it work?](https://github.com/osmoscraft/osmosfeed#osmosfeed)
-- [File an issue about the template](https://github.com/osmoscraft/osmosfeed-template)
-- [File an issue about the tool](https://github.com/osmoscraft/osmosfeed)
-- [Lastest documentation](https://github.com/osmoscraft/osmosfeed)
+Binary files are available in the release page.
+
+```bash
+usage: gfeed.py [-h] (--osmos | --opml) [--debug]
+
+options:
+  -h, --help  show this help message and exit
+  --osmos     Export github star repo(s) for osmosfeed.
+  --opml      Export github star repo(s) for RSS application as opml file.
+  --debug     More verbose output.
+```
