@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-12T01:22:01.869Z</id>
+    <id>urn:2024-12-12T18:13:33.209Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T01:22:01.869Z</updated>
+    <updated>2024-12-12T18:13:33.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Elasticsearch with a Comprehensive Beginner-Friendly Course]]></title>
+        <id>675afe6e7c306f8d973e7281</id>
+        <link href="https://www.freecodecamp.org/news/learn-elasticsearch-with-a-comprehensive-beginner-friendly-course/"/>
+        <updated>2024-12-12T15:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Search functionality is one of the most critical features of modern applications, whether you're building websites, e-commerce platforms, or data-driven applications. But how do you create powerful and efficient search engines that can handle vast am...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How Math Can Make Your Code Better By Coding Polyrhythms]]></title>
+        <id>675afc0f15e89abb3b1a11dd</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-math-can-make-your-code-better-by-coding-polyrhythms/"/>
+        <updated>2024-12-12T15:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Are you someone who’s wondered if math really matters when writing code? Or perhaps you've struggled to keep your code clean and understandable while working on fun projects? This course might just change your perspective! Understanding math concepts...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fluid Superscripts and Subscripts]]></title>
         <id>https://css-tricks.com/?p=382867</id>
@@ -13,7 +33,7 @@
         <summary type="html"><![CDATA[How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling.
 Fluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Lorenz Wöehr</name>
+            <name>Lorenz Woehr</name>
         </author>
     </entry>
     <entry>
@@ -190,26 +210,6 @@ Knowing CSS is Mastery to Frontend Development originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Contribute to Open Source Projects as a Beginner]]></title>
-        <id>6750bb3aa3b6f30029afad23</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-as-a-beginner/"/>
-        <updated>2024-12-04T20:27:38.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I attended an open-source summit and was struck by an unexpected revelation. During a panel discussion about community contributions, a question was posed to the audience: “How many of you have contributed to an open-source project before?”...]]></summary>
-        <author>
-            <name>Fanny Nyayic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js vs React – Differences and How to Choose the Right One for Your Project]]></title>
-        <id>6750b8d54a1773ff14ce07cd</id>
-        <link href="https://www.freecodecamp.org/news/nextjs-vs-react-differences/"/>
-        <updated>2024-12-04T20:17:25.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, there are many tools, languages, frameworks and open-source packages you have to learn in order to make your job easier and straightforward (though the journey isn’t a straightforward one but you will get there). Some of these tools, ...]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Law of Diminishing Returns]]></title>
         <id>https://css-tricks.com/?p=382846</id>
         <link href="https://css-tricks.com/the-law-of-diminishing-returns/"/>
@@ -355,17 +355,6 @@ Complete CSS Course originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let’s explore its newly released Penpot Plugin System. So now, if there’s a functionality missing, you don’t need to jump into the code base straight away; you can create a plugin to achieve what you need. And you can even serve it from localhost!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anchoreum: A New Game for Learning Anchor Positioning]]></title>
-        <id>https://css-tricks.com/?p=382469</id>
-        <link href="https://css-tricks.com/anchoreum-a-new-game-for-learning-anchor-positioning/"/>
-        <updated>2024-11-12T14:56:22.000Z</updated>
-        <summary type="html"><![CDATA[You've played Flexbox Froggy before, right? Or maybe Grid Garden? They're both absolute musts for learning the basics of modern CSS layout using Flexbox and CSS Grid. Thomas Park made those and he's back with another game: Anchoreum.
-Anchoreum: A New Game for Learning Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
