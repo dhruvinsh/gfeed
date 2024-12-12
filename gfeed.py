@@ -144,9 +144,17 @@ async def main(osmos: bool, opml: bool):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument("--osmos", action="store_true")
-    group.add_argument("--opml", action="store_true")
-    parser.add_argument("--debug", action="store_true", default=False)
+    group.add_argument(
+        "--osmos", action="store_true", help="Export github star repo(s) for osmosfeed."
+    )
+    group.add_argument(
+        "--opml",
+        action="store_true",
+        help="Export github star repo(s) for RSS application as opml file.",
+    )
+    parser.add_argument(
+        "--debug", action="store_true", default=False, help="More verbose output."
+    )
 
     args = parser.parse_args()
 
