@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-12T19:36:33.884Z</id>
+    <id>urn:2024-12-12T21:06:36.278Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T19:36:33.884Z</updated>
+    <updated>2024-12-12T21:06:36.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Send Email Templates Using React Email and Resend in Next.js]]></title>
+        <id>675b1981cc99415a548dbe6c</id>
+        <link href="https://www.freecodecamp.org/news/create-and-send-email-templates-using-react-email-and-resend-in-nextjs/"/>
+        <updated>2024-12-12T17:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Modern software applications often rely on email communication to engage with users. They may send authentication codes during sign in attempts, marketing emails, or newsletters, for example. This means that email notifications are typically the most...]]></summary>
+        <author>
+            <name>David Asaolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Simple Web Application Security Scanner with Python: A Beginner's Guide]]></title>
+        <id>675b035a23cb72fd28dab52d</id>
+        <link href="https://www.freecodecamp.org/news/build-a-web-application-security-scanner-with-python/"/>
+        <updated>2024-12-12T15:38:02.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you are going to learn to create a basic security tool that can be helpful in identifying common vulnerabilities in web applications. I have two goals here. The first is to empower you with the skills to develop tools that can help e...]]></summary>
+        <author>
+            <name>Chaitanya Rahalkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Elasticsearch with a Comprehensive Beginner-Friendly Course]]></title>
         <id>675afe6e7c306f8d973e7281</id>
@@ -187,26 +207,6 @@ Knowing CSS is Mastery to Frontend Development originally published on CSS-Trick
         <summary type="html"><![CDATA[Over 40% of the web is powered by WordPress. But this makes this popular CMS an attractive target for hackers. So if you run a WordPress site, you’ll need to make sure it’s secure. And this isn’t just a technical task, but is also a key responsibilit...]]></summary>
         <author>
             <name>Marco Venturi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Continuous Integration, Delivery, and Deployment with GitHub Actions, Docker, and Google Cloud Run]]></title>
-        <id>6751d2f856661d3d5a501466</id>
-        <link href="https://www.freecodecamp.org/news/learn-continuous-integration-delivery-and-deployment/"/>
-        <updated>2024-12-05T16:21:12.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! 🌟 If you’re in the tech space, chances are you’ve come across terms like Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment. You’ve probably also heard about automation pipelines, staging environments, pro...]]></summary>
-        <author>
-            <name>Prince Onukwili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Arduino in Spanish - Course for Beginners]]></title>
-        <id>675194a23929bef2d9561a44</id>
-        <link href="https://www.freecodecamp.org/news/learn-arduino-in-spanish-course-for-beginners/"/>
-        <updated>2024-12-05T11:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Arduino is an open-source electronics platform that allows you to control the physical world through programming. With Arduino, you can read sensor data, control motors, light LEDs, and much more. It's a great way to learn electronics and programming...]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
         </author>
     </entry>
     <entry>
