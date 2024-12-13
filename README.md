@@ -15,3 +15,8 @@ options:
   --opml      Export github star repo(s) for RSS application as opml file.
   --debug     More verbose output.
 ```
+
+> [!IMPORTANT]
+> It is possible that windows system might flag executable binary as virus, but it is not. It just an outcome of `pyinstaller` binary.
+
+![virus](./assets/virus.png)
