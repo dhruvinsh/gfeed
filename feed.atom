@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-13T06:54:46.850Z</id>
+    <id>urn:2024-12-14T01:20:06.091Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-13T06:54:46.850Z</updated>
+    <updated>2024-12-14T01:20:06.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -345,16 +345,6 @@ Complete CSS Course originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source Meets Design Tooling With Penpot]]></title>
-        <id>https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/</id>
-        <link href="https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/"/>
-        <updated>2024-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let’s explore its newly released Penpot Plugin System. So now, if there’s a functionality missing, you don’t need to jump into the code base straight away; you can create a plugin to achieve what you need. And you can even serve it from localhost!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
         </author>
     </entry>
 </feed>
