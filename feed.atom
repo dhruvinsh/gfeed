@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-15T01:27:59.978Z</id>
+    <id>urn:2024-12-16T01:25:05.816Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-15T01:27:59.978Z</updated>
+    <updated>2024-12-16T01:25:05.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]]]></title>
+        <id>675ca1db0e7ab2ab9bd66a40</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-developer-job-even-in-this-economy-james-q-quick-podcast-153/"/>
+        <updated>2024-12-13T21:06:35.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews James Q Quick. He's a developer, speaker, and teacher. James grew up in Memphis. He was an athlete who played violin, and knew nothing about computer science but cho...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create and Send Email Templates Using React Email and Resend in Next.js]]></title>
         <id>675b1981cc99415a548dbe6c</id>
@@ -197,16 +207,6 @@ Knowing CSS is Mastery to Frontend Development originally published on CSS-Trick
         <summary type="html"><![CDATA[Apps are accessible worldwide. This means anyone from anywhere in the world can download your app.  So, if you want to cater to people everywhere, your app needs to support multiple languages.  Fortunately, Svelte is easy to work with, and it makes l...]]></summary>
         <author>
             <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use WPScan to Keep Your WordPress Site Secure]]></title>
-        <id>6751e08319cee0c3e45cb876</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-wpscan-to-keep-your-wordpress-site-secure/"/>
-        <updated>2024-12-05T17:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Over 40% of the web is powered by WordPress. But this makes this popular CMS an attractive target for hackers. So if you run a WordPress site, you’ll need to make sure it’s secure. And this isn’t just a technical task, but is also a key responsibilit...]]></summary>
-        <author>
-            <name>Marco Venturi</name>
         </author>
     </entry>
     <entry>
