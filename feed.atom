@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-16T01:25:05.816Z</id>
+    <id>urn:2024-12-17T01:22:16.538Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-16T01:25:05.816Z</updated>
+    <updated>2024-12-17T01:22:16.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Write User Stories for Beginners: Agile in Practice]]></title>
+        <id>676081a802767316a74098de</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/"/>
+        <updated>2024-12-16T19:38:16.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll learn about an important part of the Agile approach to software development: user stories. I’ll take you through what user stories are, common pitfalls that I’ve seen with creating user stories, and the frameworks that exist ...]]></summary>
+        <author>
+            <name>Ben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Reusable Keyboard Shortcut Listener Component in React]]></title>
+        <id>67606d5e81f45e690a86fe00</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-reusable-keyboard-shortcut-listener-component-in-react/"/>
+        <updated>2024-12-16T18:11:42.000Z</updated>
+        <summary type="html"><![CDATA[If you’re like me and you loveeeeee shortcuts, you know how satisfying it is to press a few keys and watch the magic happen. Whether it’s the familiar Ctrl+C – Ctrl+V that devs use to “borrow code” 😉 from LLMs and code pages, or the personalised sho...]]></summary>
+        <author>
+            <name>David Jaja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Branch-Specific Netlify Configurations with a Bash Script: A Step-by-Step Guide]]></title>
+        <id>6760688b00f110abd3d0f655</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-branch-specific-netlify-configurations-with-a-bash-script/"/>
+        <updated>2024-12-16T17:51:07.000Z</updated>
+        <summary type="html"><![CDATA[When you’re working on a project with multiple environments – like staging and production – for your backend APIs and frontend deployments, you’ll want to make sure you have the correct configuration and commands for each branch in your repository. T...]]></summary>
+        <author>
+            <name>Francis Ihejirika</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]]]></title>
         <id>675ca1db0e7ab2ab9bd66a40</id>
@@ -131,16 +161,6 @@ Yet Another Anchor Positioning Quirk originally published on CSS-Tricks, which i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Weather App with R Shiny]]></title>
-        <id>67570d22e8032cfb3def7b4e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-weather-app-with-r-shiny/"/>
-        <updated>2024-12-09T15:30:42.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll learn how to build a weather app in R. Really – a weather app, in R? Wait, hear me out. When you think of R, you probably imagine someone wearing chunky thick prescription glasses and devouring a book. You know, a statisticia...]]></summary>
-        <author>
-            <name>Elabonga Atuo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mastering SVG Arcs]]></title>
         <id>https://smashingmagazine.com/2024/12/mastering-svg-arcs/</id>
         <link href="https://smashingmagazine.com/2024/12/mastering-svg-arcs/"/>
@@ -148,16 +168,6 @@ Yet Another Anchor Positioning Quirk originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Akshay Gupta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a breakdancing injury launched a coding empire with Scott Tolinski [Podcast #152]]]></title>
-        <id>675350a6e49bb5519b7b5208</id>
-        <link href="https://www.freecodecamp.org/news/scott-tolinski-syntax-podcast-interview/"/>
-        <updated>2024-12-06T19:29:42.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Scott Tolinski. He's a developer who 14 years ago - after injuring himself breakdancing – decided to create a programming tutorial YouTube channel called LevelUpTuts...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -197,16 +207,6 @@ Knowing CSS is Mastery to Frontend Development originally published on CSS-Trick
         <summary type="html"><![CDATA[Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelte i18n and Localization Made Easy]]></title>
-        <id>6752020830d899211b5bda58</id>
-        <link href="https://www.freecodecamp.org/news/svelte-i18n-and-localization-made-easy/"/>
-        <updated>2024-12-05T19:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Apps are accessible worldwide. This means anyone from anywhere in the world can download your app.  So, if you want to cater to people everywhere, your app needs to support multiple languages.  Fortunately, Svelte is easy to work with, and it makes l...]]></summary>
-        <author>
-            <name>Alex Tray</name>
         </author>
     </entry>
     <entry>
