@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-17T01:22:16.538Z</id>
+    <id>urn:2024-12-18T01:19:14.710Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T01:22:16.538Z</updated>
+    <updated>2024-12-18T01:19:14.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What ELSE is on your CSS wishlist?]]></title>
+        <id>https://css-tricks.com/?p=383250</id>
+        <link href="https://css-tricks.com/what-else-is-on-your-css-wishlist/"/>
+        <updated>2024-12-17T20:07:30.000Z</updated>
+        <summary type="html"><![CDATA[What else do we want or need CSS to do? Chris kept a CSS wishlist, going back as far as 2013 and following back up on it in 2019. We all have things we'd like to see CSS do and we always will no matter how many sparkly new features we get. We'll round things up and put a list together — so let us know!
+What ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Approaches To Amplify Your Design Projects]]></title>
+        <id>https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/</id>
+        <link href="https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/"/>
+        <updated>2024-12-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Olivia De Alba)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write User Stories for Beginners: Agile in Practice]]></title>
         <id>676081a802767316a74098de</id>
