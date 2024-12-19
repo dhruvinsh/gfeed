@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-18T01:19:14.710Z</id>
+    <id>urn:2024-12-19T01:19:58.465Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T01:19:14.710Z</updated>
+    <updated>2024-12-19T01:19:58.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What to Do If You Don't Get into Outreachy: Exploring Other Paths to Open Source]]></title>
+        <id>676307732bca88a1f50e3b28</id>
+        <link href="https://www.freecodecamp.org/news/what-to-do-if-you-dont-get-into-outreachy/"/>
+        <updated>2024-12-18T17:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Did you apply to Outreachy and receive a “Your Initial Application Was Not Successful” email? Or maybe you got into the contribution stage but after a rigorous month of contribution, you were not selected as an intern. How disheartening that can be! ...]]></summary>
+        <author>
+            <name>Victoria Nduka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Multi-Step Forms With Vanilla JavaScript and CSS]]></title>
+        <id>https://css-tricks.com/?p=382857</id>
+        <link href="https://css-tricks.com/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/"/>
+        <updated>2024-12-18T15:03:22.000Z</updated>
+        <summary type="html"><![CDATA[When was the last time you developed a multi-step form? There’s so much to think about and so many moving pieces that need to be managed. But doing it by hand can be a good exercise and a great way to polish the basics. Fatuma Abdullaho walks you through her first multi-step form using vanilla HTML, CSS, and JavaScript.
+How to Create Multi-Step Forms With Vanilla JavaScript and CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Fatuma Abdullaho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What ELSE is on your CSS wishlist?]]></title>
         <id>https://css-tricks.com/?p=383250</id>
@@ -135,16 +156,6 @@ Fluid Superscripts and Subscripts originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mariana Beldi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Django's MVT Architecture Works: A Deep Dive into Models, Views, and Templates]]></title>
-        <id>6758c1285b5802ad4fa00d45</id>
-        <link href="https://www.freecodecamp.org/news/how-django-mvt-architecture-works/"/>
-        <updated>2024-12-10T22:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Django is a high-level Python framework. It’s popular for its simplicity and efficiency in building robust web applications. At the heart of Django’s architecture is the Model-View-Template (MVT) pattern. Having a good understanding of how Models, Vi...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
         </author>
     </entry>
     <entry>
@@ -345,27 +356,6 @@ Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part o
 Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete CSS Course]]></title>
-        <id>https://css-tricks.com/?p=382566</id>
-        <link href="https://css-tricks.com/complete-css-course/"/>
-        <updated>2024-11-19T14:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Do you subscribe to Piccalilli? You should. If you're reading that name for the first time, that would be none other than Andy Bell running the ship and he's reimagined the site from the ground-up after coming out of hibernation this year. You're likely familiar with Andy's great writing here on CSS-Tricks.
-Complete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry]]></title>
-        <id>https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/</id>
-        <link href="https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/"/>
-        <updated>2024-11-19T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
