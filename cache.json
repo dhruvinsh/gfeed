@@ -17,7 +17,7 @@
           "description": "When was the last time you developed a multi-step form? There’s so much to think about and so many moving pieces that need to be managed. But doing it by hand can be a good exercise and a great way to polish the basics. Fatuma Abdullaho walks you through her first multi-step form using vanilla HTML, CSS, and JavaScript.\nHow to Create Multi-Step Forms With Vanilla JavaScript and CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/",
           "publishedOn": "2024-12-18T15:03:22.000Z",
-          "wordCount": 4758,
+          "wordCount": 4753,
           "title": "How to Create Multi-Step Forms With Vanilla JavaScript and CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382857"
         },
@@ -27,7 +27,7 @@
           "description": "What else do we want or need CSS to do? Chris kept a CSS wishlist, going back as far as 2013 and following back up on it in 2019. We all have things we'd like to see CSS do and we always will no matter how many sparkly new features we get. We'll round things up and put a list together — so let us know!\nWhat ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/what-else-is-on-your-css-wishlist/",
           "publishedOn": "2024-12-17T20:07:30.000Z",
-          "wordCount": 2827,
+          "wordCount": 2869,
           "title": "What ELSE is on your CSS wishlist?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383250"
         },
@@ -37,7 +37,7 @@
           "description": "How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling.\nFluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fluid-superscripts-and-subscripts/",
           "publishedOn": "2024-12-11T20:23:46.000Z",
-          "wordCount": 2575,
+          "wordCount": 2570,
           "title": "Fluid Superscripts and Subscripts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382867"
         },
@@ -47,7 +47,7 @@
           "description": "The CSSWG met to try and finally squash a debate that has been going on for five years: whether Masonry should be a part of Grid or a separate system. We've got coverage of both presentations for ya.\nCSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/csswg-minutes-telecon-2024-12-04-just-use-grid-vs-display-masonry/",
           "publishedOn": "2024-12-10T16:27:32.000Z",
-          "wordCount": 3823,
+          "wordCount": 3818,
           "title": "CSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382974"
         },
@@ -57,7 +57,7 @@
           "description": "I had the pleasure of hosting a recent Smashing Magazine workshop on product design, subbing for Vitaly Friedman who usually runs these things.\nWhat? A front-ender interviewing really smart people about their processes for user research, documenting requirements, and …\nSmashing Meets Product Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/smashing-meets-product-design/",
           "publishedOn": "2024-12-10T16:00:24.000Z",
-          "wordCount": 1912,
+          "wordCount": 1907,
           "title": "Smashing Meets Product Design",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383028"
         },
@@ -67,7 +67,7 @@
           "description": "As awesome as I think it is, CSS Anchor Positioning has a lot of quirks, some of which are the product of its novelty and others due to its unique way of working. Today, I want to bring you yet another Anchor Positioning quirk that has bugged me since I first saw it.\nYet Another Anchor Positioning Quirk originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/yet-another-anchor-positioning-quirk/",
           "publishedOn": "2024-12-09T16:54:00.000Z",
-          "wordCount": 2805,
+          "wordCount": 2800,
           "title": "Yet Another Anchor Positioning Quirk",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382893"
         },
@@ -77,7 +77,7 @@
           "description": "Join the Chrome DevRel team and a skateboarding Chrome Dino on a journey through the latest CSS launched for Chrome and the web platform in 2024, highlighting 17 new features\nThat breaks down (approximately) as:\nComponents\nInteractions\nDeveloper experience\nPlus:…\nCSS Wrapped 2024 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-wrapped-2024/",
           "publishedOn": "2024-12-06T19:22:38.000Z",
-          "wordCount": 1684,
+          "wordCount": 1679,
           "title": "CSS Wrapped 2024",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382964"
         },
@@ -87,7 +87,7 @@
           "description": "Anselm Hannemann on the intersection between frameworks and learning the basics:\nNowadays people can write great React and TypeScript code. Most of the time a component library like MUI, Tailwind and others are used for styling. However, nearly no \n…\nKnowing CSS is Mastery to Frontend Development originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/knowing-css-is-mastery-to-frontend-development/",
           "publishedOn": "2024-12-06T17:40:36.000Z",
-          "wordCount": 1838,
+          "wordCount": 1833,
           "title": "Knowing CSS is Mastery to Frontend Development",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382956"
         },
@@ -97,7 +97,7 @@
           "description": "Striking the right balance can be tough. We don’t want cool mama bear's porridge or hot papa's bear porridge, but something right in the middle, like baby bear’s porridge.\nThe Law of Diminishing Returns originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-law-of-diminishing-returns/",
           "publishedOn": "2024-12-04T16:20:24.000Z",
-          "wordCount": 1946,
+          "wordCount": 1941,
           "title": "The Law of Diminishing Returns",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382846"
         },
@@ -107,7 +107,7 @@
           "description": "We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.\nOne of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/",
           "publishedOn": "2024-12-02T14:02:13.000Z",
-          "wordCount": 4891,
+          "wordCount": 4886,
           "title": "One of Those “Onboarding” UIs, With Anchor Positioning",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/11/anchor-view-driven-animation.mov",
@@ -122,7 +122,7 @@
           "description": "What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.\nWordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/wordpress-multi-multisite-a-case-study/",
           "publishedOn": "2024-11-27T16:09:14.000Z",
-          "wordCount": 5746,
+          "wordCount": 5741,
           "title": "WordPress Multi-Multisite: A Case Study",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/11/2b6LXlN.mp4",
@@ -137,7 +137,7 @@
           "description": "Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!\nFollow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/follow-up-we-officially-have-a-css-logo/",
           "publishedOn": "2024-11-26T15:53:39.000Z",
-          "wordCount": 1740,
+          "wordCount": 1735,
           "title": "Follow Up: We Officially Have a CSS Logo!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382773"
         },
@@ -147,7 +147,7 @@
           "description": "Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.\nAlt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/alt-text-not-always-needed/",
           "publishedOn": "2024-11-25T15:23:39.000Z",
-          "wordCount": 4151,
+          "wordCount": 4146,
           "title": "Alt Text: Not Always Needed",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382593"
         },
@@ -157,7 +157,7 @@
           "description": "Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.\nSolved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/solved-by-css-donuts-scopes/",
           "publishedOn": "2024-11-22T13:50:55.000Z",
-          "wordCount": 3102,
+          "wordCount": 3097,
           "title": "Solved by CSS: Donuts Scopes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382613"
         },
@@ -167,7 +167,7 @@
           "description": "Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.\nInvoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/",
           "publishedOn": "2024-11-20T15:12:34.000Z",
-          "wordCount": 3290,
+          "wordCount": 3285,
           "title": "Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382572"
         }
@@ -184,7 +184,7 @@
           "description": "There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.",
           "link": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
           "publishedOn": "2024-12-17T10:00:00.000Z",
-          "wordCount": 5838,
+          "wordCount": 5845,
           "title": "Three Approaches To Amplify Your Design Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg",
@@ -199,7 +199,7 @@
           "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
           "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
           "publishedOn": "2024-12-11T15:00:00.000Z",
-          "wordCount": 6659,
+          "wordCount": 6660,
           "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
           "enclosure": {
             "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
@@ -214,7 +214,7 @@
           "description": "SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.",
           "link": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
           "publishedOn": "2024-12-09T09:00:00.000Z",
-          "wordCount": 4329,
+          "wordCount": 4342,
           "title": "Mastering SVG Arcs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg",
@@ -229,7 +229,7 @@
           "description": "Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.",
           "link": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
           "publishedOn": "2024-12-06T09:00:00.000Z",
-          "wordCount": 4349,
+          "wordCount": 4345,
           "title": "The Importance Of Graceful Degradation In Accessible Interface Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg",
@@ -244,7 +244,7 @@
           "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
           "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
           "publishedOn": "2024-12-03T10:00:00.000Z",
-          "wordCount": 5231,
+          "wordCount": 5226,
           "title": "Creating An Effective Multistep Form For Better User Experience",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
@@ -259,7 +259,7 @@
           "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
           "publishedOn": "2024-11-30T09:00:00.000Z",
-          "wordCount": 4629,
+          "wordCount": 4642,
           "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
@@ -274,7 +274,7 @@
           "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
           "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
           "publishedOn": "2024-11-27T10:00:00.000Z",
-          "wordCount": 4217,
+          "wordCount": 4327,
           "title": "The Hype Around Signals",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
@@ -289,7 +289,7 @@
           "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
           "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
           "publishedOn": "2024-11-22T09:00:00.000Z",
-          "wordCount": 5807,
+          "wordCount": 5805,
           "title": "Why You Should Speak At Events As An Early-Career Professional",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
@@ -305,6 +305,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "676450c555ae44f950ee9c1f",
+          "author": "Chaitanya Rahalkar",
+          "description": "In cybersecurity, a honeypot is a decoy system that’s designed to attract and then detect potential attackers attempting to compromise the system. Just like a pot of honey sitting out in the open would attract flies. Think of these honeypots as secur...",
+          "link": "https://www.freecodecamp.org/news/build-a-honeypot-with-python/",
+          "publishedOn": "2024-12-19T16:58:45.000Z",
+          "wordCount": 3933,
+          "title": "How to Build a Honeypot in Python: A Practical Guide to Security Deception",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734581440876/9b4a1d00-6185-4666-94cc-97131eed03fa.png"
+        },
+        {
+          "id": "6764437ed968c624aba9ad9d",
+          "author": "Beau Carnes",
+          "description": "Earning the AWS Certified Solutions Architect – Professional certification is a significant step for cloud professionals who want to validate their advanced skills in designing and deploying complex solutions on AWS. This credential is highly respect...",
+          "link": "https://www.freecodecamp.org/news/aws-solutions-architect-professional-sap-c02-certification-course/",
+          "publishedOn": "2024-12-19T16:02:06.000Z",
+          "wordCount": 1558,
+          "title": "AWS Solutions Architect Professional (SAP-C02) Certification Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734624111613/72a048e5-3ba2-4c95-b553-086c9110c5d3.png"
+        },
+        {
+          "id": "67644277d968c624aba9ad8b",
+          "author": "Beau Carnes",
+          "description": "Game development is an exciting way to bring your creative ideas to life. If you're new to coding or want to expand your skills, JavaScript is one of the best programming languages to learn. JavaScript is versatile and widely used for web-based games...",
+          "link": "https://www.freecodecamp.org/news/learn-game-development-with-javascript-and-kaplay/",
+          "publishedOn": "2024-12-19T15:57:43.000Z",
+          "wordCount": 1450,
+          "title": "Learn Game Development with JavaScript and Kaplay",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734623838531/8083f2dd-65f7-49c6-81b0-0a1107d2ee9a.png"
+        },
+        {
+          "id": "67644173f5e203def9a9e2b4",
+          "author": "Beau Carnes",
+          "description": "If you're a Java developer working with Spring Boot, you might wonder how to harness the power of AI in your projects. The good news is that Spring AI, an emerging tool within the Spring ecosystem, offers seamless AI integrations that are both access...",
+          "link": "https://www.freecodecamp.org/news/build-smarter-spring-boot-applications-with-spring-ai/",
+          "publishedOn": "2024-12-19T15:53:23.000Z",
+          "wordCount": 1371,
+          "title": "Build Smarter Spring Boot Applications with Spring AI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734623587345/f6f5386a-7315-4507-8c34-99b2ffde1dbe.png"
+        },
+        {
+          "id": "6764337a5ad7698ab9779d34",
+          "author": "Maham Codes",
+          "description": "Large Language Models (LLMs) like GPT often struggle to answer mathematical questions. In fact, if you ask a human a tough math question, like what is 185 cm in ft, they’ll struggle as well. They’d likely need a calculator to perform this conversion ...",
+          "link": "https://www.freecodecamp.org/news/make-llms-better-at-math-with-ai-agents/",
+          "publishedOn": "2024-12-19T14:53:46.000Z",
+          "wordCount": 3015,
+          "title": "How to Make LLMs Better at Math Using AI Agents, MathJS, and BaseAI Tool Calls",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734537732263/2ec966b6-d1d3-4d0f-ae37-982ef26ebc55.jpeg"
+        },
         {
           "id": "676307732bca88a1f50e3b28",
           "author": "Victoria Nduka",
@@ -354,56 +404,6 @@
           "wordCount": 1157,
           "title": "How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734122680496/979fd4c5-3558-4e24-89c2-9a314afa7523.png"
-        },
-        {
-          "id": "675b1981cc99415a548dbe6c",
-          "author": "David Asaolu",
-          "description": "Modern software applications often rely on email communication to engage with users. They may send authentication codes during sign in attempts, marketing emails, or newsletters, for example. This means that email notifications are typically the most...",
-          "link": "https://www.freecodecamp.org/news/create-and-send-email-templates-using-react-email-and-resend-in-nextjs/",
-          "publishedOn": "2024-12-12T17:12:33.000Z",
-          "wordCount": 2360,
-          "title": "How to Create and Send Email Templates Using React Email and Resend in Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733995060570/3450a9b3-e740-4362-b0ab-0269646e725c.png"
-        },
-        {
-          "id": "675b035a23cb72fd28dab52d",
-          "author": "Chaitanya Rahalkar",
-          "description": "In this article, you are going to learn to create a basic security tool that can be helpful in identifying common vulnerabilities in web applications. I have two goals here. The first is to empower you with the skills to develop tools that can help e...",
-          "link": "https://www.freecodecamp.org/news/build-a-web-application-security-scanner-with-python/",
-          "publishedOn": "2024-12-12T15:38:02.000Z",
-          "wordCount": 2627,
-          "title": "Building a Simple Web Application Security Scanner with Python: A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733929791562/042042e3-56e2-4185-be19-2a0f5fa15d25.png"
-        },
-        {
-          "id": "675afe6e7c306f8d973e7281",
-          "author": "Beau Carnes",
-          "description": "Search functionality is one of the most critical features of modern applications, whether you're building websites, e-commerce platforms, or data-driven applications. But how do you create powerful and efficient search engines that can handle vast am...",
-          "link": "https://www.freecodecamp.org/news/learn-elasticsearch-with-a-comprehensive-beginner-friendly-course/",
-          "publishedOn": "2024-12-12T15:17:02.000Z",
-          "wordCount": 1440,
-          "title": "Learn Elasticsearch with a Comprehensive Beginner-Friendly Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734016608619/82574380-c09a-4442-97b0-3e707a1675d2.jpeg"
-        },
-        {
-          "id": "675afc0f15e89abb3b1a11dd",
-          "author": "Beau Carnes",
-          "description": "Are you someone who’s wondered if math really matters when writing code? Or perhaps you've struggled to keep your code clean and understandable while working on fun projects? This course might just change your perspective! Understanding math concepts...",
-          "link": "https://www.freecodecamp.org/news/learn-how-math-can-make-your-code-better-by-coding-polyrhythms/",
-          "publishedOn": "2024-12-12T15:06:55.000Z",
-          "wordCount": 1179,
-          "title": "Learn How Math Can Make Your Code Better By Coding Polyrhythms",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734015930980/db739231-a258-45bf-a967-2d8d70100bc2.jpeg"
-        },
-        {
-          "id": "6759af8bb972ec12da4879d3",
-          "author": "Sanjay R",
-          "description": "In this tutorial, you'll build an AI-powered subtitle generator using Google's Gemini API. We'll create a project called “AI-Subtitle-Generator” using React for the front end and Express for the back end. Get ready for a fun and practical project. Ta...",
-          "link": "https://www.freecodecamp.org/news/build-a-video-subtitle-generator-using-the-gemini-api/",
-          "publishedOn": "2024-12-11T15:28:11.000Z",
-          "wordCount": 3748,
-          "title": "How to Build a Video Subtitle Generator using the Gemini API",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733638398422/2f468b16-5801-4f8c-bf40-c24d07e219b7.jpeg"
         }
       ]
     }

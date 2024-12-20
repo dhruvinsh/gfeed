@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-19T01:19:58.465Z</id>
+    <id>urn:2024-12-20T01:16:10.161Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T01:19:58.465Z</updated>
+    <updated>2024-12-20T01:16:10.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Honeypot in Python: A Practical Guide to Security Deception]]></title>
+        <id>676450c555ae44f950ee9c1f</id>
+        <link href="https://www.freecodecamp.org/news/build-a-honeypot-with-python/"/>
+        <updated>2024-12-19T16:58:45.000Z</updated>
+        <summary type="html"><![CDATA[In cybersecurity, a honeypot is a decoy system that’s designed to attract and then detect potential attackers attempting to compromise the system. Just like a pot of honey sitting out in the open would attract flies. Think of these honeypots as secur...]]></summary>
+        <author>
+            <name>Chaitanya Rahalkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Solutions Architect Professional (SAP-C02) Certification Course]]></title>
+        <id>6764437ed968c624aba9ad9d</id>
+        <link href="https://www.freecodecamp.org/news/aws-solutions-architect-professional-sap-c02-certification-course/"/>
+        <updated>2024-12-19T16:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Earning the AWS Certified Solutions Architect – Professional certification is a significant step for cloud professionals who want to validate their advanced skills in designing and deploying complex solutions on AWS. This credential is highly respect...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Game Development with JavaScript and Kaplay]]></title>
+        <id>67644277d968c624aba9ad8b</id>
+        <link href="https://www.freecodecamp.org/news/learn-game-development-with-javascript-and-kaplay/"/>
+        <updated>2024-12-19T15:57:43.000Z</updated>
+        <summary type="html"><![CDATA[Game development is an exciting way to bring your creative ideas to life. If you're new to coding or want to expand your skills, JavaScript is one of the best programming languages to learn. JavaScript is versatile and widely used for web-based games...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Smarter Spring Boot Applications with Spring AI]]></title>
+        <id>67644173f5e203def9a9e2b4</id>
+        <link href="https://www.freecodecamp.org/news/build-smarter-spring-boot-applications-with-spring-ai/"/>
+        <updated>2024-12-19T15:53:23.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Java developer working with Spring Boot, you might wonder how to harness the power of AI in your projects. The good news is that Spring AI, an emerging tool within the Spring ecosystem, offers seamless AI integrations that are both access...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make LLMs Better at Math Using AI Agents, MathJS, and BaseAI Tool Calls]]></title>
+        <id>6764337a5ad7698ab9779d34</id>
+        <link href="https://www.freecodecamp.org/news/make-llms-better-at-math-with-ai-agents/"/>
+        <updated>2024-12-19T14:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) like GPT often struggle to answer mathematical questions. In fact, if you ask a human a tough math question, like what is 185 cm in ft, they’ll struggle as well. They’d likely need a calculator to perform this conversion ...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What to Do If You Don't Get into Outreachy: Exploring Other Paths to Open Source]]></title>
         <id>676307732bca88a1f50e3b28</id>
@@ -88,46 +138,6 @@ What ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create and Send Email Templates Using React Email and Resend in Next.js]]></title>
-        <id>675b1981cc99415a548dbe6c</id>
-        <link href="https://www.freecodecamp.org/news/create-and-send-email-templates-using-react-email-and-resend-in-nextjs/"/>
-        <updated>2024-12-12T17:12:33.000Z</updated>
-        <summary type="html"><![CDATA[Modern software applications often rely on email communication to engage with users. They may send authentication codes during sign in attempts, marketing emails, or newsletters, for example. This means that email notifications are typically the most...]]></summary>
-        <author>
-            <name>David Asaolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Simple Web Application Security Scanner with Python: A Beginner's Guide]]></title>
-        <id>675b035a23cb72fd28dab52d</id>
-        <link href="https://www.freecodecamp.org/news/build-a-web-application-security-scanner-with-python/"/>
-        <updated>2024-12-12T15:38:02.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you are going to learn to create a basic security tool that can be helpful in identifying common vulnerabilities in web applications. I have two goals here. The first is to empower you with the skills to develop tools that can help e...]]></summary>
-        <author>
-            <name>Chaitanya Rahalkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Elasticsearch with a Comprehensive Beginner-Friendly Course]]></title>
-        <id>675afe6e7c306f8d973e7281</id>
-        <link href="https://www.freecodecamp.org/news/learn-elasticsearch-with-a-comprehensive-beginner-friendly-course/"/>
-        <updated>2024-12-12T15:17:02.000Z</updated>
-        <summary type="html"><![CDATA[Search functionality is one of the most critical features of modern applications, whether you're building websites, e-commerce platforms, or data-driven applications. But how do you create powerful and efficient search engines that can handle vast am...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How Math Can Make Your Code Better By Coding Polyrhythms]]></title>
-        <id>675afc0f15e89abb3b1a11dd</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-math-can-make-your-code-better-by-coding-polyrhythms/"/>
-        <updated>2024-12-12T15:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Are you someone who’s wondered if math really matters when writing code? Or perhaps you've struggled to keep your code clean and understandable while working on fun projects? This course might just change your perspective! Understanding math concepts...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fluid Superscripts and Subscripts]]></title>
         <id>https://css-tricks.com/?p=382867</id>
         <link href="https://css-tricks.com/fluid-superscripts-and-subscripts/"/>
@@ -136,16 +146,6 @@ What ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is 
 Fluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lorenz Woehr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Video Subtitle Generator using the Gemini API]]></title>
-        <id>6759af8bb972ec12da4879d3</id>
-        <link href="https://www.freecodecamp.org/news/build-a-video-subtitle-generator-using-the-gemini-api/"/>
-        <updated>2024-12-11T15:28:11.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll build an AI-powered subtitle generator using Google's Gemini API. We'll create a project called “AI-Subtitle-Generator” using React for the front end and Express for the back end. Get ready for a fun and practical project. Ta...]]></summary>
-        <author>
-            <name>Sanjay R</name>
         </author>
     </entry>
     <entry>
