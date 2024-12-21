@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-20T01:16:10.161Z</id>
+    <id>urn:2024-12-21T01:14:48.471Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-20T01:16:10.161Z</updated>
+    <updated>2024-12-21T01:14:48.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run Open Source LLMs on Your Own Computer Using Ollama]]></title>
+        <id>6765d8da1ec59713cfa06b50</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/"/>
+        <updated>2024-12-20T20:51:38.000Z</updated>
+        <summary type="html"><![CDATA[AI tools have become commonplace these days, and you may use them daily. One of the key ways to secure your confidential data – both personal and business-related – is by running your own AI on your own infrastructure. This guide will explain how to ...]]></summary>
+        <author>
+            <name>Krishna Sarathi Ghosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Little Triangle in the Tooltip]]></title>
+        <id>https://css-tricks.com/?p=383224</id>
+        <link href="https://css-tricks.com/the-little-triangle-in-the-tooltip/"/>
+        <updated>2024-12-20T16:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Today, I want to focus on what I'll call the little triangle in the tooltip. It receives minimal attention but it amazes you by how many ways there are to make them. Let's start with the simplest and make our way up to the not-so-simple.
+The Little Triangle in the Tooltip originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The C# Class Handbook – Types of Classes with Code Examples]]></title>
+        <id>67659959cfcbe6eba5ecf6dc</id>
+        <link href="https://www.freecodecamp.org/news/classes-in-c-sharp-handbook-with-examples/"/>
+        <updated>2024-12-20T16:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Classes are the fundamental building blocks of object-oriented programming in C#. They allow you to create reusable and modular code by grouping related data and functions. Different types of classes serve various purposes. For instance, organizing y...]]></summary>
+        <author>
+            <name>Isaiah Clifford Opoku</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Honeypot in Python: A Practical Guide to Security Deception]]></title>
         <id>676450c555ae44f950ee9c1f</id>
@@ -115,26 +146,6 @@ What ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[If you’re like me and you loveeeeee shortcuts, you know how satisfying it is to press a few keys and watch the magic happen. Whether it’s the familiar Ctrl+C – Ctrl+V that devs use to “borrow code” 😉 from LLMs and code pages, or the personalised sho...]]></summary>
         <author>
             <name>David Jaja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Branch-Specific Netlify Configurations with a Bash Script: A Step-by-Step Guide]]></title>
-        <id>6760688b00f110abd3d0f655</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-branch-specific-netlify-configurations-with-a-bash-script/"/>
-        <updated>2024-12-16T17:51:07.000Z</updated>
-        <summary type="html"><![CDATA[When you’re working on a project with multiple environments – like staging and production – for your backend APIs and frontend deployments, you’ll want to make sure you have the correct configuration and commands for each branch in your repository. T...]]></summary>
-        <author>
-            <name>Francis Ihejirika</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]]]></title>
-        <id>675ca1db0e7ab2ab9bd66a40</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-developer-job-even-in-this-economy-james-q-quick-podcast-153/"/>
-        <updated>2024-12-13T21:06:35.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews James Q Quick. He's a developer, speaker, and teacher. James grew up in Memphis. He was an athlete who played violin, and knew nothing about computer science but cho...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -345,17 +356,6 @@ Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part o
         <summary type="html"><![CDATA[Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victoria Nduka)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?]]></title>
-        <id>https://css-tricks.com/?p=382572</id>
-        <link href="https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/"/>
-        <updated>2024-11-20T15:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.
-Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>

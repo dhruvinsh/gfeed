@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383224",
+          "author": "Juan Diego Rodríguez",
+          "description": "Today, I want to focus on what I'll call the little triangle in the tooltip. It receives minimal attention but it amazes you by how many ways there are to make them. Let's start with the simplest and make our way up to the not-so-simple.\nThe Little Triangle in the Tooltip originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-little-triangle-in-the-tooltip/",
+          "publishedOn": "2024-12-20T16:31:05.000Z",
+          "wordCount": 3240,
+          "title": "The Little Triangle in the Tooltip",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383224"
+        },
+        {
           "id": "https://css-tricks.com/?p=382857",
           "author": "Fatuma Abdullaho",
           "description": "When was the last time you developed a multi-step form? There’s so much to think about and so many moving pieces that need to be managed. But doing it by hand can be a good exercise and a great way to polish the basics. Fatuma Abdullaho walks you through her first multi-step form using vanilla HTML, CSS, and JavaScript.\nHow to Create Multi-Step Forms With Vanilla JavaScript and CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/",
           "publishedOn": "2024-12-18T15:03:22.000Z",
-          "wordCount": 4753,
+          "wordCount": 5537,
           "title": "How to Create Multi-Step Forms With Vanilla JavaScript and CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382857"
         },
@@ -27,7 +37,7 @@
           "description": "What else do we want or need CSS to do? Chris kept a CSS wishlist, going back as far as 2013 and following back up on it in 2019. We all have things we'd like to see CSS do and we always will no matter how many sparkly new features we get. We'll round things up and put a list together — so let us know!\nWhat ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/what-else-is-on-your-css-wishlist/",
           "publishedOn": "2024-12-17T20:07:30.000Z",
-          "wordCount": 2869,
+          "wordCount": 2884,
           "title": "What ELSE is on your CSS wishlist?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383250"
         },
@@ -160,16 +170,6 @@
           "wordCount": 3097,
           "title": "Solved by CSS: Donuts Scopes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382613"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382572",
-          "author": "Daniel Schwarz",
-          "description": "Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.\nInvoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/",
-          "publishedOn": "2024-11-20T15:12:34.000Z",
-          "wordCount": 3285,
-          "title": "Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382572"
         }
       ]
     },
@@ -184,7 +184,7 @@
           "description": "There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.",
           "link": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
           "publishedOn": "2024-12-17T10:00:00.000Z",
-          "wordCount": 5845,
+          "wordCount": 5846,
           "title": "Three Approaches To Amplify Your Design Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg",
@@ -199,7 +199,7 @@
           "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
           "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
           "publishedOn": "2024-12-11T15:00:00.000Z",
-          "wordCount": 6660,
+          "wordCount": 6652,
           "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
           "enclosure": {
             "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
@@ -214,7 +214,7 @@
           "description": "SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.",
           "link": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
           "publishedOn": "2024-12-09T09:00:00.000Z",
-          "wordCount": 4342,
+          "wordCount": 4336,
           "title": "Mastering SVG Arcs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg",
@@ -229,7 +229,7 @@
           "description": "Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.",
           "link": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
           "publishedOn": "2024-12-06T09:00:00.000Z",
-          "wordCount": 4345,
+          "wordCount": 4348,
           "title": "The Importance Of Graceful Degradation In Accessible Interface Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg",
@@ -244,7 +244,7 @@
           "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
           "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
           "publishedOn": "2024-12-03T10:00:00.000Z",
-          "wordCount": 5226,
+          "wordCount": 5230,
           "title": "Creating An Effective Multistep Form For Better User Experience",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
@@ -259,7 +259,7 @@
           "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
           "publishedOn": "2024-11-30T09:00:00.000Z",
-          "wordCount": 4642,
+          "wordCount": 4637,
           "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
@@ -274,7 +274,7 @@
           "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
           "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
           "publishedOn": "2024-11-27T10:00:00.000Z",
-          "wordCount": 4327,
+          "wordCount": 4227,
           "title": "The Hype Around Signals",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
@@ -289,7 +289,7 @@
           "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
           "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
           "publishedOn": "2024-11-22T09:00:00.000Z",
-          "wordCount": 5805,
+          "wordCount": 5912,
           "title": "Why You Should Speak At Events As An Early-Career Professional",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
@@ -305,6 +305,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6765d8da1ec59713cfa06b50",
+          "author": "Krishna Sarathi Ghosh",
+          "description": "AI tools have become commonplace these days, and you may use them daily. One of the key ways to secure your confidential data – both personal and business-related – is by running your own AI on your own infrastructure. This guide will explain how to ...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/",
+          "publishedOn": "2024-12-20T20:51:38.000Z",
+          "wordCount": 3222,
+          "title": "How to Run Open Source LLMs on Your Own Computer Using Ollama",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734681473969/20c1a1cd-898a-4f48-a26f-d2d3d2917efc.png"
+        },
+        {
+          "id": "67659959cfcbe6eba5ecf6dc",
+          "author": "Isaiah Clifford Opoku",
+          "description": "Classes are the fundamental building blocks of object-oriented programming in C#. They allow you to create reusable and modular code by grouping related data and functions. Different types of classes serve various purposes. For instance, organizing y...",
+          "link": "https://www.freecodecamp.org/news/classes-in-c-sharp-handbook-with-examples/",
+          "publishedOn": "2024-12-20T16:20:41.000Z",
+          "wordCount": 6912,
+          "title": "The C# Class Handbook – Types of Classes with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734711601436/b4de90be-1d93-4d8d-a4ed-ae09b192ef5c.png"
+        },
         {
           "id": "676450c555ae44f950ee9c1f",
           "author": "Chaitanya Rahalkar",
@@ -384,26 +404,6 @@
           "wordCount": 3748,
           "title": "How to Build a Reusable Keyboard Shortcut Listener Component in React",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733895763796/17684457-fb85-48d4-b049-ddbaf0b5281e.png"
-        },
-        {
-          "id": "6760688b00f110abd3d0f655",
-          "author": "Francis Ihejirika",
-          "description": "When you’re working on a project with multiple environments – like staging and production – for your backend APIs and frontend deployments, you’ll want to make sure you have the correct configuration and commands for each branch in your repository. T...",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-branch-specific-netlify-configurations-with-a-bash-script/",
-          "publishedOn": "2024-12-16T17:51:07.000Z",
-          "wordCount": 3414,
-          "title": "How to Automate Branch-Specific Netlify Configurations with a Bash Script: A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733871988108/cde4ea9b-705c-40e0-9730-09dbeebdfbae.png"
-        },
-        {
-          "id": "675ca1db0e7ab2ab9bd66a40",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews James Q Quick. He's a developer, speaker, and teacher. James grew up in Memphis. He was an athlete who played violin, and knew nothing about computer science but cho...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-developer-job-even-in-this-economy-james-q-quick-podcast-153/",
-          "publishedOn": "2024-12-13T21:06:35.000Z",
-          "wordCount": 1157,
-          "title": "How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734122680496/979fd4c5-3558-4e24-89c2-9a314afa7523.png"
         }
       ]
     }
