@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-22T01:21:45.312Z</id>
+    <id>urn:2024-12-23T01:17:18.664Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-22T01:21:45.312Z</updated>
+    <updated>2024-12-23T01:17:18.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -335,17 +335,6 @@ Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, wh
 Alt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solved by CSS: Donuts Scopes]]></title>
-        <id>https://css-tricks.com/?p=382613</id>
-        <link href="https://css-tricks.com/solved-by-css-donuts-scopes/"/>
-        <updated>2024-11-22T13:50:55.000Z</updated>
-        <summary type="html"><![CDATA[Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.
-Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
