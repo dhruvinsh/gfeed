@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383249",
+          "author": "Juan Diego Rodríguez",
+          "description": "2024 has been one of the greatest years for CSS: cross-document view transitions, scroll-driven animations, anchor positioning, animate to height: auto, and many others. It seems out of touch to ask, but what else do we …\nA CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-css-wishlist-for-2025/",
+          "publishedOn": "2024-12-23T15:07:41.000Z",
+          "wordCount": 3342,
+          "title": "A CSS Wishlist for 2025",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383249"
+        },
+        {
           "id": "https://css-tricks.com/?p=383224",
           "author": "Juan Diego Rodríguez",
           "description": "Today, I want to focus on what I'll call the little triangle in the tooltip. It receives minimal attention but it amazes you by how many ways there are to make them. Let's start with the simplest and make our way up to the not-so-simple.\nThe Little Triangle in the Tooltip originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -169,12 +179,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/12/the-design-leader-dilemma/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.",
+          "link": "https://smashingmagazine.com/2024/12/the-design-leader-dilemma/",
+          "publishedOn": "2024-12-23T10:00:00.000Z",
+          "wordCount": 4060,
+          "title": "The Design Leader Dilemma",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/the-design-leader-dilemma/the-design-leader-dilemma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/the-design-leader-dilemma/the-design-leader-dilemma.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
           "author": "hello@smashingmagazine.com (Olivia De Alba)",
           "description": "There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.",
           "link": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
           "publishedOn": "2024-12-17T10:00:00.000Z",
-          "wordCount": 5833,
+          "wordCount": 5842,
           "title": "Three Approaches To Amplify Your Design Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg",
@@ -189,7 +214,7 @@
           "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
           "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
           "publishedOn": "2024-12-11T15:00:00.000Z",
-          "wordCount": 6661,
+          "wordCount": 6665,
           "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
           "enclosure": {
             "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
@@ -204,7 +229,7 @@
           "description": "SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.",
           "link": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
           "publishedOn": "2024-12-09T09:00:00.000Z",
-          "wordCount": 4331,
+          "wordCount": 4328,
           "title": "Mastering SVG Arcs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg",
@@ -219,7 +244,7 @@
           "description": "Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.",
           "link": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
           "publishedOn": "2024-12-06T09:00:00.000Z",
-          "wordCount": 4353,
+          "wordCount": 4350,
           "title": "The Importance Of Graceful Degradation In Accessible Interface Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg",
@@ -234,7 +259,7 @@
           "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
           "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
           "publishedOn": "2024-12-03T10:00:00.000Z",
-          "wordCount": 5220,
+          "wordCount": 5232,
           "title": "Creating An Effective Multistep Form For Better User Experience",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
@@ -249,7 +274,7 @@
           "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
           "publishedOn": "2024-11-30T09:00:00.000Z",
-          "wordCount": 4637,
+          "wordCount": 4648,
           "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
@@ -264,7 +289,7 @@
           "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
           "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
           "publishedOn": "2024-11-27T10:00:00.000Z",
-          "wordCount": 4229,
+          "wordCount": 4210,
           "title": "The Hype Around Signals",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
@@ -280,6 +305,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "676884d7626250532f8a0785",
+          "author": "Kunal Nalawade",
+          "description": "Are you considering a career in web development? If so, then you are making an excellent choice. Web Development is one of the most in-demand skills in the market in 2024. With over 5.038 billion Internet users, web development has a promising future...",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-web-developer-beginners-guide/",
+          "publishedOn": "2024-12-22T21:29:59.000Z",
+          "wordCount": 4940,
+          "title": "How to Become a Web Developer – a Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/505eectW54k/upload/4567a9e14c8e9bac3dc8d6c6a39661f5.jpeg"
+        },
         {
           "id": "6765e0f59e51f9e8b04f2529",
           "author": "Quincy Larson",
@@ -369,16 +404,6 @@
           "wordCount": 2623,
           "title": "What to Do If You Don't Get into Outreachy: Exploring Other Paths to Open Source",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734517208892/dae4a13d-a348-4a8d-831a-8a2f6a1546fa.png"
-        },
-        {
-          "id": "676081a802767316a74098de",
-          "author": "Ben",
-          "description": "In this tutorial, you’ll learn about an important part of the Agile approach to software development: user stories. I’ll take you through what user stories are, common pitfalls that I’ve seen with creating user stories, and the frameworks that exist ...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/",
-          "publishedOn": "2024-12-16T19:38:16.000Z",
-          "wordCount": 3369,
-          "title": "How to Write User Stories for Beginners: Agile in Practice",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734447615195/2b7c6025-bce2-447e-a685-19f785dcd402.png"
         }
       ]
     }
