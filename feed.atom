@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-24T01:15:51.374Z</id>
+    <id>urn:2024-12-25T01:14:54.219Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-24T01:15:51.374Z</updated>
+    <updated>2024-12-25T01:14:54.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Major freeCodeCamp Curriculum Updates Going Live in Time for Christmas]]></title>
+        <id>676a0ca777f09ac78ed9802d</id>
+        <link href="https://www.freecodecamp.org/news/christmas-2025-freecodecamp-curriculum-updates/"/>
+        <updated>2024-12-24T01:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Merry Christmas campers! 🎄 freeCodeCamp just shipped a ton of FREE learning tools for you to dig into over the holidays: 🏗️ The new Certified Full Stack Developer curriculum is here! 🗨️ The new English for Developers CEFR Level B1 🤳 Major updates...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A CSS Wishlist for 2025]]></title>
         <id>https://css-tricks.com/?p=383249</id>
@@ -125,16 +135,6 @@ The Little Triangle in the Tooltip originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Large Language Models (LLMs) like GPT often struggle to answer mathematical questions. In fact, if you ask a human a tough math question, like what is 185 cm in ft, they’ll struggle as well. They’d likely need a calculator to perform this conversion ...]]></summary>
         <author>
             <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Do If You Don't Get into Outreachy: Exploring Other Paths to Open Source]]></title>
-        <id>676307732bca88a1f50e3b28</id>
-        <link href="https://www.freecodecamp.org/news/what-to-do-if-you-dont-get-into-outreachy/"/>
-        <updated>2024-12-18T17:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Did you apply to Outreachy and receive a “Your Initial Application Was Not Successful” email? Or maybe you got into the contribution stage but after a rigorous month of contribution, you were not selected as an intern. How disheartening that can be! ...]]></summary>
-        <author>
-            <name>Victoria Nduka</name>
         </author>
     </entry>
     <entry>
