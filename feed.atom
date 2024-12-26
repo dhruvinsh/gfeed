@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-25T01:14:54.219Z</id>
+    <id>urn:2024-12-26T01:15:14.022Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-25T01:14:54.219Z</updated>
+    <updated>2024-12-26T01:15:14.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -345,17 +345,6 @@ WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, whic
 Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alt Text: Not Always Needed]]></title>
-        <id>https://css-tricks.com/?p=382593</id>
-        <link href="https://css-tricks.com/alt-text-not-always-needed/"/>
-        <updated>2024-11-25T15:23:39.000Z</updated>
-        <summary type="html"><![CDATA[Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.
-Alt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
