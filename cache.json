@@ -17,7 +17,7 @@
           "description": "2024 has been one of the greatest years for CSS: cross-document view transitions, scroll-driven animations, anchor positioning, animate to height: auto, and many others. It seems out of touch to ask, but what else do we …\nA CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-css-wishlist-for-2025/",
           "publishedOn": "2024-12-23T15:07:41.000Z",
-          "wordCount": 3362,
+          "wordCount": 3433,
           "title": "A CSS Wishlist for 2025",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383249"
         },
@@ -37,7 +37,7 @@
           "description": "When was the last time you developed a multi-step form? There’s so much to think about and so many moving pieces that need to be managed. But doing it by hand can be a good exercise and a great way to polish the basics. Fatuma Abdullaho walks you through her first multi-step form using vanilla HTML, CSS, and JavaScript.\nHow to Create Multi-Step Forms With Vanilla JavaScript and CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/",
           "publishedOn": "2024-12-18T15:03:22.000Z",
-          "wordCount": 5537,
+          "wordCount": 5576,
           "title": "How to Create Multi-Step Forms With Vanilla JavaScript and CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382857"
         },
@@ -150,16 +150,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382697"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382773",
-          "author": "Ryan Trimble",
-          "description": "Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!\nFollow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/follow-up-we-officially-have-a-css-logo/",
-          "publishedOn": "2024-11-26T15:53:39.000Z",
-          "wordCount": 1735,
-          "title": "Follow Up: We Officially Have a CSS Logo!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382773"
         }
       ]
     },
@@ -174,7 +164,7 @@
           "description": "Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.",
           "link": "https://smashingmagazine.com/2024/12/the-design-leader-dilemma/",
           "publishedOn": "2024-12-23T10:00:00.000Z",
-          "wordCount": 4063,
+          "wordCount": 4054,
           "title": "The Design Leader Dilemma",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-design-leader-dilemma/the-design-leader-dilemma.jpg",
@@ -189,7 +179,7 @@
           "description": "There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.",
           "link": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
           "publishedOn": "2024-12-17T10:00:00.000Z",
-          "wordCount": 5850,
+          "wordCount": 5853,
           "title": "Three Approaches To Amplify Your Design Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg",
@@ -204,7 +194,7 @@
           "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
           "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
           "publishedOn": "2024-12-11T15:00:00.000Z",
-          "wordCount": 6655,
+          "wordCount": 6651,
           "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
           "enclosure": {
             "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
@@ -219,7 +209,7 @@
           "description": "SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.",
           "link": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
           "publishedOn": "2024-12-09T09:00:00.000Z",
-          "wordCount": 4337,
+          "wordCount": 4330,
           "title": "Mastering SVG Arcs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg",
@@ -249,7 +239,7 @@
           "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
           "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
           "publishedOn": "2024-12-03T10:00:00.000Z",
-          "wordCount": 5222,
+          "wordCount": 5226,
           "title": "Creating An Effective Multistep Form For Better User Experience",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
@@ -264,7 +254,7 @@
           "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
           "publishedOn": "2024-11-30T09:00:00.000Z",
-          "wordCount": 4643,
+          "wordCount": 4635,
           "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
@@ -272,21 +262,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
-          "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
-          "publishedOn": "2024-11-27T10:00:00.000Z",
-          "wordCount": 4211,
-          "title": "The Hype Around Signals",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg"
         }
       ]
     },

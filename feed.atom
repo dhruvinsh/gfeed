@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-26T01:15:14.022Z</id>
+    <id>urn:2024-12-27T01:15:29.935Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-26T01:15:14.022Z</updated>
+    <updated>2024-12-27T01:15:29.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -324,27 +324,6 @@ One of Those “Onboarding” UIs, With Anchor Positioning originally published 
 WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Scott Fennell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hype Around Signals]]></title>
-        <id>https://smashingmagazine.com/2024/11/the-hype-around-signals/</id>
-        <link href="https://smashingmagazine.com/2024/11/the-hype-around-signals/"/>
-        <updated>2024-11-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow Up: We Officially Have a CSS Logo!]]></title>
-        <id>https://css-tricks.com/?p=382773</id>
-        <link href="https://css-tricks.com/follow-up-we-officially-have-a-css-logo/"/>
-        <updated>2024-11-26T15:53:39.000Z</updated>
-        <summary type="html"><![CDATA[Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!
-Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>
