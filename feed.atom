@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-27T01:15:29.935Z</id>
+    <id>urn:2024-12-28T01:14:13.237Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-27T01:15:29.935Z</updated>
+    <updated>2024-12-28T01:14:13.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -313,17 +313,6 @@ One of Those “Onboarding” UIs, With Anchor Positioning originally published 
         <summary type="html"><![CDATA[December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Multi-Multisite: A Case Study]]></title>
-        <id>https://css-tricks.com/?p=382697</id>
-        <link href="https://css-tricks.com/wordpress-multi-multisite-a-case-study/"/>
-        <updated>2024-11-27T16:09:14.000Z</updated>
-        <summary type="html"><![CDATA[What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.
-WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Scott Fennell</name>
         </author>
     </entry>
 </feed>
