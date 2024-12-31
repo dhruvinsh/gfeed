@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-30T01:17:57.910Z</id>
+    <id>urn:2024-12-31T01:15:14.295Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-30T01:17:57.910Z</updated>
+    <updated>2024-12-31T01:15:14.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Thank You (2024 Edition)]]></title>
+        <id>https://css-tricks.com/?p=383295</id>
+        <link href="https://css-tricks.com/thank-you-2024-edition/"/>
+        <updated>2024-12-30T16:15:37.000Z</updated>
+        <summary type="html"><![CDATA[I'm more thankful this time around because, last year, I didn't even get to write this post. But now that I'm back, writing this feels so, so, so good. There's a lot more gusto going into my writing when I say: thank you so very much! Let's tie a bow on this year and round up what happened around here in 2024.
+Thank You (2024 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile App Development with React Native]]></title>
+        <id>6772ae6d57dd031ab1ad4671</id>
+        <link href="https://www.freecodecamp.org/news/mobile-app-development-with-react-native/"/>
+        <updated>2024-12-30T14:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Mobile app development has become an essential skill in today’s digital landscape, and React Native is one of the leading tools for creating powerful, cross-platform mobile apps. React Native combines the best parts of React and native app developmen...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major freeCodeCamp Curriculum Updates Going Live in Time for Christmas]]></title>
         <id>676a0ca777f09ac78ed9802d</id>
@@ -125,16 +146,6 @@ The Little Triangle in the Tooltip originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[If you're a Java developer working with Spring Boot, you might wonder how to harness the power of AI in your projects. The good news is that Spring AI, an emerging tool within the Spring ecosystem, offers seamless AI integrations that are both access...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make LLMs Better at Math Using AI Agents, MathJS, and BaseAI Tool Calls]]></title>
-        <id>6764337a5ad7698ab9779d34</id>
-        <link href="https://www.freecodecamp.org/news/make-llms-better-at-math-with-ai-agents/"/>
-        <updated>2024-12-19T14:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Large Language Models (LLMs) like GPT often struggle to answer mathematical questions. In fact, if you ask a human a tough math question, like what is 185 cm in ft, they’ll struggle as well. They’d likely need a calculator to perform this conversion ...]]></summary>
-        <author>
-            <name>Maham Codes</name>
         </author>
     </entry>
     <entry>
