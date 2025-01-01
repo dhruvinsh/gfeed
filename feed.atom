@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-31T01:15:14.295Z</id>
+    <id>urn:2025-01-01T01:21:55.694Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-31T01:15:14.295Z</updated>
+    <updated>2025-01-01T01:21:55.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/</id>
+        <link href="https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/"/>
+        <updated>2024-12-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thank You (2024 Edition)]]></title>
         <id>https://css-tricks.com/?p=383295</id>
