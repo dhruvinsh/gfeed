@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-04T01:14:23.835Z</id>
+    <id>urn:2025-01-05T01:21:35.209Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-04T01:14:23.835Z</updated>
+    <updated>2025-01-05T01:21:35.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-time Network Traffic Dashboard with Python and Streamlit]]></title>
+        <id>67786dec9c66c24e89239f0a</id>
+        <link href="https://www.freecodecamp.org/news/build-a-real-time-network-traffic-dashboard-with-python-and-streamlit/"/>
+        <updated>2025-01-03T23:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wanted to visualize your network traffic in real-time? In this tutorial, you will be learning how to build an interactive network traffic analysis dashboard with Python and Streamlit. Streamlit is an open-source Python framework you can...]]></summary>
+        <author>
+            <name>Chaitanya Rahalkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Server-Sent Events vs WebSockets – How to Choose a Real-Time Data Exchange Protocol]]></title>
         <id>677835cd5280589b2bc82110</id>
@@ -159,16 +169,6 @@ The Little Triangle in the Tooltip originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The C# Class Handbook – Types of Classes with Code Examples]]></title>
-        <id>67659959cfcbe6eba5ecf6dc</id>
-        <link href="https://www.freecodecamp.org/news/classes-in-c-sharp-handbook-with-examples/"/>
-        <updated>2024-12-20T16:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Classes are the fundamental building blocks of object-oriented programming in C#. They allow you to create reusable and modular code by grouping related data and functions. Different types of classes serve various purposes. For instance, organizing y...]]></summary>
-        <author>
-            <name>Isaiah Clifford Opoku</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Create Multi-Step Forms With Vanilla JavaScript and CSS]]></title>
         <id>https://css-tricks.com/?p=382857</id>
         <link href="https://css-tricks.com/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/"/>
@@ -292,16 +292,6 @@ Nowadays people can write great React and TypeScript code. Most of the time a co
 Knowing CSS is Mastery to Frontend Development originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance Of Graceful Degradation In Accessible Interface Design]]></title>
-        <id>https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/</id>
-        <link href="https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/"/>
-        <updated>2024-12-06T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
         </author>
     </entry>
 </feed>
