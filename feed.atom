@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-06T01:19:05.909Z</id>
+    <id>urn:2025-01-07T01:16:26.470Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-06T01:19:05.909Z</updated>
+    <updated>2025-01-07T01:16:26.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Importance of Investing in Soft Skills in the Age of AI]]></title>
+        <id>https://css-tricks.com/?p=383383</id>
+        <link href="https://css-tricks.com/the-importance-of-investing-in-soft-skills-in-the-age-of-ai/"/>
+        <updated>2025-01-06T14:58:46.000Z</updated>
+        <summary type="html"><![CDATA[I am still an AI skeptic. The biggest risk I foresee is that if your sole responsibility is to write code, your job is at risk. It’s not time to panic, but I do see a lot of value in evolving your soft skills.
+The Importance of Investing in Soft Skills in the Age of AI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does AI Really Mean?]]></title>
+        <id>https://smashingmagazine.com/2025/01/understanding-ai-meaning/</id>
+        <link href="https://smashingmagazine.com/2025/01/understanding-ai-meaning/"/>
+        <updated>2025-01-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Real-time Network Traffic Dashboard with Python and Streamlit]]></title>
         <id>67786dec9c66c24e89239f0a</id>
