@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-07T01:16:26.470Z</id>
+    <id>urn:2025-01-08T01:16:12.514Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-07T01:16:26.470Z</updated>
+    <updated>2025-01-08T01:16:12.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Discover Hidden Subdomains as an Ethical Hacker]]></title>
+        <id>677d84ad446398ca6f670bef</id>
+        <link href="https://www.freecodecamp.org/news/how-to-discover-hidden-subdomains-as-an-ethical-hacker/"/>
+        <updated>2025-01-07T19:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Subdomains are an essential part of a website’s infrastructure. They provide additional functions in a web application, such as APIs, admin portals, and staging environments. As an ethical hacker, discovering subdomains is a critical step in learning...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Help Someone with Their Code Using the Socratic Method]]></title>
+        <id>677d816db702998ae550cebf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-help-someone-with-their-code-using-the-socratic-method/"/>
+        <updated>2025-01-07T19:33:01.000Z</updated>
+        <summary type="html"><![CDATA[As a programming community, freeCodeCamp helps many people who have questions about their code. It can be quite tempting to simply provide the learner with the answer and move on, but that’s actually detrimental to the learning process. Here’s why: W...]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run Integration Tests with GitHub Service Containers]]></title>
+        <id>677d8125f9b13835118c7958</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-integration-tests-with-github-service-containers/"/>
+        <updated>2025-01-07T19:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I published an article about using Testcontainers to emulate external dependencies like a database and cache for backend integration tests. That article also explained the different ways of running the integration tests, environment scaffol...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Design For High-Traffic Events And Prevent Your Website From Crashing]]></title>
+        <id>https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/</id>
+        <link href="https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/"/>
+        <updated>2025-01-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Product drops and sales are a great way to increase revenue, but these events can result in traffic spikes that affect a site’s availability and performance. To prevent website crashes, you’ll have to make sure that the sites you design can handle large numbers of server requests at once. Let’s discuss how!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Saad Khan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVM Kernels Explained: How to Tackle Nonlinear Data in Machine Learning]]></title>
+        <id>677c5a037d6144e9c5ef49f8</id>
+        <link href="https://www.freecodecamp.org/news/svm-kernels-how-to-tackle-nonlinear-data-in-machine-learning/"/>
+        <updated>2025-01-06T22:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever considered how your phone can recognize handwritten text and convert it into regular computer text? Or how your email can separate messages automatically into spam and non-spam categories? Both of these examples work based on classifica...]]></summary>
+        <author>
+            <name>Josiah Adesola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Importance of Investing in Soft Skills in the Age of AI]]></title>
         <id>https://css-tricks.com/?p=383383</id>
@@ -118,16 +168,6 @@ Thank You (2024 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Major freeCodeCamp Curriculum Updates Now Live in 2025]]></title>
-        <id>676a0ca777f09ac78ed9802d</id>
-        <link href="https://www.freecodecamp.org/news/christmas-2025-freecodecamp-curriculum-updates/"/>
-        <updated>2024-12-24T01:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Merry Christmas campers! 🎄 freeCodeCamp just shipped a ton of FREE learning tools for you to dig into over the holidays: 🏗️ The new Certified Full Stack Developer curriculum is here! 🗨️ The new English for Developers CEFR Level B1 🤳 Major updates...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A CSS Wishlist for 2025]]></title>
         <id>https://css-tricks.com/?p=383249</id>
         <link href="https://css-tricks.com/a-css-wishlist-for-2025/"/>
@@ -146,36 +186,6 @@ A CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the
         <summary type="html"><![CDATA[Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Web Developer – a Beginner's Guide]]></title>
-        <id>676884d7626250532f8a0785</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-web-developer-beginners-guide/"/>
-        <updated>2024-12-22T21:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Are you considering a career in web development? If so, then you are making an excellent choice. Web Development is one of the most in-demand skills in the market in 2024. With over 5.038 billion Internet users, web development has a promising future...]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why developers needn't fear CSS – with the King of CSS himself Kevin Powell [Podcast #154]]]></title>
-        <id>6765e0f59e51f9e8b04f2529</id>
-        <link href="https://www.freecodecamp.org/news/how-to-not-hate-css-kevin-powell-interview-154/"/>
-        <updated>2024-12-20T21:26:13.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Kevin Powell. He's a designer, a software engineer, and an expert in CSS. He's runs a CSS-focused YouTube channel with nearly a million subscribers. There's nothing ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Open Source LLMs on Your Own Computer Using Ollama]]></title>
-        <id>6765d8da1ec59713cfa06b50</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/"/>
-        <updated>2024-12-20T20:51:38.000Z</updated>
-        <summary type="html"><![CDATA[AI tools have become commonplace these days, and you may use them daily. One of the key ways to secure your confidential data – both personal and business-related – is by running your own AI on your own infrastructure. This guide will explain how to ...]]></summary>
-        <author>
-            <name>Krishna Sarathi Ghosh</name>
         </author>
     </entry>
     <entry>
@@ -274,16 +284,6 @@ Smashing Meets Product Design originally published on CSS-Tricks, which is part 
 Yet Another Anchor Positioning Quirk originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering SVG Arcs]]></title>
-        <id>https://smashingmagazine.com/2024/12/mastering-svg-arcs/</id>
-        <link href="https://smashingmagazine.com/2024/12/mastering-svg-arcs/"/>
-        <updated>2024-12-09T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Akshay Gupta)</name>
         </author>
     </entry>
 </feed>
