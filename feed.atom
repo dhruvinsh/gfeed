@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-08T01:16:12.514Z</id>
+    <id>urn:2025-01-09T01:15:39.802Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T01:16:12.514Z</updated>
+    <updated>2025-01-09T01:15:39.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Generative AI in 23 Hours]]></title>
+        <id>677ee5d707323c1a72821397</id>
+        <link href="https://www.freecodecamp.org/news/learn-generative-ai-in-23-hours/"/>
+        <updated>2025-01-08T20:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is revolutionizing industries and workflows, and learning to work with AI in the cloud is an important skill for modern developers. Whether you're a beginner or looking to deepen your understanding of generative AI, this cours...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Christmas Icons with JavaScript and HTML]]></title>
+        <id>677ede843a92814ab28fbf50</id>
+        <link href="https://www.freecodecamp.org/news/create-christmas-icons-with-javascript-and-html/"/>
+        <updated>2025-01-08T20:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Creating unique projects is one of the best ways to grow as a programmer, and what better way to learn than by building something creative for the holiday season? Imagine crafting a festive Christmas calendar from scratch, generating eye-catching, cu...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lesser Known Uses Of Better Known Attributes]]></title>
+        <id>https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/</id>
+        <link href="https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/"/>
+        <updated>2025-01-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (John Rhea)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Discover Hidden Subdomains as an Ethical Hacker]]></title>
         <id>677d84ad446398ca6f670bef</id>
@@ -43,6 +73,16 @@
         <summary type="html"><![CDATA[Product drops and sales are a great way to increase revenue, but these events can result in traffic spikes that affect a site’s availability and performance. To prevent website crashes, you’ll have to make sure that the sites you design can handle large numbers of server requests at once. Let’s discuss how!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Saad Khan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Spreadsheets by Building 33 Projects]]></title>
+        <id>677ee4b10bc6d529ee0098b7</id>
+        <link href="https://www.freecodecamp.org/news/master-spreadsheets-by-building-33-projects/"/>
+        <updated>2025-01-07T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spreadsheets are an essential tool for managing data, solving problems, and automating workflows, whether you're a student, professional, or hobbyist. Mastering them can unlock countless possibilities in productivity and creativity. Imagine automatin...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -107,26 +147,6 @@ The Importance of Investing in Soft Skills in the Age of AI originally published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make Learning to Code Easier by Focusing on the Fundamentals]]></title>
-        <id>6776aff4291cde01e8a6dff0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-learning-to-code-easier-by-focusing-on-the-fundamentals/"/>
-        <updated>2025-01-02T15:25:40.000Z</updated>
-        <summary type="html"><![CDATA[It’s the beginning of the year again, and perhaps you’re still struggling to learn that programming language. We’ve all been there. Let me share a story from my own journey. In 2016, I thought I wasn’t cut out for programming. After months of trying ...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Next.js Web Apps for Better Performance]]></title>
-        <id>6776a323218b455d646035b2</id>
-        <link href="https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/"/>
-        <updated>2025-01-02T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[As engineers, we often get so carried away with other aspects of development that we overlook how users perceive and interact with our applications. This oversight can result in users leaving the app almost as soon as they arrive, leading to higher b...]]></summary>
-        <author>
-            <name>Ayantunji Timilehin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Front-End Features For Designers In 2025]]></title>
         <id>https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/</id>
         <link href="https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/"/>
@@ -155,16 +175,6 @@ The Importance of Investing in Soft Skills in the Age of AI originally published
 Thank You (2024 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile App Development with React Native]]></title>
-        <id>6772ae6d57dd031ab1ad4671</id>
-        <link href="https://www.freecodecamp.org/news/mobile-app-development-with-react-native/"/>
-        <updated>2024-12-30T14:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Mobile app development has become an essential skill in today’s digital landscape, and React Native is one of the leading tools for creating powerful, cross-platform mobile apps. React Native combines the best parts of React and native app developmen...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -273,17 +283,6 @@ What? A front-ender interviewing really smart people about their processes for u
 Smashing Meets Product Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yet Another Anchor Positioning Quirk]]></title>
-        <id>https://css-tricks.com/?p=382893</id>
-        <link href="https://css-tricks.com/yet-another-anchor-positioning-quirk/"/>
-        <updated>2024-12-09T16:54:00.000Z</updated>
-        <summary type="html"><![CDATA[As awesome as I think it is, CSS Anchor Positioning has a lot of quirks, some of which are the product of its novelty and others due to its unique way of working. Today, I want to bring you yet another Anchor Positioning quirk that has bugged me since I first saw it.
-Yet Another Anchor Positioning Quirk originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
