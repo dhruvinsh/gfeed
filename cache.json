@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383563",
+          "author": "Geoff Graham",
+          "description": "I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …\nTight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/",
+          "publishedOn": "2025-01-09T16:16:15.000Z",
+          "wordCount": 1927,
+          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383563"
+        },
+        {
           "id": "https://css-tricks.com/?p=383383",
           "author": "Andy Bell",
           "description": "I am still an AI skeptic. The biggest risk I foresee is that if your sole responsibility is to write code, your job is at risk. It’s not time to panic, but I do see a lot of value in evolving your soft skills.\nThe Importance of Investing in Soft Skills in the Age of AI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -37,7 +47,7 @@
           "description": "2024 has been one of the greatest years for CSS: cross-document view transitions, scroll-driven animations, anchor positioning, animate to height: auto, and many others. It seems out of touch to ask, but what else do we …\nA CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-css-wishlist-for-2025/",
           "publishedOn": "2024-12-23T15:07:41.000Z",
-          "wordCount": 3731,
+          "wordCount": 3768,
           "title": "A CSS Wishlist for 2025",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383249"
         },
@@ -80,26 +90,6 @@
           "wordCount": 2570,
           "title": "Fluid Superscripts and Subscripts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382867"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382974",
-          "author": "Juan Diego Rodríguez",
-          "description": "The CSSWG met to try and finally squash a debate that has been going on for five years: whether Masonry should be a part of Grid or a separate system. We've got coverage of both presentations for ya.\nCSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-12-04-just-use-grid-vs-display-masonry/",
-          "publishedOn": "2024-12-10T16:27:32.000Z",
-          "wordCount": 3971,
-          "title": "CSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382974"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383028",
-          "author": "Geoff Graham",
-          "description": "I had the pleasure of hosting a recent Smashing Magazine workshop on product design, subbing for Vitaly Friedman who usually runs these things.\nWhat? A front-ender interviewing really smart people about their processes for user research, documenting requirements, and …\nSmashing Meets Product Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smashing-meets-product-design/",
-          "publishedOn": "2024-12-10T16:00:24.000Z",
-          "wordCount": 1907,
-          "title": "Smashing Meets Product Design",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383028"
         }
       ]
     },
@@ -109,12 +99,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.",
+          "link": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
+          "publishedOn": "2025-01-09T13:00:00.000Z",
+          "wordCount": 4451,
+          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "author": "hello@smashingmagazine.com (John Rhea)",
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4192,
+          "wordCount": 4207,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -131,7 +136,12 @@
           "publishedOn": "2025-01-07T14:00:00.000Z",
           "wordCount": 4063,
           "title": "How To Design For High-Traffic Events And Prevent Your Website From Crashing",
-          "imageUrl": "https:null"
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-high-traffic-events-cloudways/designing-high-traffic-events-cloudways.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-high-traffic-events-cloudways/designing-high-traffic-events-cloudways.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
@@ -139,7 +149,7 @@
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
           "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4341,
+          "wordCount": 4342,
           "title": "What Does AI Really Mean?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
@@ -154,7 +164,7 @@
           "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
           "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
           "publishedOn": "2024-12-31T12:00:00.000Z",
-          "wordCount": 5507,
+          "wordCount": 5515,
           "title": "New Front-End Features For Designers In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
@@ -169,7 +179,7 @@
           "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
           "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "publishedOn": "2024-12-31T10:00:00.000Z",
-          "wordCount": 4553,
+          "wordCount": 4554,
           "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -184,7 +194,7 @@
           "description": "Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.",
           "link": "https://smashingmagazine.com/2024/12/the-design-leader-dilemma/",
           "publishedOn": "2024-12-23T10:00:00.000Z",
-          "wordCount": 4058,
+          "wordCount": 4053,
           "title": "The Design Leader Dilemma",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-design-leader-dilemma/the-design-leader-dilemma.jpg",
@@ -199,7 +209,7 @@
           "description": "There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.",
           "link": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
           "publishedOn": "2024-12-17T10:00:00.000Z",
-          "wordCount": 5847,
+          "wordCount": 5849,
           "title": "Three Approaches To Amplify Your Design Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg",
@@ -214,7 +224,7 @@
           "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
           "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
           "publishedOn": "2024-12-11T15:00:00.000Z",
-          "wordCount": 6663,
+          "wordCount": 6657,
           "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
           "enclosure": {
             "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
@@ -230,6 +240,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67802329a9edea9df0053dd7",
+          "author": "Ibrahim ogunbiyi",
+          "description": "Have you ever found yourself searching a document for a specific word or phrase just to discover that the term you're looking for isn't there? It can be frustrating, right? Sometimes, even though you might not see the exact term you’re looking for, t...",
+          "link": "https://www.freecodecamp.org/news/what-is-semantic-matching-find-words-in-a-document-using-nlp/",
+          "publishedOn": "2025-01-09T19:27:37.000Z",
+          "wordCount": 3088,
+          "title": "What is Semantic Matching? How to Find Words in a Document Using NLP",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Dh7gzpVpdWQ/upload/4e1e504663acda31b980e6fba0c2d661.jpeg"
+        },
+        {
+          "id": "677ef3f83b47b21899e957c4",
+          "author": "Alex Pliutau",
+          "description": "In the past, many code editors were built just for one specific language. To provide rich and smart code editing, tight integration between the editor and the language tooling was a must. On the other hand, there were (and still are) more general-pur...",
+          "link": "https://www.freecodecamp.org/news/what-is-the-language-server-protocol-easier-code-editing-across-languages/",
+          "publishedOn": "2025-01-08T21:54:00.000Z",
+          "wordCount": 1998,
+          "title": "Understanding the Language Server Protocol – Easier Code Editing Across Languages and Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736371728078/f1da2e66-4095-44e6-bcdf-de44c92e81ad.jpeg"
+        },
+        {
+          "id": "677ef38c05d7f213e7d2a766",
+          "author": "Prankur Pandey",
+          "description": "Recently, I took a break from writing to focus on my exams. During this time, I had an interesting experience: I had the chance to explain SQL (Structured Query Language) to my peers. While exploring SQL in-depth, I encountered a common frustration: ...",
+          "link": "https://www.freecodecamp.org/news/talk-to-databases-using-ai-build-a-sql-query-data-extractor/",
+          "publishedOn": "2025-01-08T21:52:12.000Z",
+          "wordCount": 5636,
+          "title": "How to Talk to Any Database Using AI – Build Your Own SQL Query Data Extractor",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733842504544/0e9da173-718c-454e-841c-15c148e0fe93.jpeg"
+        },
         {
           "id": "677ee5d707323c1a72821397",
           "author": "Beau Carnes",
@@ -299,36 +339,6 @@
           "wordCount": 3974,
           "title": "SVM Kernels Explained: How to Tackle Nonlinear Data in Machine Learning",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735894336456/dae0caa1-7c01-4b88-a748-79d682bbed78.png"
-        },
-        {
-          "id": "67786dec9c66c24e89239f0a",
-          "author": "Chaitanya Rahalkar",
-          "description": "Have you ever wanted to visualize your network traffic in real-time? In this tutorial, you will be learning how to build an interactive network traffic analysis dashboard with Python and Streamlit. Streamlit is an open-source Python framework you can...",
-          "link": "https://www.freecodecamp.org/news/build-a-real-time-network-traffic-dashboard-with-python-and-streamlit/",
-          "publishedOn": "2025-01-03T23:08:28.000Z",
-          "wordCount": 2797,
-          "title": "How to Build a Real-time Network Traffic Dashboard with Python and Streamlit",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735280432228/33730b4a-6424-48b0-a7bf-ef029663fb90.png"
-        },
-        {
-          "id": "677835cd5280589b2bc82110",
-          "author": "Svitlana Lorman",
-          "description": "In our fast-paced digital era, real-time data exchange has become critical in creating responsive and dynamic user experiences. It’s especially important in applications like live news updates, chat systems, AI generative platforms, and so on. In thi...",
-          "link": "https://www.freecodecamp.org/news/server-sent-events-vs-websockets/",
-          "publishedOn": "2025-01-03T19:09:01.000Z",
-          "wordCount": 6312,
-          "title": "Server-Sent Events vs WebSockets – How to Choose a Real-Time Data Exchange Protocol",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734440242816/4ba6ef33-386a-45f7-872b-5974742855e2.png"
-        },
-        {
-          "id": "67782a8fd3a89d514105e418",
-          "author": "Oluwatobi",
-          "description": "Over the years, cloud development has seen a major paradigm shift. Newer and more complex applications are deployed rapidly to the cloud to minimize downtime. And through all of this, the concept of Infrastructure-as-Code and various tools have emerg...",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-terraform-infrastructure-as-code-in-practice/",
-          "publishedOn": "2025-01-03T18:21:03.000Z",
-          "wordCount": 3056,
-          "title": "A Beginner's Guide to Terraform – Infrastructure-as-Code in Practice",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735900327439/09832fb8-8cc0-4182-b70a-5f54ee6fce7d.jpeg"
         }
       ]
     }
