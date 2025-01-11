@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-10T01:17:54.166Z</id>
+    <id>urn:2025-01-11T01:16:21.974Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T01:17:54.166Z</updated>
+    <updated>2025-01-11T01:16:21.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CUDA and GPU Programming with Elliot Arledge [Podcast #155]]]></title>
+        <id>678179c8a470cbfb227dbd02</id>
+        <link href="https://www.freecodecamp.org/news/cuda-gpu-programming-elliot-arledge-podcast-155/"/>
+        <updated>2025-01-10T19:49:28.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Elliot Arledge. He's a 20-year old computer science student who's created several popular freeCodeCamp courses on LLMs, the Mojo programming language, and GPU programming with CUDA. He joins us from ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with RHEL: A Beginner’s Guide to Linux Basics]]></title>
+        <id>67813ff98eada5cd9c2f7dc7</id>
+        <link href="https://www.freecodecamp.org/news/guide-to-rhel-linux-basics/"/>
+        <updated>2025-01-10T15:42:49.000Z</updated>
+        <summary type="html"><![CDATA[Imagine an operating system so reliable that it powers the world’s biggest servers, the fastest supercomputers, and even the cloud infrastructure of leading tech companies. Welcome to Red Hat Enterprise Linux (RHEL) — the backbone of modern IT system...]]></summary>
+        <author>
+            <name>Tanishka Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solo Development: Learning To Let Go Of Perfection]]></title>
+        <id>https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/</id>
+        <link href="https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/"/>
+        <updated>2025-01-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Semantic Matching? How to Find Words in a Document Using NLP]]></title>
         <id>67802329a9edea9df0053dd7</id>
@@ -12,7 +42,7 @@
         <updated>2025-01-09T19:27:37.000Z</updated>
         <summary type="html"><![CDATA[Have you ever found yourself searching a document for a specific word or phrase just to discover that the term you're looking for isn't there? It can be frustrating, right? Sometimes, even though you might not see the exact term you’re looking for, t...]]></summary>
         <author>
-            <name>Ibrahim ogunbiyi</name>
+            <name>Ibrahim Ogunbiyi</name>
         </author>
     </entry>
     <entry>
@@ -124,26 +154,6 @@ Tight Mode: Why Browsers Produce Different Performance Results originally publis
         <summary type="html"><![CDATA[Product drops and sales are a great way to increase revenue, but these events can result in traffic spikes that affect a site’s availability and performance. To prevent website crashes, you’ll have to make sure that the sites you design can handle large numbers of server requests at once. Let’s discuss how!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Saad Khan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Spreadsheets by Building 33 Projects]]></title>
-        <id>677ee4b10bc6d529ee0098b7</id>
-        <link href="https://www.freecodecamp.org/news/master-spreadsheets-by-building-33-projects/"/>
-        <updated>2025-01-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets are an essential tool for managing data, solving problems, and automating workflows, whether you're a student, professional, or hobbyist. Mastering them can unlock countless possibilities in productivity and creativity. Imagine automatin...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVM Kernels Explained: How to Tackle Nonlinear Data in Machine Learning]]></title>
-        <id>677c5a037d6144e9c5ef49f8</id>
-        <link href="https://www.freecodecamp.org/news/svm-kernels-how-to-tackle-nonlinear-data-in-machine-learning/"/>
-        <updated>2025-01-06T22:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever considered how your phone can recognize handwritten text and convert it into regular computer text? Or how your email can separate messages automatically into spam and non-spam categories? Both of these examples work based on classifica...]]></summary>
-        <author>
-            <name>Josiah Adesola</name>
         </author>
     </entry>
     <entry>
@@ -260,27 +270,6 @@ What ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Olivia De Alba)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluid Superscripts and Subscripts]]></title>
-        <id>https://css-tricks.com/?p=382867</id>
-        <link href="https://css-tricks.com/fluid-superscripts-and-subscripts/"/>
-        <updated>2024-12-11T20:23:46.000Z</updated>
-        <summary type="html"><![CDATA[How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling.
-Fluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lorenz Woehr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines]]></title>
-        <id>https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/</id>
-        <link href="https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/"/>
-        <updated>2024-12-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mariana Beldi)</name>
         </author>
     </entry>
 </feed>

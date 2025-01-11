@@ -80,16 +80,6 @@
           "wordCount": 2884,
           "title": "What ELSE is on your CSS wishlist?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383250"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382867",
-          "author": "Lorenz Woehr",
-          "description": "How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling.\nFluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fluid-superscripts-and-subscripts/",
-          "publishedOn": "2024-12-11T20:23:46.000Z",
-          "wordCount": 2570,
-          "title": "Fluid Superscripts and Subscripts",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382867"
         }
       ]
     },
@@ -98,6 +88,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
+          "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
+          "publishedOn": "2025-01-10T14:00:00.000Z",
+          "wordCount": 5263,
+          "title": "Solo Development: Learning To Let Go Of Perfection",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
@@ -119,7 +124,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4207,
+          "wordCount": 4192,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -149,7 +154,7 @@
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
           "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4342,
+          "wordCount": 4352,
           "title": "What Does AI Really Mean?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
@@ -164,7 +169,7 @@
           "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
           "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
           "publishedOn": "2024-12-31T12:00:00.000Z",
-          "wordCount": 5515,
+          "wordCount": 5500,
           "title": "New Front-End Features For Designers In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
@@ -179,7 +184,7 @@
           "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
           "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "publishedOn": "2024-12-31T10:00:00.000Z",
-          "wordCount": 4554,
+          "wordCount": 4552,
           "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -194,7 +199,7 @@
           "description": "Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.",
           "link": "https://smashingmagazine.com/2024/12/the-design-leader-dilemma/",
           "publishedOn": "2024-12-23T10:00:00.000Z",
-          "wordCount": 4053,
+          "wordCount": 4057,
           "title": "The Design Leader Dilemma",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-design-leader-dilemma/the-design-leader-dilemma.jpg",
@@ -209,7 +214,7 @@
           "description": "There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.",
           "link": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
           "publishedOn": "2024-12-17T10:00:00.000Z",
-          "wordCount": 5849,
+          "wordCount": 5851,
           "title": "Three Approaches To Amplify Your Design Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg",
@@ -217,21 +222,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
-          "author": "hello@smashingmagazine.com (Mariana Beldi)",
-          "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
-          "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
-          "publishedOn": "2024-12-11T15:00:00.000Z",
-          "wordCount": 6657,
-          "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg"
         }
       ]
     },
@@ -241,12 +231,32 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "678179c8a470cbfb227dbd02",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Elliot Arledge. He's a 20-year old computer science student who's created several popular freeCodeCamp courses on LLMs, the Mojo programming language, and GPU programming with CUDA. He joins us from ...",
+          "link": "https://www.freecodecamp.org/news/cuda-gpu-programming-elliot-arledge-podcast-155/",
+          "publishedOn": "2025-01-10T19:49:28.000Z",
+          "wordCount": 1095,
+          "title": "CUDA and GPU Programming with Elliot Arledge [Podcast #155]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736538155461/7dba1aad-51f1-4c47-b8fb-c99bf77dd18a.png"
+        },
+        {
+          "id": "67813ff98eada5cd9c2f7dc7",
+          "author": "Tanishka Makode",
+          "description": "Imagine an operating system so reliable that it powers the world’s biggest servers, the fastest supercomputers, and even the cloud infrastructure of leading tech companies. Welcome to Red Hat Enterprise Linux (RHEL) — the backbone of modern IT system...",
+          "link": "https://www.freecodecamp.org/news/guide-to-rhel-linux-basics/",
+          "publishedOn": "2025-01-10T15:42:49.000Z",
+          "wordCount": 3710,
+          "title": "Getting Started with RHEL: A Beginner’s Guide to Linux Basics",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736533985344/a521db07-d7eb-47db-a71c-4949e0761b9e.jpeg"
+        },
+        {
           "id": "67802329a9edea9df0053dd7",
-          "author": "Ibrahim ogunbiyi",
+          "author": "Ibrahim Ogunbiyi",
           "description": "Have you ever found yourself searching a document for a specific word or phrase just to discover that the term you're looking for isn't there? It can be frustrating, right? Sometimes, even though you might not see the exact term you’re looking for, t...",
           "link": "https://www.freecodecamp.org/news/what-is-semantic-matching-find-words-in-a-document-using-nlp/",
           "publishedOn": "2025-01-09T19:27:37.000Z",
-          "wordCount": 3088,
+          "wordCount": 3097,
           "title": "What is Semantic Matching? How to Find Words in a Document Using NLP",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Dh7gzpVpdWQ/upload/4e1e504663acda31b980e6fba0c2d661.jpeg"
         },
@@ -319,26 +329,6 @@
           "wordCount": 2455,
           "title": "How to Run Integration Tests with GitHub Service Containers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735305764768/8e3d8980-456b-4828-abb7-dff749bbf1fd.png"
-        },
-        {
-          "id": "677ee4b10bc6d529ee0098b7",
-          "author": "Beau Carnes",
-          "description": "Spreadsheets are an essential tool for managing data, solving problems, and automating workflows, whether you're a student, professional, or hobbyist. Mastering them can unlock countless possibilities in productivity and creativity. Imagine automatin...",
-          "link": "https://www.freecodecamp.org/news/master-spreadsheets-by-building-33-projects/",
-          "publishedOn": "2025-01-07T05:00:00.000Z",
-          "wordCount": 1300,
-          "title": "Master Spreadsheets by Building 33 Projects",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736369313578/8365821c-999a-4489-8971-dbf733954a26.png"
-        },
-        {
-          "id": "677c5a037d6144e9c5ef49f8",
-          "author": "Josiah Adesola",
-          "description": "Have you ever considered how your phone can recognize handwritten text and convert it into regular computer text? Or how your email can separate messages automatically into spam and non-spam categories? Both of these examples work based on classifica...",
-          "link": "https://www.freecodecamp.org/news/svm-kernels-how-to-tackle-nonlinear-data-in-machine-learning/",
-          "publishedOn": "2025-01-06T22:32:35.000Z",
-          "wordCount": 3974,
-          "title": "SVM Kernels Explained: How to Tackle Nonlinear Data in Machine Learning",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735894336456/dae0caa1-7c01-4b88-a748-79d682bbed78.png"
         }
       ]
     }
