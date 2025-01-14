@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-13T01:19:48.735Z</id>
+    <id>urn:2025-01-14T01:12:43.785Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T01:19:48.735Z</updated>
+    <updated>2025-01-14T01:12:43.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Relational Database Basics – Key Concepts for Beginners]]></title>
+        <id>67853e7ede435f43fdeb589d</id>
+        <link href="https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/"/>
+        <updated>2025-01-13T16:25:34.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital world, data is everywhere, and it’s at the heart of most modern applications. Databases are the unsung heroes that keep it all organised and accessible. Many sites use databases, from social media platforms to online shopping retai...]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Wait for the sibling-count() and sibling-index() Functions]]></title>
+        <id>https://css-tricks.com/?p=383435</id>
+        <link href="https://css-tricks.com/how-to-wait-for-the-sibling-count-and-sibling-index-functions/"/>
+        <updated>2025-01-13T15:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Today, I want to look into one of those cases of impatient and how the community has waited for that feature, to be specific, two upcoming functions: sibling-count() and sibling-index().
+How to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Mermaid JavaScript Library to Create Flowcharts]]></title>
+        <id>678520dfd55476f9efb1de92</id>
+        <link href="https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/"/>
+        <updated>2025-01-13T14:19:11.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve recently searched for an online diagramming tool, you might have noticed that most of them rely on drag-and-drop functionality. While this is helpful for people who can’t code, it can be hard to maintain. It can also be a bit difficult to m...]]></summary>
+        <author>
+            <name>evaristo.c</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Flowcharts with Mermaid and Bring Joy to your Coding]]></title>
+        <id>67852099c122b063bd5743eb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/"/>
+        <updated>2025-01-13T14:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Coding can be intense. Especially when you are knee-deep in debugging or trying to map complex projects. For many developers — novice and pros alike — it is not uncommon to spend hours staring at code, looking for answers that won’t come. You may hav...]]></summary>
+        <author>
+            <name>evaristo.c</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CUDA and GPU Programming with Elliot Arledge [Podcast #155]]]></title>
         <id>678179c8a470cbfb227dbd02</id>
@@ -114,36 +155,6 @@ Tight Mode: Why Browsers Produce Different Performance Results originally publis
         <summary type="html"><![CDATA[HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (John Rhea)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Discover Hidden Subdomains as an Ethical Hacker]]></title>
-        <id>677d84ad446398ca6f670bef</id>
-        <link href="https://www.freecodecamp.org/news/how-to-discover-hidden-subdomains-as-an-ethical-hacker/"/>
-        <updated>2025-01-07T19:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Subdomains are an essential part of a website’s infrastructure. They provide additional functions in a web application, such as APIs, admin portals, and staging environments. As an ethical hacker, discovering subdomains is a critical step in learning...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Help Someone with Their Code Using the Socratic Method]]></title>
-        <id>677d816db702998ae550cebf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-help-someone-with-their-code-using-the-socratic-method/"/>
-        <updated>2025-01-07T19:33:01.000Z</updated>
-        <summary type="html"><![CDATA[As a programming community, freeCodeCamp helps many people who have questions about their code. It can be quite tempting to simply provide the learner with the answer and move on, but that’s actually detrimental to the learning process. Here’s why: W...]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Integration Tests with GitHub Service Containers]]></title>
-        <id>677d8125f9b13835118c7958</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-integration-tests-with-github-service-containers/"/>
-        <updated>2025-01-07T19:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I published an article about using Testcontainers to emulate external dependencies like a database and cache for backend integration tests. That article also explained the different ways of running the integration tests, environment scaffol...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
         </author>
     </entry>
     <entry>
