@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382719",
+          "author": "Geoff Graham",
+          "description": "(This is a sponsored post.)\nIt’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …\nA Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-few-ways-that-cloudways-makes-running-this-site-a-little-easier/",
+          "publishedOn": "2025-01-14T14:49:10.000Z",
+          "wordCount": 2434,
+          "title": "A Few Ways That Cloudways Makes Running This Site a Little Easier",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382719"
+        },
+        {
           "id": "https://css-tricks.com/?p=383435",
           "author": "Juan Diego Rodríguez",
           "description": "Today, I want to look into one of those cases of impatient and how the community has waited for that feature, to be specific, two upcoming functions: sibling-count() and sibling-index().\nHow to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-wait-for-the-sibling-count-and-sibling-index-functions/",
           "publishedOn": "2025-01-13T15:08:01.000Z",
-          "wordCount": 4008,
+          "wordCount": 4024,
           "title": "How to Wait for the sibling-count() and sibling-index() Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383435"
         },
@@ -47,7 +57,7 @@
           "description": "I'm more thankful this time around because, last year, I didn't even get to write this post. But now that I'm back, writing this feels so, so, so good. There's a lot more gusto going into my writing when I say: thank you so very much! Let's tie a bow on this year and round up what happened around here in 2024.\nThank You (2024 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/thank-you-2024-edition/",
           "publishedOn": "2024-12-30T16:15:37.000Z",
-          "wordCount": 3745,
+          "wordCount": 3760,
           "title": "Thank You (2024 Edition)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383295"
         },
@@ -67,7 +77,7 @@
           "description": "Today, I want to focus on what I'll call the little triangle in the tooltip. It receives minimal attention but it amazes you by how many ways there are to make them. Let's start with the simplest and make our way up to the not-so-simple.\nThe Little Triangle in the Tooltip originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-little-triangle-in-the-tooltip/",
           "publishedOn": "2024-12-20T16:31:05.000Z",
-          "wordCount": 3276,
+          "wordCount": 3312,
           "title": "The Little Triangle in the Tooltip",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383224"
         },
@@ -99,12 +109,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
+          "author": "hello@smashingmagazine.com (Thomas Bohm)",
+          "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
+          "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
+          "publishedOn": "2025-01-14T08:00:00.000Z",
+          "wordCount": 4339,
+          "title": "The Role Of Illustration Style In Visual Storytelling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5279,
+          "wordCount": 5253,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -134,7 +159,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4306,
+          "wordCount": 4300,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -164,7 +189,7 @@
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
           "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4338,
+          "wordCount": 4335,
           "title": "What Does AI Really Mean?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
@@ -179,7 +204,7 @@
           "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
           "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
           "publishedOn": "2024-12-31T12:00:00.000Z",
-          "wordCount": 5501,
+          "wordCount": 5516,
           "title": "New Front-End Features For Designers In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
@@ -194,7 +219,7 @@
           "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
           "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "publishedOn": "2024-12-31T10:00:00.000Z",
-          "wordCount": 4561,
+          "wordCount": 4555,
           "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -209,7 +234,7 @@
           "description": "Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.",
           "link": "https://smashingmagazine.com/2024/12/the-design-leader-dilemma/",
           "publishedOn": "2024-12-23T10:00:00.000Z",
-          "wordCount": 4061,
+          "wordCount": 4057,
           "title": "The Design Leader Dilemma",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-design-leader-dilemma/the-design-leader-dilemma.jpg",
@@ -241,6 +266,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6786814ce75a85acb18f1d2d",
+          "author": "Ashimi0x",
+          "description": "Enhancing security is a critical aspect of every development process. But it’s crucial to make your apps accessible for users signing up for the application. So, creating a seamless experience for users while they sign up and maintaining security thr...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-social-authentication-with-strapi-and-nuxtjs/",
+          "publishedOn": "2025-01-14T15:22:52.000Z",
+          "wordCount": 2927,
+          "title": "How to Set Up Social Authentication with Strapi and Nuxt.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736865891246/8be87fdb-c57b-4ae1-91ea-00b6dbffe09b.png"
+        },
+        {
+          "id": "67867ea8a91f104f3f20e6a4",
+          "author": "Vahe Aslanyan",
+          "description": "Artificial intelligence is revolutionizing the agriculture industry, paving the way for a future of smarter, more efficient farming practices. Imagine a world where crops are grown with precision and care, maximizing yields like never before. With AI...",
+          "link": "https://www.freecodecamp.org/news/ai-in-agriculture-book/",
+          "publishedOn": "2025-01-14T15:11:36.000Z",
+          "wordCount": 22637,
+          "title": "AI in Agriculture: How AI-Enhanced Farming Can Increase Crop Yields [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736809244328/d4d5d757-b580-4c18-bc21-dad0bbd75f14.png"
+        },
+        {
+          "id": "67859c6915988a75c229dee2",
+          "author": "Spruce Emmanuel",
+          "description": "While browsing through some of my old projects, I stumbled upon a portfolio I worked on a while back. The funny thing? I never used it. So, I decided to give it a fresh look and thought, why not share it with you? As a developer, having a portfolio i...",
+          "link": "https://www.freecodecamp.org/news/build-a-simple-portfolio-website-with-html-and-css/",
+          "publishedOn": "2025-01-13T23:06:17.000Z",
+          "wordCount": 3633,
+          "title": "How to Build a Simple Portfolio Website With HTML and CSS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736809428369/d28ee1e5-c11b-48fa-9ccd-b7fbaedd52da.png"
+        },
+        {
           "id": "67853e7ede435f43fdeb589d",
           "author": "Zubair Idris Aweda",
           "description": "In today’s digital world, data is everywhere, and it’s at the heart of most modern applications. Databases are the unsung heroes that keep it all organised and accessible. Many sites use databases, from social media platforms to online shopping retai...",
@@ -266,8 +321,8 @@
           "description": "Coding can be intense. Especially when you are knee-deep in debugging or trying to map complex projects. For many developers — novice and pros alike — it is not uncommon to spend hours staring at code, looking for answers that won’t come. You may hav...",
           "link": "https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/",
           "publishedOn": "2025-01-13T14:18:01.000Z",
-          "wordCount": 7370,
-          "title": "How to Make Flowcharts with Mermaid and Bring Joy to your Coding",
+          "wordCount": 7364,
+          "title": "How to Make Flowcharts and Bring Joy to your Coding",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736777856399/98a5d535-280e-4496-b0fb-67ad5a1b401d.png"
         },
         {
@@ -309,36 +364,6 @@
           "wordCount": 1998,
           "title": "Understanding the Language Server Protocol – Easier Code Editing Across Languages and Tools",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736371728078/f1da2e66-4095-44e6-bcdf-de44c92e81ad.jpeg"
-        },
-        {
-          "id": "677ef38c05d7f213e7d2a766",
-          "author": "Prankur Pandey",
-          "description": "Recently, I took a break from writing to focus on my exams. During this time, I had an interesting experience: I had the chance to explain SQL (Structured Query Language) to my peers. While exploring SQL in-depth, I encountered a common frustration: ...",
-          "link": "https://www.freecodecamp.org/news/talk-to-databases-using-ai-build-a-sql-query-data-extractor/",
-          "publishedOn": "2025-01-08T21:52:12.000Z",
-          "wordCount": 5636,
-          "title": "How to Talk to Any Database Using AI – Build Your Own SQL Query Data Extractor",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733842504544/0e9da173-718c-454e-841c-15c148e0fe93.jpeg"
-        },
-        {
-          "id": "677ee5d707323c1a72821397",
-          "author": "Beau Carnes",
-          "description": "Artificial Intelligence is revolutionizing industries and workflows, and learning to work with AI in the cloud is an important skill for modern developers. Whether you're a beginner or looking to deepen your understanding of generative AI, this cours...",
-          "link": "https://www.freecodecamp.org/news/learn-generative-ai-in-23-hours/",
-          "publishedOn": "2025-01-08T20:53:43.000Z",
-          "wordCount": 1316,
-          "title": "Learn Generative AI in 23 Hours",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736369609882/91a5456e-e10e-4189-a8ea-7896198fdc65.png"
-        },
-        {
-          "id": "677ede843a92814ab28fbf50",
-          "author": "Beau Carnes",
-          "description": "Creating unique projects is one of the best ways to grow as a programmer, and what better way to learn than by building something creative for the holiday season? Imagine crafting a festive Christmas calendar from scratch, generating eye-catching, cu...",
-          "link": "https://www.freecodecamp.org/news/create-christmas-icons-with-javascript-and-html/",
-          "publishedOn": "2025-01-08T20:22:28.000Z",
-          "wordCount": 1304,
-          "title": "Create Christmas Icons with JavaScript and HTML",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736367725677/3d021d67-d8ee-4bde-af72-1c34b5c3170b.png"
         }
       ]
     }

@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-14T01:12:43.785Z</id>
+    <id>urn:2025-01-15T01:14:21.180Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T01:12:43.785Z</updated>
+    <updated>2025-01-15T01:14:21.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Social Authentication with Strapi and Nuxt.js]]></title>
+        <id>6786814ce75a85acb18f1d2d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-social-authentication-with-strapi-and-nuxtjs/"/>
+        <updated>2025-01-14T15:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Enhancing security is a critical aspect of every development process. But it’s crucial to make your apps accessible for users signing up for the application. So, creating a seamless experience for users while they sign up and maintaining security thr...]]></summary>
+        <author>
+            <name>Ashimi0x</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Agriculture: How AI-Enhanced Farming Can Increase Crop Yields [Full Book]]]></title>
+        <id>67867ea8a91f104f3f20e6a4</id>
+        <link href="https://www.freecodecamp.org/news/ai-in-agriculture-book/"/>
+        <updated>2025-01-14T15:11:36.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is revolutionizing the agriculture industry, paving the way for a future of smarter, more efficient farming practices. Imagine a world where crops are grown with precision and care, maximizing yields like never before. With AI...]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Few Ways That Cloudways Makes Running This Site a Little Easier]]></title>
+        <id>https://css-tricks.com/?p=382719</id>
+        <link href="https://css-tricks.com/a-few-ways-that-cloudways-makes-running-this-site-a-little-easier/"/>
+        <updated>2025-01-14T14:49:10.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+It’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …
+A Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role Of Illustration Style In Visual Storytelling]]></title>
+        <id>https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/</id>
+        <link href="https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/"/>
+        <updated>2025-01-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Simple Portfolio Website With HTML and CSS]]></title>
+        <id>67859c6915988a75c229dee2</id>
+        <link href="https://www.freecodecamp.org/news/build-a-simple-portfolio-website-with-html-and-css/"/>
+        <updated>2025-01-13T23:06:17.000Z</updated>
+        <summary type="html"><![CDATA[While browsing through some of my old projects, I stumbled upon a portfolio I worked on a while back. The funny thing? I never used it. So, I decided to give it a fresh look and thought, why not share it with you? As a developer, having a portfolio i...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Relational Database Basics – Key Concepts for Beginners]]></title>
         <id>67853e7ede435f43fdeb589d</id>
@@ -37,7 +89,7 @@ How to Wait for the sibling-count() and sibling-index() Functions originally pub
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make Flowcharts with Mermaid and Bring Joy to your Coding]]></title>
+        <title type="html"><![CDATA[How to Make Flowcharts and Bring Joy to your Coding]]></title>
         <id>67852099c122b063bd5743eb</id>
         <link href="https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/"/>
         <updated>2025-01-13T14:18:01.000Z</updated>
@@ -115,36 +167,6 @@ Tight Mode: Why Browsers Produce Different Performance Results originally publis
         <summary type="html"><![CDATA[In the past, many code editors were built just for one specific language. To provide rich and smart code editing, tight integration between the editor and the language tooling was a must. On the other hand, there were (and still are) more general-pur...]]></summary>
         <author>
             <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Talk to Any Database Using AI – Build Your Own SQL Query Data Extractor]]></title>
-        <id>677ef38c05d7f213e7d2a766</id>
-        <link href="https://www.freecodecamp.org/news/talk-to-databases-using-ai-build-a-sql-query-data-extractor/"/>
-        <updated>2025-01-08T21:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I took a break from writing to focus on my exams. During this time, I had an interesting experience: I had the chance to explain SQL (Structured Query Language) to my peers. While exploring SQL in-depth, I encountered a common frustration: ...]]></summary>
-        <author>
-            <name>Prankur Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Generative AI in 23 Hours]]></title>
-        <id>677ee5d707323c1a72821397</id>
-        <link href="https://www.freecodecamp.org/news/learn-generative-ai-in-23-hours/"/>
-        <updated>2025-01-08T20:53:43.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is revolutionizing industries and workflows, and learning to work with AI in the cloud is an important skill for modern developers. Whether you're a beginner or looking to deepen your understanding of generative AI, this cours...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Christmas Icons with JavaScript and HTML]]></title>
-        <id>677ede843a92814ab28fbf50</id>
-        <link href="https://www.freecodecamp.org/news/create-christmas-icons-with-javascript-and-html/"/>
-        <updated>2025-01-08T20:22:28.000Z</updated>
-        <summary type="html"><![CDATA[Creating unique projects is one of the best ways to grow as a programmer, and what better way to learn than by building something creative for the holiday season? Imagine crafting a festive Christmas calendar from scratch, generating eye-catching, cu...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
