@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383533",
+          "author": "Lee Meyer",
+          "description": "Lee Meyer with a super clever idea using scroll-driven animations as an interaction to \"like\" or \"dislike\" something.\nWeb-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/web-slinger-css-across-the-swiper-verse/",
+          "publishedOn": "2025-01-15T15:03:25.000Z",
+          "wordCount": 2933,
+          "title": "Web-Slinger.css: Across the Swiper-Verse",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383533"
+        },
+        {
           "id": "https://css-tricks.com/?p=382719",
           "author": "Geoff Graham",
           "description": "(This is a sponsored post.)\nIt’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …\nA Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -114,7 +124,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4339,
+          "wordCount": 4326,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -129,7 +139,7 @@
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5253,
+          "wordCount": 5261,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -159,7 +169,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4300,
+          "wordCount": 4202,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -189,7 +199,7 @@
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
           "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4335,
+          "wordCount": 4440,
           "title": "What Does AI Really Mean?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
@@ -204,7 +214,7 @@
           "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
           "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
           "publishedOn": "2024-12-31T12:00:00.000Z",
-          "wordCount": 5516,
+          "wordCount": 5502,
           "title": "New Front-End Features For Designers In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
@@ -219,7 +229,7 @@
           "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
           "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "publishedOn": "2024-12-31T10:00:00.000Z",
-          "wordCount": 4555,
+          "wordCount": 4551,
           "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -234,7 +244,7 @@
           "description": "Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.",
           "link": "https://smashingmagazine.com/2024/12/the-design-leader-dilemma/",
           "publishedOn": "2024-12-23T10:00:00.000Z",
-          "wordCount": 4057,
+          "wordCount": 4065,
           "title": "The Design Leader Dilemma",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-design-leader-dilemma/the-design-leader-dilemma.jpg",
@@ -242,21 +252,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/the-design-leader-dilemma/the-design-leader-dilemma.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
-          "author": "hello@smashingmagazine.com (Olivia De Alba)",
-          "description": "There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.",
-          "link": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
-          "publishedOn": "2024-12-17T10:00:00.000Z",
-          "wordCount": 5841,
-          "title": "Three Approaches To Amplify Your Design Projects",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg"
         }
       ]
     },
