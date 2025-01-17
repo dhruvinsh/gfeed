@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-16T01:13:48.345Z</id>
+    <id>urn:2025-01-17T01:13:36.591Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T01:13:48.345Z</updated>
+    <updated>2025-01-17T01:13:36.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Deep Learning Research Tutorial - Theory, Code, and Math]]></title>
+        <id>678921f0a510ee899ead3f7c</id>
+        <link href="https://www.freecodecamp.org/news/understanding-deep-learning-research-tutorial-theory-code-and-math/"/>
+        <updated>2025-01-16T15:12:48.000Z</updated>
+        <summary type="html"><![CDATA[Understanding deep learning research can often feel like unraveling a dense and intricate puzzle. From decoding mathematical notation to navigating complex code bases, the process can be daunting, especially for newcomers. But with the right guidance...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Use GitHub Actions: a Step-by-Step Guide]]></title>
+        <id>6789193ad7f606e4fbf4d0a0</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/"/>
+        <updated>2025-01-16T14:35:38.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Actions are one of the most helpful features of GitHub. Actions help you automate, build, test, and deploy your app from your GitHub. They also help you perform code reviews and tests, manage branches, triage issues, and more. In simple terms,...]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On-Device AI: Building Smarter, Faster, And Private Applications]]></title>
+        <id>https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/</id>
+        <link href="https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/"/>
+        <updated>2025-01-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer]]></title>
+        <id>67881bffe4f437ad54564e34</id>
+        <link href="https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/"/>
+        <updated>2025-01-15T20:35:11.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered who’s behind the groundbreaking technologies like ChatGPT from OpenAI, Tesla’s autonomous vehicles, or the humanoid robots redefining our perception of artificial intelligence? What does it take to be one of those innovators dr...]]></summary>
+        <author>
+            <name>Tatev T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Simplify Python Library RPM Packaging with Mock and Podman]]></title>
+        <id>67880c8c282408c6e731883a</id>
+        <link href="https://www.freecodecamp.org/news/simplify-python-library-rpm-packaging-with-mock-and-podman/"/>
+        <updated>2025-01-15T19:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Packaging libraries and applications written in Python comes with its challenges. And while virtual environments are great for controlling and standardizing installations, there are some scenarios where using them may not be the best. For example, sa...]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Programmatically Highlight Text with the CSS Custom Highlight API]]></title>
+        <id>6787d62041c11049156708c3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-programmatically-highlight-text-with-the-css-custom-highlight-api/"/>
+        <updated>2025-01-15T15:37:04.000Z</updated>
+        <summary type="html"><![CDATA[You can highlight text in the browser by clicking and dragging through the desired text. And sometimes this works fine. But there are times when you’ll want to programmatically highlight some text in an HTML document. In this article, I’ll discuss a ...]]></summary>
+        <author>
+            <name>Joe Attardi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web-Slinger.css: Across the Swiper-Verse]]></title>
         <id>https://css-tricks.com/?p=383533</id>
@@ -14,6 +74,26 @@
 Web-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Dynamic Web Scraper App with Playwright and React: A Step-by-Step Guide]]></title>
+        <id>6787cb727ee491a35577e9d5</id>
+        <link href="https://www.freecodecamp.org/news/build-a-dynamic-web-scraper-app-with-playwright-and-react/"/>
+        <updated>2025-01-15T14:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Today we are going to build a small web scraper app. This application will scrape data from the Airbnb website and display it in a nice grid view. We will also add a Refresh button that will be able to trigger a new scraping round and update the resu...]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Lisp Programming Language]]></title>
+        <id>6789208ba535fc45fab6acd4</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-lisp-programming-language/"/>
+        <updated>2025-01-15T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever wanted to explore a programming language that combines elegance, flexibility, and a rich history of innovation, Lisp is a perfect choice. With over six decades of influence on computer science, Lisp has played a foundational role in sh...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -59,23 +139,13 @@ A Few Ways That Cloudways Makes Running This Site a Little Easier originally pub
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Simple Portfolio Website With HTML and CSS]]></title>
-        <id>67859c6915988a75c229dee2</id>
-        <link href="https://www.freecodecamp.org/news/build-a-simple-portfolio-website-with-html-and-css/"/>
-        <updated>2025-01-13T23:06:17.000Z</updated>
-        <summary type="html"><![CDATA[While browsing through some of my old projects, I stumbled upon a portfolio I worked on a while back. The funny thing? I never used it. So, I decided to give it a fresh look and thought, why not share it with you? As a developer, having a portfolio i...]]></summary>
+        <title type="html"><![CDATA[Here are 850+ Ivy League Courses You Can Take Right Now for Free]]></title>
+        <id>66d45eb473634435aafcef96</id>
+        <link href="https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/"/>
+        <updated>2025-01-14T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By Dhawal Shah The 8 Ivy League schools - Harvard, Yale, Princeton, Columbia, Cornell, Dartmouth, Brown, and the University of Pennsylvania - are among the most prestigious universities in the world. In 2025, all 8 Ivy League schools are ranked in th...]]></summary>
         <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Relational Database Basics – Key Concepts for Beginners]]></title>
-        <id>67853e7ede435f43fdeb589d</id>
-        <link href="https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/"/>
-        <updated>2025-01-13T16:25:34.000Z</updated>
-        <summary type="html"><![CDATA[In today’s digital world, data is everywhere, and it’s at the heart of most modern applications. Databases are the unsung heroes that keep it all organised and accessible. Many sites use databases, from social media platforms to online shopping retai...]]></summary>
-        <author>
-            <name>Zubair Idris Aweda</name>
+            <name>freeCodeCamp</name>
         </author>
     </entry>
     <entry>
@@ -90,46 +160,6 @@ How to Wait for the sibling-count() and sibling-index() Functions originally pub
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Mermaid JavaScript Library to Create Flowcharts]]></title>
-        <id>678520dfd55476f9efb1de92</id>
-        <link href="https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/"/>
-        <updated>2025-01-13T14:19:11.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve recently searched for an online diagramming tool, you might have noticed that most of them rely on drag-and-drop functionality. While this is helpful for people who can’t code, it can be hard to maintain. It can also be a bit difficult to m...]]></summary>
-        <author>
-            <name>evaristo.c</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Flowcharts and Bring Joy to your Coding]]></title>
-        <id>67852099c122b063bd5743eb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/"/>
-        <updated>2025-01-13T14:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Coding can be intense. Especially when you are knee-deep in debugging or trying to map complex projects. For many developers — novice and pros alike — it is not uncommon to spend hours staring at code, looking for answers that won’t come. You may hav...]]></summary>
-        <author>
-            <name>evaristo.c</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUDA and GPU Programming with Elliot Arledge [Podcast #155]]]></title>
-        <id>678179c8a470cbfb227dbd02</id>
-        <link href="https://www.freecodecamp.org/news/cuda-gpu-programming-elliot-arledge-podcast-155/"/>
-        <updated>2025-01-10T19:49:28.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Elliot Arledge. He's a 20-year old computer science student who's created several popular freeCodeCamp courses on LLMs, the Mojo programming language, and GPU programming with CUDA. He joins us from ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with RHEL: A Beginner’s Guide to Linux Basics]]></title>
-        <id>67813ff98eada5cd9c2f7dc7</id>
-        <link href="https://www.freecodecamp.org/news/guide-to-rhel-linux-basics/"/>
-        <updated>2025-01-10T15:42:49.000Z</updated>
-        <summary type="html"><![CDATA[Imagine an operating system so reliable that it powers the world’s biggest servers, the fastest supercomputers, and even the cloud infrastructure of leading tech companies. Welcome to Red Hat Enterprise Linux (RHEL) — the backbone of modern IT system...]]></summary>
-        <author>
-            <name>Tanishka Makode</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solo Development: Learning To Let Go Of Perfection]]></title>
         <id>https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/</id>
         <link href="https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/"/>
@@ -137,16 +167,6 @@ How to Wait for the sibling-count() and sibling-index() Functions originally pub
         <summary type="html"><![CDATA[The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Semantic Matching? How to Find Words in a Document Using NLP]]></title>
-        <id>67802329a9edea9df0053dd7</id>
-        <link href="https://www.freecodecamp.org/news/what-is-semantic-matching-find-words-in-a-document-using-nlp/"/>
-        <updated>2025-01-09T19:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever found yourself searching a document for a specific word or phrase just to discover that the term you're looking for isn't there? It can be frustrating, right? Sometimes, even though you might not see the exact term you’re looking for, t...]]></summary>
-        <author>
-            <name>Ibrahim Ogunbiyi</name>
         </author>
     </entry>
     <entry>
@@ -168,16 +188,6 @@ Tight Mode: Why Browsers Produce Different Performance Results originally publis
         <summary type="html"><![CDATA[We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Language Server Protocol – Easier Code Editing Across Languages and Tools]]></title>
-        <id>677ef3f83b47b21899e957c4</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-language-server-protocol-easier-code-editing-across-languages/"/>
-        <updated>2025-01-08T21:54:00.000Z</updated>
-        <summary type="html"><![CDATA[In the past, many code editors were built just for one specific language. To provide rich and smart code editing, tight integration between the editor and the language tooling was a must. On the other hand, there were (and still are) more general-pur...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
         </author>
     </entry>
     <entry>
@@ -293,17 +303,6 @@ The Little Triangle in the Tooltip originally published on CSS-Tricks, which is 
 How to Create Multi-Step Forms With Vanilla JavaScript and CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Fatuma Abdullaho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What ELSE is on your CSS wishlist?]]></title>
-        <id>https://css-tricks.com/?p=383250</id>
-        <link href="https://css-tricks.com/what-else-is-on-your-css-wishlist/"/>
-        <updated>2024-12-17T20:07:30.000Z</updated>
-        <summary type="html"><![CDATA[What else do we want or need CSS to do? Chris kept a CSS wishlist, going back as far as 2013 and following back up on it in 2019. We all have things we'd like to see CSS do and we always will no matter how many sparkly new features we get. We'll round things up and put a list together — so let us know!
-What ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
