@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-18T01:11:44.367Z</id>
+    <id>urn:2025-01-19T01:19:09.375Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-18T01:11:44.367Z</updated>
+    <updated>2025-01-19T01:19:09.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Reality VS Speculation with Google Machine Learning Engineer Jiquan Ngiam [Podcast #156]]]></title>
+        <id>678ad60f07a0a18254c0d6a9</id>
+        <link href="https://www.freecodecamp.org/news/ai-reality-vs-speculation-jiquan-ngiam-podcast-156/"/>
+        <updated>2025-01-17T22:13:35.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jiquan Ngiam. He's a former Google Brain engineer who's building tools to make AI useful for everyone – not just developers. We talk about the power of AI and it's practical capabilities, and separat...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Langbase Memory Agents to Make Any LLM a Conversational AI for Your Docs]]></title>
         <id>678ac8f3892c4e60d8af0e95</id>
@@ -135,16 +145,6 @@ Web-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[If you’ve ever wanted to explore a programming language that combines elegance, flexibility, and a rich history of innovation, Lisp is a perfect choice. With over six decades of influence on computer science, Lisp has played a foundational role in sh...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Social Authentication with Strapi and Nuxt.js]]></title>
-        <id>6786814ce75a85acb18f1d2d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-social-authentication-with-strapi-and-nuxtjs/"/>
-        <updated>2025-01-14T15:22:52.000Z</updated>
-        <summary type="html"><![CDATA[Enhancing security is a critical aspect of every development process. But it’s crucial to make your apps accessible for users signing up for the application. So, creating a seamless experience for users while they sign up and maintaining security thr...]]></summary>
-        <author>
-            <name>Ashimi0x</name>
         </author>
     </entry>
     <entry>
