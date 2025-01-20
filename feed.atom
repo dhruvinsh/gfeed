@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-19T01:19:09.375Z</id>
+    <id>urn:2025-01-20T01:14:59.898Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-19T01:19:09.375Z</updated>
+    <updated>2025-01-20T01:14:59.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -302,17 +302,6 @@ A CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the
         <summary type="html"><![CDATA[Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Little Triangle in the Tooltip]]></title>
-        <id>https://css-tricks.com/?p=383224</id>
-        <link href="https://css-tricks.com/the-little-triangle-in-the-tooltip/"/>
-        <updated>2024-12-20T16:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Today, I want to focus on what I'll call the little triangle in the tooltip. It receives minimal attention but it amazes you by how many ways there are to make them. Let's start with the simplest and make our way up to the not-so-simple.
-The Little Triangle in the Tooltip originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
