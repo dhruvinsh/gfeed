@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-21T01:13:34.359Z</id>
+    <id>urn:2025-01-22T01:15:23.647Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-21T01:13:34.359Z</updated>
+    <updated>2025-01-22T01:15:23.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-Time Intrusion Detection System with Python and Open-Source Libraries]]></title>
+        <id>678faf10f366e60cf6e7b6d0</id>
+        <link href="https://www.freecodecamp.org/news/build-a-real-time-intrusion-detection-system-with-python/"/>
+        <updated>2025-01-21T14:28:32.000Z</updated>
+        <summary type="html"><![CDATA[An Intrusion Detection System (IDS) is like a security camera for your network. Just as security cameras help identify suspicious activities in the physical world, an IDS will monitor your network to help detect any potential cyber attacks and securi...]]></summary>
+        <author>
+            <name>Chaitanya Rahalkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a “Starred” Feed]]></title>
+        <id>https://css-tricks.com/?p=382660</id>
+        <link href="https://css-tricks.com/creating-a-starred-feed/"/>
+        <updated>2025-01-21T14:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Chris wrote about “Likes” pages a long while back. The idea is rather simple: “Like” an item in your RSS reader and display it in a feed of other liked items. The little example Chris made is still really good.…
+Creating a “Starred” Feed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Discord Webhooks with Next.js 15 – Example Project]]></title>
+        <id>678fa927b9b8fe257214e1be</id>
+        <link href="https://www.freecodecamp.org/news/integrate-discord-webhooks-with-nextjs-15-example-project/"/>
+        <updated>2025-01-21T14:03:19.000Z</updated>
+        <summary type="html"><![CDATA[You’ve likely seen (or used) contact forms on websites that ask for customer feedback, potential work opportunities, customer contact info, and so on. But do you know what’s required to get all that feedback, contact info, and data sent to a private ...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating The Challenges Of Modern Open-Source Authoring: Lessons Learned]]></title>
+        <id>https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/</id>
+        <link href="https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/"/>
+        <updated>2025-01-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alvaro Saburido)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Reality VS Speculation with Google Machine Learning Engineer Jiquan Ngiam [Podcast #156]]]></title>
         <id>678ad60f07a0a18254c0d6a9</id>
@@ -125,26 +166,6 @@ Fancy Menu Navigation Using Anchor Positioning originally published on CSS-Trick
 Web-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Dynamic Web Scraper App with Playwright and React: A Step-by-Step Guide]]></title>
-        <id>6787cb727ee491a35577e9d5</id>
-        <link href="https://www.freecodecamp.org/news/build-a-dynamic-web-scraper-app-with-playwright-and-react/"/>
-        <updated>2025-01-15T14:51:30.000Z</updated>
-        <summary type="html"><![CDATA[Today we are going to build a small web scraper app. This application will scrape data from the Airbnb website and display it in a nice grid view. We will also add a Refresh button that will be able to trigger a new scraping round and update the resu...]]></summary>
-        <author>
-            <name>Mihail Gaberov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Lisp Programming Language]]></title>
-        <id>6789208ba535fc45fab6acd4</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-lisp-programming-language/"/>
-        <updated>2025-01-15T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever wanted to explore a programming language that combines elegance, flexibility, and a rich history of innovation, Lisp is a perfect choice. With over six decades of influence on computer science, Lisp has played a foundational role in sh...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -292,16 +313,6 @@ Thank You (2024 Edition) originally published on CSS-Tricks, which is part of th
 A CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Design Leader Dilemma]]></title>
-        <id>https://smashingmagazine.com/2024/12/the-design-leader-dilemma/</id>
-        <link href="https://smashingmagazine.com/2024/12/the-design-leader-dilemma/"/>
-        <updated>2024-12-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
