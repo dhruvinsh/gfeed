@@ -17,7 +17,7 @@
           "description": "Chris wrote about “Likes” pages a long while back. The idea is rather simple: “Like” an item in your RSS reader and display it in a feed of other liked items. The little example Chris made is still really good.…\nCreating a “Starred” Feed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/creating-a-starred-feed/",
           "publishedOn": "2025-01-21T14:21:32.000Z",
-          "wordCount": 3116,
+          "wordCount": 3146,
           "title": "Creating a “Starred” Feed",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382660"
         },
@@ -90,16 +90,6 @@
           "wordCount": 3760,
           "title": "Thank You (2024 Edition)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383295"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383249",
-          "author": "Juan Diego Rodríguez",
-          "description": "2024 has been one of the greatest years for CSS: cross-document view transitions, scroll-driven animations, anchor positioning, animate to height: auto, and many others. It seems out of touch to ask, but what else do we …\nA CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-css-wishlist-for-2025/",
-          "publishedOn": "2024-12-23T15:07:41.000Z",
-          "wordCount": 3768,
-          "title": "A CSS Wishlist for 2025",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383249"
         }
       ]
     },
@@ -129,7 +119,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3695,
+          "wordCount": 3712,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -144,7 +134,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4936,
+          "wordCount": 4934,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -159,7 +149,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4324,
+          "wordCount": 4332,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -174,7 +164,7 @@
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5268,
+          "wordCount": 5271,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -204,7 +194,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4207,
+          "wordCount": 4196,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -234,7 +224,7 @@
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
           "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4335,
+          "wordCount": 4342,
           "title": "What Does AI Really Mean?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
@@ -249,7 +239,7 @@
           "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
           "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
           "publishedOn": "2024-12-31T12:00:00.000Z",
-          "wordCount": 5512,
+          "wordCount": 5505,
           "title": "New Front-End Features For Designers In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
@@ -264,7 +254,7 @@
           "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
           "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "publishedOn": "2024-12-31T10:00:00.000Z",
-          "wordCount": 4553,
+          "wordCount": 4552,
           "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -280,6 +270,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6791307b3bc9c704716dadd4",
+          "author": "Beau Carnes",
+          "description": "Building a website might seem daunting, but WordPress makes it accessible to everyone. With WordPress, you can create a professional website tailored to your needs, whether it’s for a personal blog, a small business, or an online store. The platform’...",
+          "link": "https://www.freecodecamp.org/news/create-a-wordpress-website/",
+          "publishedOn": "2025-01-22T17:52:59.000Z",
+          "wordCount": 1329,
+          "title": "Create a WordPress Website",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737568134192/7ab11a8b-9d79-496b-b5c5-06f324a62670.png"
+        },
+        {
+          "id": "6790382dcb2eedbe449b6899",
+          "author": "Eti Ijeoma",
+          "description": "Creating a solid application monitoring and observability strategy is a critical foundational step when deploying infrastructure or software in any environment. Monitoring ensures that your systems are running smoothly, while observability provides i...",
+          "link": "https://www.freecodecamp.org/news/kubernetes-cluster-observability-with-prometheus-and-grafana-on-aws/",
+          "publishedOn": "2025-01-22T00:13:33.000Z",
+          "wordCount": 3684,
+          "title": "How to Monitor Your Kubernetes Clusters with Prometheus and Grafana on AWS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737504669572/017570c6-7676-44e1-aa19-4257dd7d30e7.png"
+        },
+        {
+          "id": "679037f81f50429b12d52738",
+          "author": "Manish Shivanandhan",
+          "description": "If you’re starting your journey into penetration testing, you’ve likely heard of Metasploit. Metasploit is one of the most versatile tools in cybersecurity. It helps simplify vulnerability testing and exploitation. Metasploit helps us find and fix we...",
+          "link": "https://www.freecodecamp.org/news/learn-metasploit-for-beginners/",
+          "publishedOn": "2025-01-22T00:12:40.000Z",
+          "wordCount": 2100,
+          "title": "Metasploit for Beginners — A Guide to the Powerful Exploitation Framework",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737504731562/ebce2299-d90e-4b17-a1b0-15b4dbe6d844.png"
+        },
         {
           "id": "678faf10f366e60cf6e7b6d0",
           "author": "Chaitanya Rahalkar",
@@ -299,6 +319,16 @@
           "wordCount": 4090,
           "title": "How to Integrate Discord Webhooks with Next.js 15 – Example Project",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737468174839/93832182-b4a9-48c0-aee5-cd8d716fc47a.png"
+        },
+        {
+          "id": "67912f406a65d8a9c9ef9f7e",
+          "author": "Beau Carnes",
+          "description": "Technical interviews can be intimidating, especially when you're preparing for roles at top tech companies. To succeed, you need a solid grasp of algorithms, data structures, and problem-solving strategies. The NeetCode 150 is an invaluable resource—...",
+          "link": "https://www.freecodecamp.org/news/prepare-for-technical-interviews-using-neetcode-150/",
+          "publishedOn": "2025-01-21T05:00:00.000Z",
+          "wordCount": 1264,
+          "title": "Prepare for Technical Interviews Using Neetcode 150",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737567904804/e1f89c98-9264-40e4-8183-f230b2bac811.png"
         },
         {
           "id": "678ad60f07a0a18254c0d6a9",
@@ -339,46 +369,6 @@
           "wordCount": 1433,
           "title": "Understanding Deep Learning Research Tutorial - Theory, Code, and Math",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737040354258/4ad88afd-82ee-4b59-bc6a-cdc9a5537c59.png"
-        },
-        {
-          "id": "6789193ad7f606e4fbf4d0a0",
-          "author": "Rajdeep Singh",
-          "description": "GitHub Actions are one of the most helpful features of GitHub. Actions help you automate, build, test, and deploy your app from your GitHub. They also help you perform code reviews and tests, manage branches, triage issues, and more. In simple terms,...",
-          "link": "https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/",
-          "publishedOn": "2025-01-16T14:35:38.000Z",
-          "wordCount": 3523,
-          "title": "Learn to Use GitHub Actions: a Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736973439529/e0445f1c-62df-441f-a335-96c468a373da.png"
-        },
-        {
-          "id": "67881bffe4f437ad54564e34",
-          "author": "Tatev T",
-          "description": "Have you ever wondered who’s behind the groundbreaking technologies like ChatGPT from OpenAI, Tesla’s autonomous vehicles, or the humanoid robots redefining our perception of artificial intelligence? What does it take to be one of those innovators dr...",
-          "link": "https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/",
-          "publishedOn": "2025-01-15T20:35:11.000Z",
-          "wordCount": 23468,
-          "title": "The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736973272685/95e5c575-58ee-457a-988c-1acf2b60d2aa.png"
-        },
-        {
-          "id": "67880c8c282408c6e731883a",
-          "author": "Jose Vicente Nunez",
-          "description": "Packaging libraries and applications written in Python comes with its challenges. And while virtual environments are great for controlling and standardizing installations, there are some scenarios where using them may not be the best. For example, sa...",
-          "link": "https://www.freecodecamp.org/news/simplify-python-library-rpm-packaging-with-mock-and-podman/",
-          "publishedOn": "2025-01-15T19:29:16.000Z",
-          "wordCount": 3245,
-          "title": "How to Simplify Python Library RPM Packaging with Mock and Podman",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736952806487/e25f259a-71e0-4998-ad29-b5da286e3fba.png"
-        },
-        {
-          "id": "6787d62041c11049156708c3",
-          "author": "Joe Attardi",
-          "description": "You can highlight text in the browser by clicking and dragging through the desired text. And sometimes this works fine. But there are times when you’ll want to programmatically highlight some text in an HTML document. In this article, I’ll discuss a ...",
-          "link": "https://www.freecodecamp.org/news/how-to-programmatically-highlight-text-with-the-css-custom-highlight-api/",
-          "publishedOn": "2025-01-15T15:37:04.000Z",
-          "wordCount": 2639,
-          "title": "How to Programmatically Highlight Text with the CSS Custom Highlight API",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736955360118/bd658ef5-734c-4e21-ad0e-be2dac0b7eee.png"
         }
       ]
     }
