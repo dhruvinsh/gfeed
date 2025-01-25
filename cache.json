@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383506",
+          "author": "Preethi",
+          "description": "When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.\nPositioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/positioning-text-around-elements-with-css-offset/",
+          "publishedOn": "2025-01-24T14:59:25.000Z",
+          "wordCount": 2761,
+          "title": "Positioning Text Around Elements With CSS Offset",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383506"
+        },
+        {
           "id": "https://css-tricks.com/?p=383776",
           "author": "Geoff Graham",
           "description": "I was reading through Juan’s recent Almanac entry for the @counter-style at-rule and I’ll be darned if he didn’t uncover and unpack some extremely interesting things that we can do to style lists, notably the list marker. You’re probably already …\nSome Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/some-things-you-might-not-know-about-custom-counter-styles/",
           "publishedOn": "2025-01-23T17:21:15.000Z",
-          "wordCount": 2458,
+          "wordCount": 2483,
           "title": "Some Things You Might Not Know About Custom Counter Styles",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383776"
         },
@@ -129,7 +139,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3709,
+          "wordCount": 3697,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -144,7 +154,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4935,
+          "wordCount": 4936,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -159,7 +169,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4326,
+          "wordCount": 4321,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -174,7 +184,7 @@
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5380,
+          "wordCount": 5271,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -204,7 +214,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4208,
+          "wordCount": 4217,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -234,7 +244,7 @@
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
           "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4335,
+          "wordCount": 4339,
           "title": "What Does AI Really Mean?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
@@ -249,7 +259,7 @@
           "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
           "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
           "publishedOn": "2024-12-31T12:00:00.000Z",
-          "wordCount": 5512,
+          "wordCount": 5514,
           "title": "New Front-End Features For Designers In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
@@ -280,6 +290,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6793a90ea69c4db6e76c194a",
+          "author": "Grant Riordan",
+          "description": "One of the first challenges beginners face when developing applications in C# is organising and managing data efficiently. Imagine keeping track of a list of items, mapping unique keys to values, or ensuring there are no duplicates in a collection – ...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-collections-in-csharp/",
+          "publishedOn": "2025-01-24T14:51:58.000Z",
+          "wordCount": 3640,
+          "title": "How to Use Collections in C# – Lists, Arrays, Dictionaries, and More",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737729136643/4cc12d37-da1c-45f0-928f-fbe02d7fdf52.png"
+        },
+        {
+          "id": "6793a7b71b1cdac77474f13a",
+          "author": "valentine Gatwiri",
+          "description": "CodeIgniter is a popular open-source PHP framework you can use to build dynamic and robust web applications. It’s simple to use, fast, and flexible. This makes it a good option for any developer who wants to have a light yet powerful framework that w...",
+          "link": "https://www.freecodecamp.org/news/how-to-develop-with-codeigniter-on-ubuntu-environment-setup/",
+          "publishedOn": "2025-01-24T14:46:15.000Z",
+          "wordCount": 2429,
+          "title": "How to Develop with CodeIgniter on Ubuntu – Step-by-Step Environment Setup",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737640002689/7c78cd9c-40ef-45b3-82f6-97bc33f713d7.png"
+        },
+        {
+          "id": "6793a775498f1e108e0ba05d",
+          "author": "Oluwatobi",
+          "description": "Over the years, applications and tools have become more complex to keep up with people’s changing requirements and expectations. But this can create issues of code compatibility and remote access. For example, a codebase that functions properly on Wi...",
+          "link": "https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/",
+          "publishedOn": "2025-01-24T14:45:09.000Z",
+          "wordCount": 3101,
+          "title": "How to Containerize a Node.js Application Using Docker – A Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681497302/0540f730-f1c3-496c-bd47-912fdc95d468.png"
+        },
+        {
+          "id": "6793a744fc2bd29e0ece1253",
+          "author": "Kayode Adeniyi",
+          "description": "These days, SaaS has become an integral part of running many businesses. So rolling out new features that resonate with the user base is key to a business’s growth. Imagine a feature that promises to enhance user experience but that ends up resonatin...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-granular-segmentation-with-feature-flags/",
+          "publishedOn": "2025-01-24T14:44:20.000Z",
+          "wordCount": 3253,
+          "title": "How to Use Granular Segmentation with Feature Flags",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681693640/2cd6aa99-94bf-48c6-b657-4cc0743312e3.png"
+        },
+        {
+          "id": "6792ea9437616d62ca07fe03",
+          "author": "Akande Olalekan Toheeb",
+          "description": "JavaScript is the most widely-used programming language for web development. But it lacks type-checking support, which is an essential feature of modern programming languages. JavaScript was originally designed as a simple scripting language. Its loo...",
+          "link": "https://www.freecodecamp.org/news/start-learning-typescript-beginners-guide/",
+          "publishedOn": "2025-01-24T01:19:16.000Z",
+          "wordCount": 5549,
+          "title": "How to Start Learning TypeScript – A Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681395105/19aeca8f-e763-4833-9ac3-5c4db7d12fe7.png"
+        },
         {
           "id": "67924b2d0a4e059db2a7577f",
           "author": "David Clinton",
@@ -329,56 +389,6 @@
           "wordCount": 3222,
           "title": "How to Build a Real-Time Intrusion Detection System with Python and Open-Source Libraries",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737469496956/6cb12a90-de25-46da-aafc-bbd5048d0411.png"
-        },
-        {
-          "id": "678fa927b9b8fe257214e1be",
-          "author": "Tapas Adhikary",
-          "description": "You’ve likely seen (or used) contact forms on websites that ask for customer feedback, potential work opportunities, customer contact info, and so on. But do you know what’s required to get all that feedback, contact info, and data sent to a private ...",
-          "link": "https://www.freecodecamp.org/news/integrate-discord-webhooks-with-nextjs-15-example-project/",
-          "publishedOn": "2025-01-21T14:03:19.000Z",
-          "wordCount": 4090,
-          "title": "How to Integrate Discord Webhooks with Next.js 15 – Example Project",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737468174839/93832182-b4a9-48c0-aee5-cd8d716fc47a.png"
-        },
-        {
-          "id": "67912f406a65d8a9c9ef9f7e",
-          "author": "Beau Carnes",
-          "description": "Technical interviews can be intimidating, especially when you're preparing for roles at top tech companies. To succeed, you need a solid grasp of algorithms, data structures, and problem-solving strategies. The NeetCode 150 is an invaluable resource—...",
-          "link": "https://www.freecodecamp.org/news/prepare-for-technical-interviews-using-neetcode-150/",
-          "publishedOn": "2025-01-21T05:00:00.000Z",
-          "wordCount": 1264,
-          "title": "Prepare for Technical Interviews Using Neetcode 150",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737567904804/e1f89c98-9264-40e4-8183-f230b2bac811.png"
-        },
-        {
-          "id": "678ad60f07a0a18254c0d6a9",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Jiquan Ngiam. He's a former Google Brain engineer who's building tools to make AI useful for everyone – not just developers. We talk about the power of AI and it's practical capabilities, and separat...",
-          "link": "https://www.freecodecamp.org/news/ai-reality-vs-speculation-jiquan-ngiam-podcast-156/",
-          "publishedOn": "2025-01-17T22:13:35.000Z",
-          "wordCount": 1076,
-          "title": "AI Reality VS Speculation with Google Machine Learning Engineer Jiquan Ngiam [Podcast #156]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737151884317/c5b49f86-1f4a-45fd-bf2f-48ed084c1762.png"
-        },
-        {
-          "id": "678ac8f3892c4e60d8af0e95",
-          "author": "Maham Codes",
-          "description": "It’s 2025, and Large Language Models (LLMs) still can’t access your private data. Ask them something personal, and they’ll either guess or give you the wrong answer. That’s the limitation—they’re trained on public information and don’t have access to...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-langbase-memory-agents/",
-          "publishedOn": "2025-01-17T21:17:39.000Z",
-          "wordCount": 3011,
-          "title": "How to Use Langbase Memory Agents to Make Any LLM a Conversational AI for Your Docs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737148633610/45e0af50-6026-4953-8e1a-953a7d5b6df6.png"
-        },
-        {
-          "id": "678a7845720a1885d5f75ecd",
-          "author": "Ben",
-          "description": "Let’s start with a simple question: Why do we get together for a short meeting each day?  If you work on a Scrum team, you’ve probably heard of a daily scrum, sometimes called a daily stand-up. It’s one of the key events in scrum. The “daily” usually...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-an-effective-daily-scrum/",
-          "publishedOn": "2025-01-17T15:33:25.000Z",
-          "wordCount": 2775,
-          "title": "How to Run an Effective Daily Scrum – Tips for Team Members and Managers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737127993830/ea473796-6a68-48f2-8643-f533561e12cf.png"
         }
       ]
     }
