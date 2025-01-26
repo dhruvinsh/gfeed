@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-25T01:10:40.159Z</id>
+    <id>urn:2025-01-26T01:16:21.650Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-25T01:10:40.159Z</updated>
+    <updated>2025-01-26T01:16:21.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Getting a developer job in 2025 with Lane Wagner [Podcast #157]]]></title>
+        <id>67943609f67368a6fc69bdb4</id>
+        <link href="https://www.freecodecamp.org/news/getting-a-developer-job-lane-wagner-podcast-157/"/>
+        <updated>2025-01-25T00:53:29.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Lane Wagner. He's a software engineer, prolific contributor to freeCodeCamp, and founder of the Boot.dev online learning platform. We talk about: Lanes thoughts on college and computer science degre...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Positioning Text Around Elements With CSS Offset]]></title>
         <id>https://css-tricks.com/?p=383506</id>
@@ -115,16 +125,6 @@ Some Things You Might Not Know About Custom Counter Styles originally published 
         <summary type="html"><![CDATA[If you’re starting your journey into penetration testing, you’ve likely heard of Metasploit. Metasploit is one of the most versatile tools in cybersecurity. It helps simplify vulnerability testing and exploitation. Metasploit helps us find and fix we...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Real-Time Intrusion Detection System with Python and Open-Source Libraries]]></title>
-        <id>678faf10f366e60cf6e7b6d0</id>
-        <link href="https://www.freecodecamp.org/news/build-a-real-time-intrusion-detection-system-with-python/"/>
-        <updated>2025-01-21T14:28:32.000Z</updated>
-        <summary type="html"><![CDATA[An Intrusion Detection System (IDS) is like a security camera for your network. Just as security cameras help identify suspicious activities in the physical world, an IDS will monitor your network to help detect any potential cyber attacks and securi...]]></summary>
-        <author>
-            <name>Chaitanya Rahalkar</name>
         </author>
     </entry>
     <entry>
