@@ -139,7 +139,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3710,
+          "wordCount": 3707,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -154,7 +154,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4927,
+          "wordCount": 4939,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -169,7 +169,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4341,
+          "wordCount": 4328,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -184,7 +184,7 @@
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5379,
+          "wordCount": 5270,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -214,7 +214,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4204,
+          "wordCount": 4202,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -244,7 +244,7 @@
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
           "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4343,
+          "wordCount": 4337,
           "title": "What Does AI Really Mean?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
@@ -259,7 +259,7 @@
           "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
           "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
           "publishedOn": "2024-12-31T12:00:00.000Z",
-          "wordCount": 5514,
+          "wordCount": 5520,
           "title": "New Front-End Features For Designers In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
@@ -274,7 +274,7 @@
           "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
           "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "publishedOn": "2024-12-31T10:00:00.000Z",
-          "wordCount": 4553,
+          "wordCount": 4566,
           "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
