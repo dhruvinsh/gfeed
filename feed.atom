@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-27T01:15:13.697Z</id>
+    <id>urn:2025-01-28T01:14:01.873Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T01:15:13.697Z</updated>
+    <updated>2025-01-28T01:14:01.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Revisiting CSS Multi-Column Layout]]></title>
+        <id>https://css-tricks.com/?p=384002</id>
+        <link href="https://css-tricks.com/revisiting-css-multi-column-layout/"/>
+        <updated>2025-01-27T15:35:44.000Z</updated>
+        <summary type="html"><![CDATA[After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.
+Revisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Scripts and How Do They Work? Improve Your Productivity with Scripting]]></title>
+        <id>679798b5c4e8c2bf2c88f7bc</id>
+        <link href="https://www.freecodecamp.org/news/what-are-scripts-and-how-do-they-work/"/>
+        <updated>2025-01-27T14:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Developers who have a lot of experience building rigid, quality software tend to automate most of their work by writing scripts. These scripts range from simple alias bash commands to repetitive cron triggers that run on a server. In this tutorial, y...]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting a developer job in 2025 with Lane Wagner [Podcast #157]]]></title>
         <id>67943609f67368a6fc69bdb4</id>
@@ -115,16 +136,6 @@ Some Things You Might Not Know About Custom Counter Styles originally published 
         <summary type="html"><![CDATA[Creating a solid application monitoring and observability strategy is a critical foundational step when deploying infrastructure or software in any environment. Monitoring ensures that your systems are running smoothly, while observability provides i...]]></summary>
         <author>
             <name>Eti Ijeoma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metasploit for Beginners — A Guide to the Powerful Exploitation Framework]]></title>
-        <id>679037f81f50429b12d52738</id>
-        <link href="https://www.freecodecamp.org/news/learn-metasploit-for-beginners/"/>
-        <updated>2025-01-22T00:12:40.000Z</updated>
-        <summary type="html"><![CDATA[If you’re starting your journey into penetration testing, you’ve likely heard of Metasploit. Metasploit is one of the most versatile tools in cybersecurity. It helps simplify vulnerability testing and exploitation. Metasploit helps us find and fix we...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>

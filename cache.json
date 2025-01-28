@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384002",
+          "author": "Andy Clarke",
+          "description": "After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.\nRevisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/revisiting-css-multi-column-layout/",
+          "publishedOn": "2025-01-27T15:35:44.000Z",
+          "wordCount": 3634,
+          "title": "Revisiting CSS Multi-Column Layout",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384002"
+        },
+        {
           "id": "https://css-tricks.com/?p=383506",
           "author": "Preethi",
           "description": "When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.\nPositioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/positioning-text-around-elements-with-css-offset/",
           "publishedOn": "2025-01-24T14:59:25.000Z",
-          "wordCount": 2761,
+          "wordCount": 2795,
           "title": "Positioning Text Around Elements With CSS Offset",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383506"
         },
@@ -139,7 +149,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3707,
+          "wordCount": 3706,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -154,7 +164,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4939,
+          "wordCount": 4930,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -169,7 +179,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4328,
+          "wordCount": 4318,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -184,7 +194,7 @@
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5270,
+          "wordCount": 5373,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -214,7 +224,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4202,
+          "wordCount": 4205,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -244,7 +254,7 @@
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
           "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4337,
+          "wordCount": 4444,
           "title": "What Does AI Really Mean?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
@@ -259,7 +269,7 @@
           "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
           "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
           "publishedOn": "2024-12-31T12:00:00.000Z",
-          "wordCount": 5520,
+          "wordCount": 5512,
           "title": "New Front-End Features For Designers In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
@@ -274,7 +284,7 @@
           "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
           "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "publishedOn": "2024-12-31T10:00:00.000Z",
-          "wordCount": 4566,
+          "wordCount": 4556,
           "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -291,12 +301,22 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "679798b5c4e8c2bf2c88f7bc",
+          "author": "Arunachalam B",
+          "description": "Developers who have a lot of experience building rigid, quality software tend to automate most of their work by writing scripts. These scripts range from simple alias bash commands to repetitive cron triggers that run on a server. In this tutorial, y...",
+          "link": "https://www.freecodecamp.org/news/what-are-scripts-and-how-do-they-work/",
+          "publishedOn": "2025-01-27T14:31:17.000Z",
+          "wordCount": 2999,
+          "title": "What Are Scripts and How Do They Work? Improve Your Productivity with Scripting",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737988076418/347e6d8a-1dd8-45d1-854b-fbc576eeed5f.png"
+        },
+        {
           "id": "67943609f67368a6fc69bdb4",
           "author": "Quincy Larson",
           "description": "On this week's episode of the podcast, I interview Lane Wagner. He's a software engineer, prolific contributor to freeCodeCamp, and founder of the Boot.dev online learning platform. We talk about: Lanes thoughts on college and computer science degre...",
           "link": "https://www.freecodecamp.org/news/getting-a-developer-job-lane-wagner-podcast-157/",
           "publishedOn": "2025-01-25T00:53:29.000Z",
-          "wordCount": 1148,
+          "wordCount": 1152,
           "title": "Getting a developer job in 2025 with Lane Wagner [Podcast #157]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737766278527/f41b773c-a742-43a6-b4b0-e423966f4e52.png"
         },
@@ -306,7 +326,7 @@
           "description": "One of the first challenges beginners face when developing applications in C# is organising and managing data efficiently. Imagine keeping track of a list of items, mapping unique keys to values, or ensuring there are no duplicates in a collection – ...",
           "link": "https://www.freecodecamp.org/news/how-to-use-collections-in-csharp/",
           "publishedOn": "2025-01-24T14:51:58.000Z",
-          "wordCount": 3640,
+          "wordCount": 3644,
           "title": "How to Use Collections in C# – Lists, Arrays, Dictionaries, and More",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737729136643/4cc12d37-da1c-45f0-928f-fbe02d7fdf52.png"
         },
@@ -316,7 +336,7 @@
           "description": "CodeIgniter is a popular open-source PHP framework you can use to build dynamic and robust web applications. It’s simple to use, fast, and flexible. This makes it a good option for any developer who wants to have a light yet powerful framework that w...",
           "link": "https://www.freecodecamp.org/news/how-to-develop-with-codeigniter-on-ubuntu-environment-setup/",
           "publishedOn": "2025-01-24T14:46:15.000Z",
-          "wordCount": 2429,
+          "wordCount": 2433,
           "title": "How to Develop with CodeIgniter on Ubuntu – Step-by-Step Environment Setup",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737640002689/7c78cd9c-40ef-45b3-82f6-97bc33f713d7.png"
         },
@@ -326,7 +346,7 @@
           "description": "Over the years, applications and tools have become more complex to keep up with people’s changing requirements and expectations. But this can create issues of code compatibility and remote access. For example, a codebase that functions properly on Wi...",
           "link": "https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/",
           "publishedOn": "2025-01-24T14:45:09.000Z",
-          "wordCount": 3101,
+          "wordCount": 3105,
           "title": "How to Containerize a Node.js Application Using Docker – A Beginner's Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681497302/0540f730-f1c3-496c-bd47-912fdc95d468.png"
         },
@@ -336,7 +356,7 @@
           "description": "These days, SaaS has become an integral part of running many businesses. So rolling out new features that resonate with the user base is key to a business’s growth. Imagine a feature that promises to enhance user experience but that ends up resonatin...",
           "link": "https://www.freecodecamp.org/news/how-to-use-granular-segmentation-with-feature-flags/",
           "publishedOn": "2025-01-24T14:44:20.000Z",
-          "wordCount": 3253,
+          "wordCount": 3257,
           "title": "How to Use Granular Segmentation with Feature Flags",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681693640/2cd6aa99-94bf-48c6-b657-4cc0743312e3.png"
         },
@@ -346,7 +366,7 @@
           "description": "JavaScript is the most widely-used programming language for web development. But it lacks type-checking support, which is an essential feature of modern programming languages. JavaScript was originally designed as a simple scripting language. Its loo...",
           "link": "https://www.freecodecamp.org/news/start-learning-typescript-beginners-guide/",
           "publishedOn": "2025-01-24T01:19:16.000Z",
-          "wordCount": 5549,
+          "wordCount": 5553,
           "title": "How to Start Learning TypeScript – A Beginner's Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681395105/19aeca8f-e763-4833-9ac3-5c4db7d12fe7.png"
         },
@@ -356,7 +376,7 @@
           "description": "Whether your deployment requires logins from hundreds of thousands of end users or just a few remote admins, there's no escaping the need to properly control access to your infrastructure. And integrating those logins with industry-standard tools lik...",
           "link": "https://www.freecodecamp.org/news/keycloak-identity-and-access-management/",
           "publishedOn": "2025-01-23T13:59:09.000Z",
-          "wordCount": 1836,
+          "wordCount": 1840,
           "title": "How to Use Keycloak for Identity and Access Management",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737640179567/36b76fb3-3e9f-4124-a4d5-bb7d11428a6c.png"
         },
@@ -366,7 +386,7 @@
           "description": "Building a website might seem daunting, but WordPress makes it accessible to everyone. With WordPress, you can create a professional website tailored to your needs, whether it’s for a personal blog, a small business, or an online store. The platform’...",
           "link": "https://www.freecodecamp.org/news/create-a-wordpress-website/",
           "publishedOn": "2025-01-22T17:52:59.000Z",
-          "wordCount": 1329,
+          "wordCount": 1333,
           "title": "Create a WordPress Website",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737568134192/7ab11a8b-9d79-496b-b5c5-06f324a62670.png"
         },
@@ -376,19 +396,9 @@
           "description": "Creating a solid application monitoring and observability strategy is a critical foundational step when deploying infrastructure or software in any environment. Monitoring ensures that your systems are running smoothly, while observability provides i...",
           "link": "https://www.freecodecamp.org/news/kubernetes-cluster-observability-with-prometheus-and-grafana-on-aws/",
           "publishedOn": "2025-01-22T00:13:33.000Z",
-          "wordCount": 3684,
+          "wordCount": 3688,
           "title": "How to Monitor Your Kubernetes Clusters with Prometheus and Grafana on AWS",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737504669572/017570c6-7676-44e1-aa19-4257dd7d30e7.png"
-        },
-        {
-          "id": "679037f81f50429b12d52738",
-          "author": "Manish Shivanandhan",
-          "description": "If you’re starting your journey into penetration testing, you’ve likely heard of Metasploit. Metasploit is one of the most versatile tools in cybersecurity. It helps simplify vulnerability testing and exploitation. Metasploit helps us find and fix we...",
-          "link": "https://www.freecodecamp.org/news/learn-metasploit-for-beginners/",
-          "publishedOn": "2025-01-22T00:12:40.000Z",
-          "wordCount": 2100,
-          "title": "Metasploit for Beginners — A Guide to the Powerful Exploitation Framework",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737504731562/ebce2299-d90e-4b17-a1b0-15b4dbe6d844.png"
         }
       ]
     }
