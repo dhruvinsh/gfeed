@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-28T01:14:01.873Z</id>
+    <id>urn:2025-01-29T01:13:49.459Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T01:14:01.873Z</updated>
+    <updated>2025-01-29T01:13:49.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Essential CLI/TUI Tools for Developers]]></title>
+        <id>6798fd7b4666e531b7dd7586</id>
+        <link href="https://www.freecodecamp.org/news/essential-cli-tui-tools-for-developers/"/>
+        <updated>2025-01-28T15:53:31.000Z</updated>
+        <summary type="html"><![CDATA[As developers, we spend a lot of time in our terminals. And there are tons of great CLI/TUI tools that can boost our productivity (as well as some that are just fun to use). From managing Git repositories and navigating file systems to monitoring sys...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Java Collections Framework – A Guide for Developers]]></title>
+        <id>6798fd38ac05f27ed5691abd</id>
+        <link href="https://www.freecodecamp.org/news/java-collections-framework-reference-guide/"/>
+        <updated>2025-01-28T15:52:24.000Z</updated>
+        <summary type="html"><![CDATA[In your Java applications, you’ll typically work with various types of objects. And you might want to perform operations like sorting, searching, and iterating on these objects. Prior to the introduction of the Collections framework in JDK 1.2, you w...]]></summary>
+        <author>
+            <name>Anjan Baradwaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Application with AWS Lambda]]></title>
+        <id>6798f596558861e9737fa5af</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-application-with-aws-lambda/"/>
+        <updated>2025-01-28T15:19:50.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda is a service from Amazon Web Services (AWS) that lets you run your code in response to events without managing servers. It’s a simple and scalable way to build applications. In this tutorial, I’ll show you how to use AWS Lambda with three ...]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris]]></title>
+        <id>https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/</id>
+        <link href="https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/"/>
+        <updated>2025-01-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revisiting CSS Multi-Column Layout]]></title>
         <id>https://css-tricks.com/?p=384002</id>
@@ -106,36 +146,6 @@ Positioning Text Around Elements With CSS Offset originally published on CSS-Tri
 Some Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Keycloak for Identity and Access Management]]></title>
-        <id>67924b2d0a4e059db2a7577f</id>
-        <link href="https://www.freecodecamp.org/news/keycloak-identity-and-access-management/"/>
-        <updated>2025-01-23T13:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Whether your deployment requires logins from hundreds of thousands of end users or just a few remote admins, there's no escaping the need to properly control access to your infrastructure. And integrating those logins with industry-standard tools lik...]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a WordPress Website]]></title>
-        <id>6791307b3bc9c704716dadd4</id>
-        <link href="https://www.freecodecamp.org/news/create-a-wordpress-website/"/>
-        <updated>2025-01-22T17:52:59.000Z</updated>
-        <summary type="html"><![CDATA[Building a website might seem daunting, but WordPress makes it accessible to everyone. With WordPress, you can create a professional website tailored to your needs, whether it’s for a personal blog, a small business, or an online store. The platform’...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Monitor Your Kubernetes Clusters with Prometheus and Grafana on AWS]]></title>
-        <id>6790382dcb2eedbe449b6899</id>
-        <link href="https://www.freecodecamp.org/news/kubernetes-cluster-observability-with-prometheus-and-grafana-on-aws/"/>
-        <updated>2025-01-22T00:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Creating a solid application monitoring and observability strategy is a critical foundational step when deploying infrastructure or software in any environment. Monitoring ensures that your systems are running smoothly, while observability provides i...]]></summary>
-        <author>
-            <name>Eti Ijeoma</name>
         </author>
     </entry>
     <entry>

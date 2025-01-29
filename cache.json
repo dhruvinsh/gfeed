@@ -87,7 +87,7 @@
           "description": "Today, I want to look into one of those cases of impatient and how the community has waited for that feature, to be specific, two upcoming functions: sibling-count() and sibling-index().\nHow to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-wait-for-the-sibling-count-and-sibling-index-functions/",
           "publishedOn": "2025-01-13T15:08:01.000Z",
-          "wordCount": 4075,
+          "wordCount": 4192,
           "title": "How to Wait for the sibling-count() and sibling-index() Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383435"
         },
@@ -129,6 +129,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
+          "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
+          "publishedOn": "2025-01-28T15:00:00.000Z",
+          "wordCount": 4056,
+          "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/",
           "author": "hello@smashingmagazine.com (Alvaro Saburido)",
           "description": "Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.",
@@ -149,7 +164,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3706,
+          "wordCount": 3811,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -164,7 +179,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4930,
+          "wordCount": 4945,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -179,7 +194,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4318,
+          "wordCount": 4334,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -194,7 +209,7 @@
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5373,
+          "wordCount": 5269,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -224,7 +239,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4205,
+          "wordCount": 4321,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -254,7 +269,7 @@
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
           "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4444,
+          "wordCount": 4343,
           "title": "What Does AI Really Mean?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
@@ -269,7 +284,7 @@
           "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
           "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
           "publishedOn": "2024-12-31T12:00:00.000Z",
-          "wordCount": 5512,
+          "wordCount": 5513,
           "title": "New Front-End Features For Designers In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
@@ -284,7 +299,7 @@
           "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
           "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "publishedOn": "2024-12-31T10:00:00.000Z",
-          "wordCount": 4556,
+          "wordCount": 4553,
           "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -300,6 +315,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6798fd7b4666e531b7dd7586",
+          "author": "Alex Pliutau",
+          "description": "As developers, we spend a lot of time in our terminals. And there are tons of great CLI/TUI tools that can boost our productivity (as well as some that are just fun to use). From managing Git repositories and navigating file systems to monitoring sys...",
+          "link": "https://www.freecodecamp.org/news/essential-cli-tui-tools-for-developers/",
+          "publishedOn": "2025-01-28T15:53:31.000Z",
+          "wordCount": 3254,
+          "title": "Essential CLI/TUI Tools for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077620615/22e3c744-d609-4469-ae10-ef8ad4b515a1.png"
+        },
+        {
+          "id": "6798fd38ac05f27ed5691abd",
+          "author": "Anjan Baradwaj",
+          "description": "In your Java applications, you’ll typically work with various types of objects. And you might want to perform operations like sorting, searching, and iterating on these objects. Prior to the introduction of the Collections framework in JDK 1.2, you w...",
+          "link": "https://www.freecodecamp.org/news/java-collections-framework-reference-guide/",
+          "publishedOn": "2025-01-28T15:52:24.000Z",
+          "wordCount": 3857,
+          "title": "How to Use the Java Collections Framework – A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077724002/cfbf6a90-f9c2-4853-b1c3-c33774f078c1.png"
+        },
+        {
+          "id": "6798f596558861e9737fa5af",
+          "author": "Ijeoma Igboagu",
+          "description": "AWS Lambda is a service from Amazon Web Services (AWS) that lets you run your code in response to events without managing servers. It’s a simple and scalable way to build applications. In this tutorial, I’ll show you how to use AWS Lambda with three ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-application-with-aws-lambda/",
+          "publishedOn": "2025-01-28T15:19:50.000Z",
+          "wordCount": 3045,
+          "title": "How to Build an Application with AWS Lambda",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077341437/939ee844-0f10-4ea6-b031-9c481019e7c6.png"
+        },
         {
           "id": "679798b5c4e8c2bf2c88f7bc",
           "author": "Arunachalam B",
@@ -369,36 +414,6 @@
           "wordCount": 5553,
           "title": "How to Start Learning TypeScript – A Beginner's Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681395105/19aeca8f-e763-4833-9ac3-5c4db7d12fe7.png"
-        },
-        {
-          "id": "67924b2d0a4e059db2a7577f",
-          "author": "David Clinton",
-          "description": "Whether your deployment requires logins from hundreds of thousands of end users or just a few remote admins, there's no escaping the need to properly control access to your infrastructure. And integrating those logins with industry-standard tools lik...",
-          "link": "https://www.freecodecamp.org/news/keycloak-identity-and-access-management/",
-          "publishedOn": "2025-01-23T13:59:09.000Z",
-          "wordCount": 1840,
-          "title": "How to Use Keycloak for Identity and Access Management",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737640179567/36b76fb3-3e9f-4124-a4d5-bb7d11428a6c.png"
-        },
-        {
-          "id": "6791307b3bc9c704716dadd4",
-          "author": "Beau Carnes",
-          "description": "Building a website might seem daunting, but WordPress makes it accessible to everyone. With WordPress, you can create a professional website tailored to your needs, whether it’s for a personal blog, a small business, or an online store. The platform’...",
-          "link": "https://www.freecodecamp.org/news/create-a-wordpress-website/",
-          "publishedOn": "2025-01-22T17:52:59.000Z",
-          "wordCount": 1333,
-          "title": "Create a WordPress Website",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737568134192/7ab11a8b-9d79-496b-b5c5-06f324a62670.png"
-        },
-        {
-          "id": "6790382dcb2eedbe449b6899",
-          "author": "Eti Ijeoma",
-          "description": "Creating a solid application monitoring and observability strategy is a critical foundational step when deploying infrastructure or software in any environment. Monitoring ensures that your systems are running smoothly, while observability provides i...",
-          "link": "https://www.freecodecamp.org/news/kubernetes-cluster-observability-with-prometheus-and-grafana-on-aws/",
-          "publishedOn": "2025-01-22T00:13:33.000Z",
-          "wordCount": 3688,
-          "title": "How to Monitor Your Kubernetes Clusters with Prometheus and Grafana on AWS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737504669572/017570c6-7676-44e1-aa19-4257dd7d30e7.png"
         }
       ]
     }
