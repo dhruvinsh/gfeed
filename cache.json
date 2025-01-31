@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384089",
+          "author": "Juan Diego Rodríguez",
+          "description": "All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.\nThe Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-mistakes-of-css/",
+          "publishedOn": "2025-01-30T14:31:08.000Z",
+          "wordCount": 1973,
+          "title": "The Mistakes of CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384089"
+        },
+        {
           "id": "https://css-tricks.com/?p=383818",
           "author": "Juan Diego Rodríguez",
           "description": "The @view-transition at-rule has two descriptions. One is the commonly used navigation descriptor. The second is types, the lesser-known of the two, and one that probably envies how much attention navigation gets. But read on to learn why we need types and how it opens up new possibilities for custom view transitions when navigating between pages.\nWhat on Earth is the `types` Descriptor in View Transitions? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/what-on-earth-is-the-types-descriptor-in-view-transitions/",
           "publishedOn": "2025-01-29T14:13:53.000Z",
-          "wordCount": 2838,
+          "wordCount": 2934,
           "title": "What on Earth is the `types` Descriptor in View Transitions?",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/01/custom-view-transition.mp4",
@@ -32,7 +42,7 @@
           "description": "After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.\nRevisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/revisiting-css-multi-column-layout/",
           "publishedOn": "2025-01-27T15:35:44.000Z",
-          "wordCount": 3664,
+          "wordCount": 3720,
           "title": "Revisiting CSS Multi-Column Layout",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384002"
         },
@@ -134,12 +144,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
+          "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
+          "publishedOn": "2025-01-30T08:00:00.000Z",
+          "wordCount": 4058,
+          "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5398,
+          "wordCount": 5394,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -154,7 +179,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4056,
+          "wordCount": 4057,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -199,7 +224,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4932,
+          "wordCount": 4928,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -214,7 +239,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4319,
+          "wordCount": 4323,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -229,7 +254,7 @@
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5261,
+          "wordCount": 5258,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -259,7 +284,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4191,
+          "wordCount": 4190,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -289,7 +314,7 @@
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
           "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4326,
+          "wordCount": 4334,
           "title": "What Does AI Really Mean?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
@@ -305,6 +330,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "679bcc0fa60eb167ae249fba",
+          "author": "Maham Codes",
+          "description": "Building AI and agentic workflows is at the core of modern AI development in 2025. And LangChain has been the go-to framework for creating AI applications for a while now. But some developers are seeking alternatives that offer more flexibility, simp...",
+          "link": "https://www.freecodecamp.org/news/langchain-alternatives-for-building-ai-and-agentic-workflows/",
+          "publishedOn": "2025-01-30T18:59:27.000Z",
+          "wordCount": 3674,
+          "title": "Langchain Alternatives You Can Use to Build AI and Agentic Workflows",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738263536460/497c1640-fef2-481b-8383-d522a7303c88.png"
+        },
+        {
+          "id": "679bb8262a7ebc3c99ecb6ea",
+          "author": "Syeda Maham Fahim",
+          "description": "Have you ever wondered how a computer knows which program’s output to display, especially when multiple programs are running simultaneously? This is possible because of the Process ID (PID). A PID is a unique identifier that helps the operating syste...",
+          "link": "https://www.freecodecamp.org/news/what-is-a-process-id-process-management-tutorial/",
+          "publishedOn": "2025-01-30T17:34:30.000Z",
+          "wordCount": 1954,
+          "title": "What is a Process ID? How to Use PIDs for Process Management",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738252940529/8ee6969c-7a74-4b2f-bd33-f2d48332e8e0.png"
+        },
+        {
+          "id": "679b945fe7604181817d149e",
+          "author": "Beau Carnes",
+          "description": "APIs (Application Programming Interfaces) are the backbone of modern software applications, enabling seamless communication between different systems and services. However, this interconnectedness also makes them a prime target for cyberattacks. API ...",
+          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-api-security/",
+          "publishedOn": "2025-01-30T15:01:51.000Z",
+          "wordCount": 1216,
+          "title": "Learn the Basics of API Security",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738249160616/80af618b-7d5a-442d-a6d9-6ea4dd91cfc4.png"
+        },
+        {
+          "id": "679b92469bbf0da70b05703a",
+          "author": "Timothy Olanrewaju",
+          "description": "In many web applications, we often encounter forms where selecting an option in one dropdown unlocks a new set of options in another. These interconnected dropdowns, commonly known as dependent or cascading dropdowns, play a crucial role in creating ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-dependent-dropdowns-in-react/",
+          "publishedOn": "2025-01-30T14:52:54.000Z",
+          "wordCount": 3298,
+          "title": "How to Build Dependent Dropdowns in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738246583123/caa07859-2ce8-44b1-9fd2-44b414babe52.png"
+        },
         {
           "id": "679a5fa86177eb24200d0f7f",
           "author": "Programming with Shahan",
@@ -333,7 +398,7 @@
           "publishedOn": "2025-01-29T16:09:36.000Z",
           "wordCount": 1730,
           "title": "Master Object Oriented Programming in Python",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738189114736/ff24cbf4-c956-4944-8021-a682d31abc03.png"
         },
         {
           "id": "67995e567a54c877fce42276",
@@ -364,46 +429,6 @@
           "wordCount": 3864,
           "title": "How to Use the Java Collections Framework – A Guide for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077724002/cfbf6a90-f9c2-4853-b1c3-c33774f078c1.png"
-        },
-        {
-          "id": "6798f596558861e9737fa5af",
-          "author": "Ijeoma Igboagu",
-          "description": "AWS Lambda is a service from Amazon Web Services (AWS) that lets you run your code in response to events without managing servers. It’s a simple and scalable way to build applications. In this tutorial, I’ll show you how to use AWS Lambda with three ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-application-with-aws-lambda/",
-          "publishedOn": "2025-01-28T15:19:50.000Z",
-          "wordCount": 3045,
-          "title": "How to Build an Application with AWS Lambda",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077341437/939ee844-0f10-4ea6-b031-9c481019e7c6.png"
-        },
-        {
-          "id": "66c376aef278f15f931a3431",
-          "author": "Manoel",
-          "description": "In this article, we’ve compiled 1200+ online courses offered by the 60 best universities in the world for studying computer science in 2024. We first built the list in 2020 using a data-driven approach that we have used each year, including 2024. You...",
-          "link": "https://www.freecodecamp.org/news/free-courses-top-cs-universities/",
-          "publishedOn": "2025-01-28T06:00:00.000Z",
-          "wordCount": 15825,
-          "title": "1200 Free Computer Science Courses from the World’s Top Universities",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738170135222/602b9c8f-09ff-42ca-ad26-cec5fc06a7ef.jpeg"
-        },
-        {
-          "id": "679a50c7e6ddf5991db7aef0",
-          "author": "Beau Carnes",
-          "description": "Artificial Intelligence (AI) is rapidly evolving, and one of the latest breakthroughs is DeepSeek-R1, a model that has gotten significant attention for its innovative approach to reasoning and problem-solving. Developed by the Chinese AI startup Deep...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-deepseek-r1/",
-          "publishedOn": "2025-01-28T05:00:00.000Z",
-          "wordCount": 1257,
-          "title": "How to Use DeepSeek-R1",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
-        },
-        {
-          "id": "679a4f5bb1375fa89b16f391",
-          "author": "Beau Carnes",
-          "description": "Finding your next favorite book can be a challenge, but what if you could build a smart system that recommends books tailored to your interests? With the power of large language models (LLMs) and Python, you can create an intelligent book recommendat...",
-          "link": "https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python/",
-          "publishedOn": "2025-01-28T05:00:00.000Z",
-          "wordCount": 1304,
-          "title": "Build a Semantic Book Recommender Using an LLM and Python",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
         }
       ]
     }

@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-30T01:13:01.106Z</id>
+    <id>urn:2025-01-31T01:14:16.045Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-30T01:13:01.106Z</updated>
+    <updated>2025-01-31T01:14:16.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Langchain Alternatives You Can Use to Build AI and Agentic Workflows]]></title>
+        <id>679bcc0fa60eb167ae249fba</id>
+        <link href="https://www.freecodecamp.org/news/langchain-alternatives-for-building-ai-and-agentic-workflows/"/>
+        <updated>2025-01-30T18:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Building AI and agentic workflows is at the core of modern AI development in 2025. And LangChain has been the go-to framework for creating AI applications for a while now. But some developers are seeking alternatives that offer more flexibility, simp...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Process ID? How to Use PIDs for Process Management]]></title>
+        <id>679bb8262a7ebc3c99ecb6ea</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-process-id-process-management-tutorial/"/>
+        <updated>2025-01-30T17:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how a computer knows which program’s output to display, especially when multiple programs are running simultaneously? This is possible because of the Process ID (PID). A PID is a unique identifier that helps the operating syste...]]></summary>
+        <author>
+            <name>Syeda Maham Fahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Basics of API Security]]></title>
+        <id>679b945fe7604181817d149e</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-basics-of-api-security/"/>
+        <updated>2025-01-30T15:01:51.000Z</updated>
+        <summary type="html"><![CDATA[APIs (Application Programming Interfaces) are the backbone of modern software applications, enabling seamless communication between different systems and services. However, this interconnectedness also makes them a prime target for cyberattacks. API ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Dependent Dropdowns in React]]></title>
+        <id>679b92469bbf0da70b05703a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-dependent-dropdowns-in-react/"/>
+        <updated>2025-01-30T14:52:54.000Z</updated>
+        <summary type="html"><![CDATA[In many web applications, we often encounter forms where selecting an option in one dropdown unlocks a new set of options in another. These interconnected dropdowns, commonly known as dependent or cascading dropdowns, play a crucial role in creating ...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mistakes of CSS]]></title>
+        <id>https://css-tricks.com/?p=384089</id>
+        <link href="https://css-tricks.com/the-mistakes-of-css/"/>
+        <updated>2025-01-30T14:31:08.000Z</updated>
+        <summary type="html"><![CDATA[All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.
+The Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Digital Playbook: A Crucial Counterpart To Your Design System]]></title>
+        <id>https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/</id>
+        <link href="https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/"/>
+        <updated>2025-01-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Clean Code Handbook: How to Write Better Code for Agile Software Development]]></title>
         <id>679a5fa86177eb24200d0f7f</id>
@@ -87,16 +148,6 @@ What on Earth is the `types` Descriptor in View Transitions? originally publis
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an Application with AWS Lambda]]></title>
-        <id>6798f596558861e9737fa5af</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-application-with-aws-lambda/"/>
-        <updated>2025-01-28T15:19:50.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda is a service from Amazon Web Services (AWS) that lets you run your code in response to events without managing servers. It’s a simple and scalable way to build applications. In this tutorial, I’ll show you how to use AWS Lambda with three ...]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris]]></title>
         <id>https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/</id>
         <link href="https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/"/>
@@ -104,36 +155,6 @@ What on Earth is the `types` Descriptor in View Transitions? originally publis
         <summary type="html"><![CDATA[After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1200 Free Computer Science Courses from the World’s Top Universities]]></title>
-        <id>66c376aef278f15f931a3431</id>
-        <link href="https://www.freecodecamp.org/news/free-courses-top-cs-universities/"/>
-        <updated>2025-01-28T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ve compiled 1200+ online courses offered by the 60 best universities in the world for studying computer science in 2024. We first built the list in 2020 using a data-driven approach that we have used each year, including 2024. You...]]></summary>
-        <author>
-            <name>Manoel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use DeepSeek-R1]]></title>
-        <id>679a50c7e6ddf5991db7aef0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-deepseek-r1/"/>
-        <updated>2025-01-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence (AI) is rapidly evolving, and one of the latest breakthroughs is DeepSeek-R1, a model that has gotten significant attention for its innovative approach to reasoning and problem-solving. Developed by the Chinese AI startup Deep...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Semantic Book Recommender Using an LLM and Python]]></title>
-        <id>679a4f5bb1375fa89b16f391</id>
-        <link href="https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python/"/>
-        <updated>2025-01-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Finding your next favorite book can be a challenge, but what if you could build a smart system that recommends books tailored to your interests? With the power of large language models (LLMs) and Python, you can create an intelligent book recommendat...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
