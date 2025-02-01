@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-31T01:14:16.045Z</id>
+    <id>urn:2025-02-01T01:18:04.436Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-31T01:14:16.045Z</updated>
+    <updated>2025-02-01T01:18:04.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Gas Station to Google with Self-Taught Cloud Engineer Rishab Kumar [Podcast #158]]]></title>
+        <id>679cf6a3c58e5553aa30c9a3</id>
+        <link href="https://www.freecodecamp.org/news/from-gas-station-to-google-self-taught-cloud-engineer-rishab-kumar-podcast-158/"/>
+        <updated>2025-01-31T16:13:23.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Rishab Kumar, cloud engineer and developer advocate at Twillio. Rishab grew up in India and moved to Canada for school. But he couldn't afford to finish. He resorted...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Async Programming in TypeScript: Promises, Async/Await, and Callbacks]]></title>
+        <id>679ced2e80ebdc55d3ee44c8</id>
+        <link href="https://www.freecodecamp.org/news/learn-async-programming-in-typescript-promises-asyncawait-and-callbacks/"/>
+        <updated>2025-01-31T15:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Async programming is a programming paradigm that allows you to write code that runs asynchronously. In contrast to synchronous programming, which executes code sequentially, async programming allows code to run in the background while the rest of the...]]></summary>
+        <author>
+            <name>Isaiah Clifford Opoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 133 Goodies]]></title>
+        <id>https://css-tricks.com/?p=383910</id>
+        <link href="https://css-tricks.com/chrome-133-goodies/"/>
+        <updated>2025-01-31T15:27:50.000Z</updated>
+        <summary type="html"><![CDATA[Did you see the release notes for Chrome 133? It's currently in beta, but the Chrome team has been publishing a slew of new articles with pretty incredible demos that are tough to ignore. I figured I'd round those up in one place.
+Chrome 133 Goodies originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping the page interactive while a View Transition is running]]></title>
+        <id>https://css-tricks.com/?p=384331</id>
+        <link href="https://css-tricks.com/keeping-the-page-interactive-while-a-view-transition-is-running/"/>
+        <updated>2025-01-31T14:11:00.000Z</updated>
+        <summary type="html"><![CDATA[When using View Transitions you’ll notice the page becomes unresponsive to clicks while a View Transition is running. […] This happens because of the ::view-transition pseudo element – the one that contains all animated snapshots – gets overlayed on top 
+…
+Keeping the page interactive while a View Transition is running originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/</id>
+        <link href="https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/"/>
+        <updated>2025-01-31T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Langchain Alternatives You Can Use to Build AI and Agentic Workflows]]></title>
         <id>679bcc0fa60eb167ae249fba</id>
@@ -125,26 +178,6 @@ What on Earth is the `types` Descriptor in View Transitions? originally publis
         <summary type="html"><![CDATA[In the fast-paced world of software development, delivering high-quality applications quickly and reliably is crucial. This is where CI/CD (Continuous Integration and Continuous Delivery/Deployment) comes into play. CI/CD is a set of practices and to...]]></summary>
         <author>
             <name>Juan P. Romano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essential CLI/TUI Tools for Developers]]></title>
-        <id>6798fd7b4666e531b7dd7586</id>
-        <link href="https://www.freecodecamp.org/news/essential-cli-tui-tools-for-developers/"/>
-        <updated>2025-01-28T15:53:31.000Z</updated>
-        <summary type="html"><![CDATA[As developers, we spend a lot of time in our terminals. And there are tons of great CLI/TUI tools that can boost our productivity (as well as some that are just fun to use). From managing Git repositories and navigating file systems to monitoring sys...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Java Collections Framework – A Guide for Developers]]></title>
-        <id>6798fd38ac05f27ed5691abd</id>
-        <link href="https://www.freecodecamp.org/news/java-collections-framework-reference-guide/"/>
-        <updated>2025-01-28T15:52:24.000Z</updated>
-        <summary type="html"><![CDATA[In your Java applications, you’ll typically work with various types of objects. And you might want to perform operations like sorting, searching, and iterating on these objects. Prior to the introduction of the Collections framework in JDK 1.2, you w...]]></summary>
-        <author>
-            <name>Anjan Baradwaj</name>
         </author>
     </entry>
     <entry>
