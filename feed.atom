@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-01T01:18:04.436Z</id>
+    <id>urn:2025-02-02T01:17:43.994Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-01T01:18:04.436Z</updated>
+    <updated>2025-02-02T01:17:43.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -59,7 +59,7 @@ Keeping the page interactive while a View Transition is running originally publi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Langchain Alternatives You Can Use to Build AI and Agentic Workflows]]></title>
+        <title type="html"><![CDATA[LangChain Alternatives You Can Use to Build AI and Agentic Workflows]]></title>
         <id>679bcc0fa60eb167ae249fba</id>
         <link href="https://www.freecodecamp.org/news/langchain-alternatives-for-building-ai-and-agentic-workflows/"/>
         <updated>2025-01-30T18:59:27.000Z</updated>
