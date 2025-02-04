@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-03T01:15:08.113Z</id>
+    <id>urn:2025-02-04T01:14:13.353Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-03T01:15:08.113Z</updated>
+    <updated>2025-02-04T01:14:13.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Compiling CSS With Vite and Lightning CSS]]></title>
+        <id>https://css-tricks.com/?p=384050</id>
+        <link href="https://css-tricks.com/compiling-css-with-vite-and-lightning-css/"/>
+        <updated>2025-02-03T15:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Are partials the only thing keeping you writing CSS in Sass? With a little configuration, it's possible to compile partial CSS files without a Sass dependency. Ryan Trimble has the details.
+Compiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Gas Station to Google with Self-Taught Cloud Engineer Rishab Kumar [Podcast #158]]]></title>
         <id>679cf6a3c58e5553aa30c9a3</id>
