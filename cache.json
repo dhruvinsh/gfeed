@@ -17,7 +17,7 @@
           "description": "Are partials the only thing keeping you writing CSS in Sass? With a little configuration, it's possible to compile partial CSS files without a Sass dependency. Ryan Trimble has the details.\nCompiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/compiling-css-with-vite-and-lightning-css/",
           "publishedOn": "2025-02-03T15:23:37.000Z",
-          "wordCount": 4188,
+          "wordCount": 4274,
           "title": "Compiling CSS With Vite and Lightning CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384050"
         },
@@ -27,7 +27,7 @@
           "description": "Did you see the release notes for Chrome 133? It's currently in beta, but the Chrome team has been publishing a slew of new articles with pretty incredible demos that are tough to ignore. I figured I'd round those up in one place.\nChrome 133 Goodies originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/chrome-133-goodies/",
           "publishedOn": "2025-01-31T15:27:50.000Z",
-          "wordCount": 2569,
+          "wordCount": 2701,
           "title": "Chrome 133 Goodies",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383910"
         },
@@ -37,7 +37,7 @@
           "description": "When using View Transitions you’ll notice the page becomes unresponsive to clicks while a View Transition is running. […] This happens because of the ::view-transition pseudo element – the one that contains all animated snapshots – gets overlayed on top \n…\nKeeping the page interactive while a View Transition is running originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/keeping-the-page-interactive-while-a-view-transition-is-running/",
           "publishedOn": "2025-01-31T14:11:00.000Z",
-          "wordCount": 1906,
+          "wordCount": 2038,
           "title": "Keeping the page interactive while a View Transition is running",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384331"
         },
@@ -47,7 +47,7 @@
           "description": "All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.\nThe Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-mistakes-of-css/",
           "publishedOn": "2025-01-30T14:31:08.000Z",
-          "wordCount": 1970,
+          "wordCount": 2176,
           "title": "The Mistakes of CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384089"
         },
@@ -57,7 +57,7 @@
           "description": "The @view-transition at-rule has two descriptions. One is the commonly used navigation descriptor. The second is types, the lesser-known of the two, and one that probably envies how much attention navigation gets. But read on to learn why we need types and how it opens up new possibilities for custom view transitions when navigating between pages.\nWhat on Earth is the `types` Descriptor in View Transitions? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/what-on-earth-is-the-types-descriptor-in-view-transitions/",
           "publishedOn": "2025-01-29T14:13:53.000Z",
-          "wordCount": 2931,
+          "wordCount": 3063,
           "title": "What on Earth is the `types` Descriptor in View Transitions?",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/01/custom-view-transition.mp4",
@@ -72,7 +72,7 @@
           "description": "After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.\nRevisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/revisiting-css-multi-column-layout/",
           "publishedOn": "2025-01-27T15:35:44.000Z",
-          "wordCount": 3717,
+          "wordCount": 3849,
           "title": "Revisiting CSS Multi-Column Layout",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384002"
         },
@@ -82,7 +82,7 @@
           "description": "When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.\nPositioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/positioning-text-around-elements-with-css-offset/",
           "publishedOn": "2025-01-24T14:59:25.000Z",
-          "wordCount": 2795,
+          "wordCount": 2927,
           "title": "Positioning Text Around Elements With CSS Offset",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383506"
         },
@@ -92,7 +92,7 @@
           "description": "I was reading through Juan’s recent Almanac entry for the @counter-style at-rule and I’ll be darned if he didn’t uncover and unpack some extremely interesting things that we can do to style lists, notably the list marker. You’re probably already …\nSome Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/some-things-you-might-not-know-about-custom-counter-styles/",
           "publishedOn": "2025-01-23T17:21:15.000Z",
-          "wordCount": 2483,
+          "wordCount": 2615,
           "title": "Some Things You Might Not Know About Custom Counter Styles",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383776"
         },
@@ -102,7 +102,7 @@
           "description": "Chris wrote about “Likes” pages a long while back. The idea is rather simple: “Like” an item in your RSS reader and display it in a feed of other liked items. The little example Chris made is still really good.…\nCreating a “Starred” Feed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/creating-a-starred-feed/",
           "publishedOn": "2025-01-21T14:21:32.000Z",
-          "wordCount": 3146,
+          "wordCount": 3278,
           "title": "Creating a “Starred” Feed",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382660"
         },
@@ -112,7 +112,7 @@
           "description": "Anchor positioning can be great for little interactive effects — as Temani Afif shows off with this clever idea for a menu hover.\nFancy Menu Navigation Using Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/",
           "publishedOn": "2025-01-17T14:57:39.000Z",
-          "wordCount": 3574,
+          "wordCount": 3706,
           "title": "Fancy Menu Navigation Using Anchor Positioning",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383518"
         },
@@ -122,7 +122,7 @@
           "description": "Lee Meyer with a super clever idea using scroll-driven animations as an interaction to \"like\" or \"dislike\" something.\nWeb-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/web-slinger-css-across-the-swiper-verse/",
           "publishedOn": "2025-01-15T15:03:25.000Z",
-          "wordCount": 3196,
+          "wordCount": 3328,
           "title": "Web-Slinger.css: Across the Swiper-Verse",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383533"
         },
@@ -132,7 +132,7 @@
           "description": "(This is a sponsored post.)\nIt’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …\nA Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-few-ways-that-cloudways-makes-running-this-site-a-little-easier/",
           "publishedOn": "2025-01-14T14:49:10.000Z",
-          "wordCount": 2434,
+          "wordCount": 2566,
           "title": "A Few Ways That Cloudways Makes Running This Site a Little Easier",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382719"
         },
@@ -142,7 +142,7 @@
           "description": "Today, I want to look into one of those cases of impatient and how the community has waited for that feature, to be specific, two upcoming functions: sibling-count() and sibling-index().\nHow to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-wait-for-the-sibling-count-and-sibling-index-functions/",
           "publishedOn": "2025-01-13T15:08:01.000Z",
-          "wordCount": 4192,
+          "wordCount": 4324,
           "title": "How to Wait for the sibling-count() and sibling-index() Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383435"
         },
@@ -152,7 +152,7 @@
           "description": "I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …\nTight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/",
           "publishedOn": "2025-01-09T16:16:15.000Z",
-          "wordCount": 1927,
+          "wordCount": 2059,
           "title": "Tight Mode: Why Browsers Produce Different Performance Results",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383563"
         },
@@ -162,7 +162,7 @@
           "description": "I am still an AI skeptic. The biggest risk I foresee is that if your sole responsibility is to write code, your job is at risk. It’s not time to panic, but I do see a lot of value in evolving your soft skills.\nThe Importance of Investing in Soft Skills in the Age of AI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-importance-of-investing-in-soft-skills-in-the-age-of-ai/",
           "publishedOn": "2025-01-06T14:58:46.000Z",
-          "wordCount": 2758,
+          "wordCount": 2890,
           "title": "The Importance of Investing in Soft Skills in the Age of AI",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383383"
         }
@@ -174,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/",
+          "author": "hello@smashingmagazine.com (Edoardo Dusi)",
+          "description": "In today’s web development landscape, the concept of a monolithic application has become increasingly rare. Modern applications are composed of multiple specialized services, each of which handles specific aspects of functionality. This shift didn’t happen overnight - it’s the result of decades of evolution in how we think about and implement data transfer between systems. Let’s explore this journey and see how it shapes modern architectures, particularly in the context of headless CMS solutions.",
+          "link": "https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/",
+          "publishedOn": "2025-02-04T08:00:00.000Z",
+          "wordCount": 4355,
+          "title": "Integrations: From Simple Data Transfer To Modern Composable Architectures",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/integrations-from-simple-data-transfer-to-composable-architectures/integrations-from-simple-data-transfer-to-composable-architectures.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/integrations-from-simple-data-transfer-to-composable-architectures/integrations-from-simple-data-transfer-to-composable-architectures.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5080,
+          "wordCount": 5191,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -194,7 +209,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4055,
+          "wordCount": 4163,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -209,7 +224,7 @@
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5399,
+          "wordCount": 5398,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -224,7 +239,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4047,
+          "wordCount": 4045,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -254,7 +269,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3680,
+          "wordCount": 3692,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -269,7 +284,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4933,
+          "wordCount": 5033,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -284,7 +299,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4322,
+          "wordCount": 4321,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -299,7 +314,7 @@
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5364,
+          "wordCount": 5246,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -329,7 +344,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4195,
+          "wordCount": 4193,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -352,21 +367,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-high-traffic-events-cloudways/designing-high-traffic-events-cloudways.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
-          "link": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
-          "publishedOn": "2025-01-06T08:00:00.000Z",
-          "wordCount": 4336,
-          "title": "What Does AI Really Mean?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg"
         }
       ]
     },
@@ -375,6 +375,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67a269edea59b2f402186a7d",
+          "author": "Samhitha Rama Prasad",
+          "description": "Access control is crucial for preventing unauthorized access and ensuring that only the right people can access sensitive data in your application. As your app grows in complexity, so does the challenge of enforcing permissions in a clean and efficie...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-scalable-access-control-for-your-web-app/",
+          "publishedOn": "2025-02-04T19:26:37.000Z",
+          "wordCount": 8744,
+          "title": "Scalable Access Control for Your Web App: The Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738695897990/7a5962ce-9c4a-4e7c-bdeb-520dccc5d240.png"
+        },
+        {
+          "id": "67a25a17305bf96e1daeccd4",
+          "author": "Vahe Aslanyan",
+          "description": "Bioengineering stands at the precipice of a transformative era, where the convergence of biology, engineering, and technology promises to redefine the very fabric of human existence. This is not hyperbole. It’s a reflection of the rapid strides being...",
+          "link": "https://www.freecodecamp.org/news/next-gen-healthcare-with-ai-epigenetics-and-bioengineering/",
+          "publishedOn": "2025-02-04T18:19:03.000Z",
+          "wordCount": 12406,
+          "title": "Pioneering Next-Gen Healthcare with AI, Epigenetics, and Bioengineering",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738685201135/64b476e9-b17b-4788-ba3c-ec23a2576e81.png"
+        },
+        {
+          "id": "67a24bb37e501febb084c852",
+          "author": "Tanishka Makode",
+          "description": "Imagine a carpenter without tools, a writer without a pen, or a chef without a knife—this is like trying to imagine a developer or sysadmin without a reliable text editor. For devs, text editors are the ultimate multitools, shaping how we create, man...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-vim-text-editor-intro-for-devs/",
+          "publishedOn": "2025-02-04T17:17:39.000Z",
+          "wordCount": 5148,
+          "title": "How to Use the Vim Text Editor – An Introduction for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738684583892/739ec0fa-e8a2-4f08-a265-7fa5034c932d.png"
+        },
+        {
+          "id": "67a2380b9af7e36332fde944",
+          "author": "Nitin Sharma",
+          "description": "Being a developer isn’t as straightforward as many people think. It’s not just about learning a programming language and typing out code to build software. There’s a lot more to it. And one of the most confusing (and often frustrating) topics for dev...",
+          "link": "https://www.freecodecamp.org/news/tips-for-writing-clean-code/",
+          "publishedOn": "2025-02-04T15:53:47.000Z",
+          "wordCount": 2823,
+          "title": "Simple Tips to Help You Write Clean Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738684292390/6e844cd5-28f8-42e9-b9e3-cc6ded9ec72f.png"
+        },
+        {
+          "id": "67a22fc0b7eb4acc424cb220",
+          "author": "Gursimar Singh",
+          "description": "Cloud Development Environments (CDEs) have become essential tools in modern software development, offering enhanced productivity and streamlined workflows. This article compares three leading CDEs: Harness CDE, Gitpod, and Coder. My goal here is to o...",
+          "link": "https://www.freecodecamp.org/news/how-to-choose-a-cloud-development-environment/",
+          "publishedOn": "2025-02-04T15:18:24.000Z",
+          "wordCount": 2954,
+          "title": "How to Choose a Cloud Development Environment – Harness CDE, Gitpod, and Coder Compared",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738612280310/a3e39db8-66e9-45f5-9bc1-60cfa426a001.png"
+        },
         {
           "id": "679cf6a3c58e5553aa30c9a3",
           "author": "Quincy Larson",
@@ -403,7 +453,7 @@
           "publishedOn": "2025-01-30T18:59:27.000Z",
           "wordCount": 3674,
           "title": "LangChain Alternatives You Can Use to Build AI and Agentic Workflows",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738263536460/497c1640-fef2-481b-8383-d522a7303c88.png"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738696551914/6800aa71-d6f2-472a-8982-35af81509813.png"
         },
         {
           "id": "679bb8262a7ebc3c99ecb6ea",
@@ -424,56 +474,6 @@
           "wordCount": 1216,
           "title": "Learn the Basics of API Security",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738249160616/80af618b-7d5a-442d-a6d9-6ea4dd91cfc4.png"
-        },
-        {
-          "id": "679b92469bbf0da70b05703a",
-          "author": "Timothy Olanrewaju",
-          "description": "In many web applications, we often encounter forms where selecting an option in one dropdown unlocks a new set of options in another. These interconnected dropdowns, commonly known as dependent or cascading dropdowns, play a crucial role in creating ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-dependent-dropdowns-in-react/",
-          "publishedOn": "2025-01-30T14:52:54.000Z",
-          "wordCount": 3298,
-          "title": "How to Build Dependent Dropdowns in React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738246583123/caa07859-2ce8-44b1-9fd2-44b414babe52.png"
-        },
-        {
-          "id": "679a5fa86177eb24200d0f7f",
-          "author": "Programming with Shahan",
-          "description": "Building scalable software applications requires writing clean code that’s so simple that any dev can understand it. In this article, I’ll explain and demonstrate what clean code is. Then I’ll share my favorite clean code patterns for building modern...",
-          "link": "https://www.freecodecamp.org/news/the-clean-code-handbook/",
-          "publishedOn": "2025-01-29T17:04:40.000Z",
-          "wordCount": 8321,
-          "title": "The Clean Code Handbook: How to Write Better Code for Agile Software Development",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738170236859/edacf21e-7180-4f65-9e7e-f7cf95b4f9d8.png"
-        },
-        {
-          "id": "679a5f09bd88c0851092079d",
-          "author": "Ben",
-          "description": "In my twenty years of being in the Software Engineer game, I’ve been through lots of Sprint Reviews. I’ve seen them done well, and I’ve seen them used as no more than a few hours every sprint for people to take a nice break in a meeting room. When do...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-a-great-sprint-review-actionable-insights/",
-          "publishedOn": "2025-01-29T17:02:01.000Z",
-          "wordCount": 2392,
-          "title": "How to Run a Great Sprint Review – Actionable Tips for Developers and Teams",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738170100236/fcc7407a-3b08-493f-a704-661eed12f369.png"
-        },
-        {
-          "id": "679a52c025db32662cde422f",
-          "author": "Beau Carnes",
-          "description": "Object-oriented programming (OOP) is one of the most essential paradigms in modern software development. It provides a structured way to design and organize code, making it more reusable, maintainable, and scalable. Unlike procedural programming, whi...",
-          "link": "https://www.freecodecamp.org/news/master-object-oriented-programming-in-python/",
-          "publishedOn": "2025-01-29T16:09:36.000Z",
-          "wordCount": 1730,
-          "title": "Master Object Oriented Programming in Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738189114736/ff24cbf4-c956-4944-8021-a682d31abc03.png"
-        },
-        {
-          "id": "67995e567a54c877fce42276",
-          "author": "Juan P. Romano",
-          "description": "In the fast-paced world of software development, delivering high-quality applications quickly and reliably is crucial. This is where CI/CD (Continuous Integration and Continuous Delivery/Deployment) comes into play. CI/CD is a set of practices and to...",
-          "link": "https://www.freecodecamp.org/news/create-a-basic-cicd-pipeline-with-webhooks-on-linux/",
-          "publishedOn": "2025-01-28T22:46:46.000Z",
-          "wordCount": 3667,
-          "title": "How to Create a Basic CI/CD Pipeline with Webhooks on Linux",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737640144719/9035597c-0a69-4146-93cc-8bd659384169.png"
         }
       ]
     }

@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-04T01:14:13.353Z</id>
+    <id>urn:2025-02-05T01:15:15.159Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T01:14:13.353Z</updated>
+    <updated>2025-02-05T01:15:15.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scalable Access Control for Your Web App: The Handbook]]></title>
+        <id>67a269edea59b2f402186a7d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-scalable-access-control-for-your-web-app/"/>
+        <updated>2025-02-04T19:26:37.000Z</updated>
+        <summary type="html"><![CDATA[Access control is crucial for preventing unauthorized access and ensuring that only the right people can access sensitive data in your application. As your app grows in complexity, so does the challenge of enforcing permissions in a clean and efficie...]]></summary>
+        <author>
+            <name>Samhitha Rama Prasad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pioneering Next-Gen Healthcare with AI, Epigenetics, and Bioengineering]]></title>
+        <id>67a25a17305bf96e1daeccd4</id>
+        <link href="https://www.freecodecamp.org/news/next-gen-healthcare-with-ai-epigenetics-and-bioengineering/"/>
+        <updated>2025-02-04T18:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Bioengineering stands at the precipice of a transformative era, where the convergence of biology, engineering, and technology promises to redefine the very fabric of human existence. This is not hyperbole. It’s a reflection of the rapid strides being...]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Vim Text Editor – An Introduction for Developers]]></title>
+        <id>67a24bb37e501febb084c852</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-vim-text-editor-intro-for-devs/"/>
+        <updated>2025-02-04T17:17:39.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a carpenter without tools, a writer without a pen, or a chef without a knife—this is like trying to imagine a developer or sysadmin without a reliable text editor. For devs, text editors are the ultimate multitools, shaping how we create, man...]]></summary>
+        <author>
+            <name>Tanishka Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple Tips to Help You Write Clean Code]]></title>
+        <id>67a2380b9af7e36332fde944</id>
+        <link href="https://www.freecodecamp.org/news/tips-for-writing-clean-code/"/>
+        <updated>2025-02-04T15:53:47.000Z</updated>
+        <summary type="html"><![CDATA[Being a developer isn’t as straightforward as many people think. It’s not just about learning a programming language and typing out code to build software. There’s a lot more to it. And one of the most confusing (and often frustrating) topics for dev...]]></summary>
+        <author>
+            <name>Nitin Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose a Cloud Development Environment – Harness CDE, Gitpod, and Coder Compared]]></title>
+        <id>67a22fc0b7eb4acc424cb220</id>
+        <link href="https://www.freecodecamp.org/news/how-to-choose-a-cloud-development-environment/"/>
+        <updated>2025-02-04T15:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Cloud Development Environments (CDEs) have become essential tools in modern software development, offering enhanced productivity and streamlined workflows. This article compares three leading CDEs: Harness CDE, Gitpod, and Coder. My goal here is to o...]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrations: From Simple Data Transfer To Modern Composable Architectures]]></title>
+        <id>https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/</id>
+        <link href="https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/"/>
+        <updated>2025-02-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s web development landscape, the concept of a monolithic application has become increasingly rare. Modern applications are composed of multiple specialized services, each of which handles specific aspects of functionality. This shift didn’t happen overnight - it’s the result of decades of evolution in how we think about and implement data transfer between systems. Let’s explore this journey and see how it shapes modern architectures, particularly in the context of headless CMS solutions.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Edoardo Dusi)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compiling CSS With Vite and Lightning CSS]]></title>
         <id>https://css-tricks.com/?p=384050</id>
@@ -100,16 +160,6 @@ Keeping the page interactive while a View Transition is running originally publi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build Dependent Dropdowns in React]]></title>
-        <id>679b92469bbf0da70b05703a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-dependent-dropdowns-in-react/"/>
-        <updated>2025-01-30T14:52:54.000Z</updated>
-        <summary type="html"><![CDATA[In many web applications, we often encounter forms where selecting an option in one dropdown unlocks a new set of options in another. These interconnected dropdowns, commonly known as dependent or cascading dropdowns, play a crucial role in creating ...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Mistakes of CSS]]></title>
         <id>https://css-tricks.com/?p=384089</id>
         <link href="https://css-tricks.com/the-mistakes-of-css/"/>
@@ -131,36 +181,6 @@ The Mistakes of CSS originally published on CSS-Tricks, which is part of the Dig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Clean Code Handbook: How to Write Better Code for Agile Software Development]]></title>
-        <id>679a5fa86177eb24200d0f7f</id>
-        <link href="https://www.freecodecamp.org/news/the-clean-code-handbook/"/>
-        <updated>2025-01-29T17:04:40.000Z</updated>
-        <summary type="html"><![CDATA[Building scalable software applications requires writing clean code that’s so simple that any dev can understand it. In this article, I’ll explain and demonstrate what clean code is. Then I’ll share my favorite clean code patterns for building modern...]]></summary>
-        <author>
-            <name>Programming with Shahan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run a Great Sprint Review – Actionable Tips for Developers and Teams]]></title>
-        <id>679a5f09bd88c0851092079d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-a-great-sprint-review-actionable-insights/"/>
-        <updated>2025-01-29T17:02:01.000Z</updated>
-        <summary type="html"><![CDATA[In my twenty years of being in the Software Engineer game, I’ve been through lots of Sprint Reviews. I’ve seen them done well, and I’ve seen them used as no more than a few hours every sprint for people to take a nice break in a meeting room. When do...]]></summary>
-        <author>
-            <name>Ben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Object Oriented Programming in Python]]></title>
-        <id>679a52c025db32662cde422f</id>
-        <link href="https://www.freecodecamp.org/news/master-object-oriented-programming-in-python/"/>
-        <updated>2025-01-29T16:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Object-oriented programming (OOP) is one of the most essential paradigms in modern software development. It provides a structured way to design and organize code, making it more reusable, maintainable, and scalable. Unlike procedural programming, whi...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What on Earth is the `types` Descriptor in View Transitions?]]></title>
         <id>https://css-tricks.com/?p=383818</id>
         <link href="https://css-tricks.com/what-on-earth-is-the-types-descriptor-in-view-transitions/"/>
@@ -179,16 +199,6 @@ What on Earth is the `types` Descriptor in View Transitions? originally publis
         <summary type="html"><![CDATA[It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Basic CI/CD Pipeline with Webhooks on Linux]]></title>
-        <id>67995e567a54c877fce42276</id>
-        <link href="https://www.freecodecamp.org/news/create-a-basic-cicd-pipeline-with-webhooks-on-linux/"/>
-        <updated>2025-01-28T22:46:46.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of software development, delivering high-quality applications quickly and reliably is crucial. This is where CI/CD (Continuous Integration and Continuous Delivery/Deployment) comes into play. CI/CD is a set of practices and to...]]></summary>
-        <author>
-            <name>Juan P. Romano</name>
         </author>
     </entry>
     <entry>
@@ -390,16 +400,6 @@ Tight Mode: Why Browsers Produce Different Performance Results originally publis
 The Importance of Investing in Soft Skills in the Age of AI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Andy Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does AI Really Mean?]]></title>
-        <id>https://smashingmagazine.com/2025/01/understanding-ai-meaning/</id>
-        <link href="https://smashingmagazine.com/2025/01/understanding-ai-meaning/"/>
-        <updated>2025-01-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
         </author>
     </entry>
 </feed>
