@@ -1,12 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-05T01:15:15.159Z</id>
+    <id>urn:2025-02-06T01:15:33.366Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T01:15:15.159Z</updated>
+    <updated>2025-02-06T01:15:33.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Scalable Access Control for Your Web App: The Handbook]]></title>
+        <title type="html"><![CDATA[How to Build an Analytical Dashboard with Next.js]]></title>
+        <id>67a3aa3efc0a24bff2e83e65</id>
+        <link href="https://www.freecodecamp.org/news/build-an-analytical-dashboard-with-nextjs/"/>
+        <updated>2025-02-05T18:13:18.000Z</updated>
+        <summary type="html"><![CDATA[If you work with data or plan to in the future, at some point you'll likely need to build a comprehensive analytics dashboard. Sharing data through charts is a great way to provide others with a clearer understanding of this information. Pairing it w...]]></summary>
+        <author>
+            <name>Stefan Muzyka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Documentation as Code with Docusaurus and GitHub Actions]]></title>
+        <id>67a39f467e716749ae8c7b7e</id>
+        <link href="https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/"/>
+        <updated>2025-02-05T17:26:30.000Z</updated>
+        <summary type="html"><![CDATA[For technical writers, keeping documentation up to date manually can be really frustrating. Issues like outdated guides, broken links, and missing updates are a pain, and they can make writers less productive. These issues can also make it harder for...]]></summary>
+        <author>
+            <name>EZINNE ANNE EMILIA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baseline Status in a WordPress Block]]></title>
+        <id>https://css-tricks.com/?p=382311</id>
+        <link href="https://css-tricks.com/baseline-status-in-a-wordpress-block/"/>
+        <updated>2025-02-05T14:58:18.000Z</updated>
+        <summary type="html"><![CDATA[The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.
+Baseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Scalable Access Control for Your Web App [Full Handbook]]]></title>
         <id>67a269edea59b2f402186a7d</id>
         <link href="https://www.freecodecamp.org/news/how-to-build-scalable-access-control-for-your-web-app/"/>
         <updated>2025-02-04T19:26:37.000Z</updated>
@@ -137,26 +168,6 @@ Keeping the page interactive while a View Transition is running originally publi
         <summary type="html"><![CDATA[Building AI and agentic workflows is at the core of modern AI development in 2025. And LangChain has been the go-to framework for creating AI applications for a while now. But some developers are seeking alternatives that offer more flexibility, simp...]]></summary>
         <author>
             <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Process ID? How to Use PIDs for Process Management]]></title>
-        <id>679bb8262a7ebc3c99ecb6ea</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-process-id-process-management-tutorial/"/>
-        <updated>2025-01-30T17:34:30.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how a computer knows which program’s output to display, especially when multiple programs are running simultaneously? This is possible because of the Process ID (PID). A PID is a unique identifier that helps the operating syste...]]></summary>
-        <author>
-            <name>Syeda Maham Fahim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Basics of API Security]]></title>
-        <id>679b945fe7604181817d149e</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-basics-of-api-security/"/>
-        <updated>2025-01-30T15:01:51.000Z</updated>
-        <summary type="html"><![CDATA[APIs (Application Programming Interfaces) are the backbone of modern software applications, enabling seamless communication between different systems and services. However, this interconnectedness also makes them a prime target for cyberattacks. API ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -389,17 +400,6 @@ Tight Mode: Why Browsers Produce Different Performance Results originally publis
         <summary type="html"><![CDATA[Product drops and sales are a great way to increase revenue, but these events can result in traffic spikes that affect a site’s availability and performance. To prevent website crashes, you’ll have to make sure that the sites you design can handle large numbers of server requests at once. Let’s discuss how!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Saad Khan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance of Investing in Soft Skills in the Age of AI]]></title>
-        <id>https://css-tricks.com/?p=383383</id>
-        <link href="https://css-tricks.com/the-importance-of-investing-in-soft-skills-in-the-age-of-ai/"/>
-        <updated>2025-01-06T14:58:46.000Z</updated>
-        <summary type="html"><![CDATA[I am still an AI skeptic. The biggest risk I foresee is that if your sole responsibility is to write code, your job is at risk. It’s not time to panic, but I do see a lot of value in evolving your soft skills.
-The Importance of Investing in Soft Skills in the Age of AI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Bell</name>
         </author>
     </entry>
 </feed>

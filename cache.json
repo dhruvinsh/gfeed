@@ -12,12 +12,27 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382311",
+          "author": "Geoff Graham",
+          "description": "The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.\nBaseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/baseline-status-in-a-wordpress-block/",
+          "publishedOn": "2025-02-05T14:58:18.000Z",
+          "wordCount": 3717,
+          "title": "Baseline Status in a WordPress Block",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/11/Screen-Recording-2024-11-05-at-2.56.06 PM.mp4",
+            "length": "17563755",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382311"
+        },
+        {
           "id": "https://css-tricks.com/?p=384050",
           "author": "Ryan Trimble",
           "description": "Are partials the only thing keeping you writing CSS in Sass? With a little configuration, it's possible to compile partial CSS files without a Sass dependency. Ryan Trimble has the details.\nCompiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/compiling-css-with-vite-and-lightning-css/",
           "publishedOn": "2025-02-03T15:23:37.000Z",
-          "wordCount": 4274,
+          "wordCount": 4428,
           "title": "Compiling CSS With Vite and Lightning CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384050"
         },
@@ -155,16 +170,6 @@
           "wordCount": 2059,
           "title": "Tight Mode: Why Browsers Produce Different Performance Results",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383563"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383383",
-          "author": "Andy Bell",
-          "description": "I am still an AI skeptic. The biggest risk I foresee is that if your sole responsibility is to write code, your job is at risk. It’s not time to panic, but I do see a lot of value in evolving your soft skills.\nThe Importance of Investing in Soft Skills in the Age of AI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-importance-of-investing-in-soft-skills-in-the-age-of-ai/",
-          "publishedOn": "2025-01-06T14:58:46.000Z",
-          "wordCount": 2890,
-          "title": "The Importance of Investing in Soft Skills in the Age of AI",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383383"
         }
       ]
     },
@@ -194,7 +199,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5191,
+          "wordCount": 5088,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -209,7 +214,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4163,
+          "wordCount": 4051,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -224,7 +229,7 @@
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5398,
+          "wordCount": 5402,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -239,7 +244,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4045,
+          "wordCount": 4056,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -269,7 +274,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3692,
+          "wordCount": 3679,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -284,7 +289,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 5033,
+          "wordCount": 4926,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -299,7 +304,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4321,
+          "wordCount": 4325,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -314,7 +319,7 @@
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5246,
+          "wordCount": 5254,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -344,7 +349,7 @@
           "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
           "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4193,
+          "wordCount": 4197,
           "title": "Lesser Known Uses Of Better Known Attributes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
@@ -376,13 +381,33 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67a3aa3efc0a24bff2e83e65",
+          "author": "Stefan Muzyka",
+          "description": "If you work with data or plan to in the future, at some point you'll likely need to build a comprehensive analytics dashboard. Sharing data through charts is a great way to provide others with a clearer understanding of this information. Pairing it w...",
+          "link": "https://www.freecodecamp.org/news/build-an-analytical-dashboard-with-nextjs/",
+          "publishedOn": "2025-02-05T18:13:18.000Z",
+          "wordCount": 4081,
+          "title": "How to Build an Analytical Dashboard with Next.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738347998117/46877c78-f5e5-4a94-954e-029b73b8f952.png"
+        },
+        {
+          "id": "67a39f467e716749ae8c7b7e",
+          "author": "EZINNE ANNE EMILIA",
+          "description": "For technical writers, keeping documentation up to date manually can be really frustrating. Issues like outdated guides, broken links, and missing updates are a pain, and they can make writers less productive. These issues can also make it harder for...",
+          "link": "https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/",
+          "publishedOn": "2025-02-05T17:26:30.000Z",
+          "wordCount": 3106,
+          "title": "How to Set Up Documentation as Code with Docusaurus and GitHub Actions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738248926082/9a2a6855-00d4-4e25-a8bd-c1d645f21de5.png"
+        },
+        {
           "id": "67a269edea59b2f402186a7d",
           "author": "Samhitha Rama Prasad",
           "description": "Access control is crucial for preventing unauthorized access and ensuring that only the right people can access sensitive data in your application. As your app grows in complexity, so does the challenge of enforcing permissions in a clean and efficie...",
           "link": "https://www.freecodecamp.org/news/how-to-build-scalable-access-control-for-your-web-app/",
           "publishedOn": "2025-02-04T19:26:37.000Z",
-          "wordCount": 8744,
-          "title": "Scalable Access Control for Your Web App: The Handbook",
+          "wordCount": 8753,
+          "title": "How to Build Scalable Access Control for Your Web App [Full Handbook]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738695897990/7a5962ce-9c4a-4e7c-bdeb-520dccc5d240.png"
         },
         {
@@ -454,26 +479,6 @@
           "wordCount": 3674,
           "title": "LangChain Alternatives You Can Use to Build AI and Agentic Workflows",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738696551914/6800aa71-d6f2-472a-8982-35af81509813.png"
-        },
-        {
-          "id": "679bb8262a7ebc3c99ecb6ea",
-          "author": "Syeda Maham Fahim",
-          "description": "Have you ever wondered how a computer knows which program’s output to display, especially when multiple programs are running simultaneously? This is possible because of the Process ID (PID). A PID is a unique identifier that helps the operating syste...",
-          "link": "https://www.freecodecamp.org/news/what-is-a-process-id-process-management-tutorial/",
-          "publishedOn": "2025-01-30T17:34:30.000Z",
-          "wordCount": 1947,
-          "title": "What is a Process ID? How to Use PIDs for Process Management",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738252940529/8ee6969c-7a74-4b2f-bd33-f2d48332e8e0.png"
-        },
-        {
-          "id": "679b945fe7604181817d149e",
-          "author": "Beau Carnes",
-          "description": "APIs (Application Programming Interfaces) are the backbone of modern software applications, enabling seamless communication between different systems and services. However, this interconnectedness also makes them a prime target for cyberattacks. API ...",
-          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-api-security/",
-          "publishedOn": "2025-01-30T15:01:51.000Z",
-          "wordCount": 1216,
-          "title": "Learn the Basics of API Security",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738249160616/80af618b-7d5a-442d-a6d9-6ea4dd91cfc4.png"
         }
       ]
     }
