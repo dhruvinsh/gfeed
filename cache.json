@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384468",
+          "author": "Geoff Graham",
+          "description": "A little gem from Kevin Powell's \"HTML & CSS Tip of the Week\" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.\nContainer query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/container-query-units-cqi-and-cqb/",
+          "publishedOn": "2025-02-06T15:29:35.000Z",
+          "wordCount": 1971,
+          "title": "Container query units: cqi and cqb",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384468"
+        },
+        {
           "id": "https://css-tricks.com/?p=382311",
           "author": "Geoff Graham",
           "description": "The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.\nBaseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/baseline-status-in-a-wordpress-block/",
           "publishedOn": "2025-02-05T14:58:18.000Z",
-          "wordCount": 3717,
+          "wordCount": 3984,
           "title": "Baseline Status in a WordPress Block",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/11/Screen-Recording-2024-11-05-at-2.56.06 PM.mp4",
@@ -62,7 +72,7 @@
           "description": "All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.\nThe Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-mistakes-of-css/",
           "publishedOn": "2025-01-30T14:31:08.000Z",
-          "wordCount": 2176,
+          "wordCount": 2213,
           "title": "The Mistakes of CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384089"
         },
@@ -160,16 +170,6 @@
           "wordCount": 4324,
           "title": "How to Wait for the sibling-count() and sibling-index() Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383435"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383563",
-          "author": "Geoff Graham",
-          "description": "I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …\nTight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/",
-          "publishedOn": "2025-01-09T16:16:15.000Z",
-          "wordCount": 2059,
-          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383563"
         }
       ]
     },
@@ -214,7 +214,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4051,
+          "wordCount": 4060,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -229,7 +229,7 @@
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5402,
+          "wordCount": 5410,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -244,7 +244,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4056,
+          "wordCount": 4057,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -274,7 +274,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3679,
+          "wordCount": 3692,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -289,7 +289,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4926,
+          "wordCount": 4932,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -304,7 +304,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4325,
+          "wordCount": 4314,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -319,7 +319,7 @@
           "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
           "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
           "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5254,
+          "wordCount": 5263,
           "title": "Solo Development: Learning To Let Go Of Perfection",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
@@ -342,36 +342,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
-          "author": "hello@smashingmagazine.com (John Rhea)",
-          "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
-          "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
-          "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4197,
-          "title": "Lesser Known Uses Of Better Known Attributes",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/",
-          "author": "hello@smashingmagazine.com (Saad Khan)",
-          "description": "Product drops and sales are a great way to increase revenue, but these events can result in traffic spikes that affect a site’s availability and performance. To prevent website crashes, you’ll have to make sure that the sites you design can handle large numbers of server requests at once. Let’s discuss how!",
-          "link": "https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/",
-          "publishedOn": "2025-01-07T14:00:00.000Z",
-          "wordCount": 4063,
-          "title": "How To Design For High-Traffic Events And Prevent Your Website From Crashing",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-high-traffic-events-cloudways/designing-high-traffic-events-cloudways.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-high-traffic-events-cloudways/designing-high-traffic-events-cloudways.jpg"
         }
       ]
     },
@@ -380,6 +350,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67a4fbc311e2c2609ca60771",
+          "author": "Chidera Humphrey",
+          "description": "Redux is a state management library for JavaScript applications. It lets you create applications that behave in a predictable manner and run on different environments, including server and native environments. Redux Toolkit is the recommended way to ...",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-rtk-query-with-redux-toolkit/",
+          "publishedOn": "2025-02-06T18:13:23.000Z",
+          "wordCount": 4629,
+          "title": "How to Integrate RTK Query with Redux Toolkit: A Step-by-Step Guide for React Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738854615563/3357bd11-3fcd-43b3-b459-b0e8b60e853d.png"
+        },
+        {
+          "id": "67a4da7c28544da5426abc94",
+          "author": "Beau Carnes",
+          "description": "Artificial Intelligence is rapidly transforming industries, and AI Engineers are at the forefront of this revolution. If you’re looking to break into AI Engineering or advance your skills, having a clear roadmap is essential. Mastering AI requires a ...",
+          "link": "https://www.freecodecamp.org/news/ai-engineering-roadmap/",
+          "publishedOn": "2025-02-06T15:51:24.000Z",
+          "wordCount": 1233,
+          "title": "AI Engineering Roadmap",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738857015537/9b6809b3-0846-4891-bfbe-52763398238d.png"
+        },
+        {
+          "id": "67a4d16ab891dd1403996d28",
+          "author": "Danny",
+          "description": "Polymorphism is an object-oriented programming (OOP) principle that helps you write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand polymo...",
+          "link": "https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/",
+          "publishedOn": "2025-02-06T15:12:42.000Z",
+          "wordCount": 2047,
+          "title": "What is Polymorphism in Python? Explained with an Example",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738335631634/ef8f79a0-73df-430c-b955-a5325ca22f04.png"
+        },
+        {
+          "id": "67a3eddcb87640f436f52ba3",
+          "author": "Tatev Aslanyan",
+          "description": "Want to learn how to discover and analyze the hidden patterns within your data? Clustering, an essential technique in Unsupervised Machine Learning, holds the key to discovering valuable insights that can revolutionize your understanding of complex d...",
+          "link": "https://www.freecodecamp.org/news/clustering-in-python-a-machine-learning-handbook/",
+          "publishedOn": "2025-02-05T23:01:48.000Z",
+          "wordCount": 11253,
+          "title": "Learn Clustering in Python – A Machine Learning Engineering Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738794333226/0f8cd7d3-54d4-49a3-b864-e3e477446089.png"
+        },
         {
           "id": "67a3aa3efc0a24bff2e83e65",
           "author": "Stefan Muzyka",
@@ -399,6 +409,16 @@
           "wordCount": 3106,
           "title": "How to Set Up Documentation as Code with Docusaurus and GitHub Actions",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738248926082/9a2a6855-00d4-4e25-a8bd-c1d645f21de5.png"
+        },
+        {
+          "id": "67a4d4fb19ce74a3822b3eab",
+          "author": "Beau Carnes",
+          "description": "Building modern, dynamic websites requires a combination of powerful front-end frameworks and flexible content management systems. Whether you're a developer looking to enhance your skills or a beginner wanting to create your first web project, learn...",
+          "link": "https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/",
+          "publishedOn": "2025-02-05T05:00:00.000Z",
+          "wordCount": 1284,
+          "title": "Build a Full Stack App with Next.js and Strapi",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738855654744/dd05c620-8018-4c3c-9800-3948afe5277a.png"
         },
         {
           "id": "67a269edea59b2f402186a7d",
@@ -429,56 +449,6 @@
           "wordCount": 5148,
           "title": "How to Use the Vim Text Editor – An Introduction for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738684583892/739ec0fa-e8a2-4f08-a265-7fa5034c932d.png"
-        },
-        {
-          "id": "67a2380b9af7e36332fde944",
-          "author": "Nitin Sharma",
-          "description": "Being a developer isn’t as straightforward as many people think. It’s not just about learning a programming language and typing out code to build software. There’s a lot more to it. And one of the most confusing (and often frustrating) topics for dev...",
-          "link": "https://www.freecodecamp.org/news/tips-for-writing-clean-code/",
-          "publishedOn": "2025-02-04T15:53:47.000Z",
-          "wordCount": 2823,
-          "title": "Simple Tips to Help You Write Clean Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738684292390/6e844cd5-28f8-42e9-b9e3-cc6ded9ec72f.png"
-        },
-        {
-          "id": "67a22fc0b7eb4acc424cb220",
-          "author": "Gursimar Singh",
-          "description": "Cloud Development Environments (CDEs) have become essential tools in modern software development, offering enhanced productivity and streamlined workflows. This article compares three leading CDEs: Harness CDE, Gitpod, and Coder. My goal here is to o...",
-          "link": "https://www.freecodecamp.org/news/how-to-choose-a-cloud-development-environment/",
-          "publishedOn": "2025-02-04T15:18:24.000Z",
-          "wordCount": 2954,
-          "title": "How to Choose a Cloud Development Environment – Harness CDE, Gitpod, and Coder Compared",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738612280310/a3e39db8-66e9-45f5-9bc1-60cfa426a001.png"
-        },
-        {
-          "id": "679cf6a3c58e5553aa30c9a3",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Rishab Kumar, cloud engineer and developer advocate at Twillio. Rishab grew up in India and moved to Canada for school. But he couldn't afford to finish. He resorted...",
-          "link": "https://www.freecodecamp.org/news/from-gas-station-to-google-self-taught-cloud-engineer-rishab-kumar-podcast-158/",
-          "publishedOn": "2025-01-31T16:13:23.000Z",
-          "wordCount": 1128,
-          "title": "From Gas Station to Google with Self-Taught Cloud Engineer Rishab Kumar [Podcast #158]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738339892695/6b303b0a-c99c-4074-b4bd-104f98252c0c.png"
-        },
-        {
-          "id": "679ced2e80ebdc55d3ee44c8",
-          "author": "Isaiah Clifford Opoku",
-          "description": "Async programming is a programming paradigm that allows you to write code that runs asynchronously. In contrast to synchronous programming, which executes code sequentially, async programming allows code to run in the background while the rest of the...",
-          "link": "https://www.freecodecamp.org/news/learn-async-programming-in-typescript-promises-asyncawait-and-callbacks/",
-          "publishedOn": "2025-01-31T15:33:02.000Z",
-          "wordCount": 4465,
-          "title": "Learn Async Programming in TypeScript: Promises, Async/Await, and Callbacks",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737747600016/f6df015b-cc25-4c37-8c4e-bec9c8c49dc5.png"
-        },
-        {
-          "id": "679bcc0fa60eb167ae249fba",
-          "author": "Maham Codes",
-          "description": "Building AI and agentic workflows is at the core of modern AI development in 2025. And LangChain has been the go-to framework for creating AI applications for a while now. But some developers are seeking alternatives that offer more flexibility, simp...",
-          "link": "https://www.freecodecamp.org/news/langchain-alternatives-for-building-ai-and-agentic-workflows/",
-          "publishedOn": "2025-01-30T18:59:27.000Z",
-          "wordCount": 3674,
-          "title": "LangChain Alternatives You Can Use to Build AI and Agentic Workflows",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738696551914/6800aa71-d6f2-472a-8982-35af81509813.png"
         }
       ]
     }

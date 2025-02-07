@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-06T01:15:33.366Z</id>
+    <id>urn:2025-02-07T01:15:29.644Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T01:15:33.366Z</updated>
+    <updated>2025-02-07T01:15:29.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate RTK Query with Redux Toolkit: A Step-by-Step Guide for React Developers]]></title>
+        <id>67a4fbc311e2c2609ca60771</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-rtk-query-with-redux-toolkit/"/>
+        <updated>2025-02-06T18:13:23.000Z</updated>
+        <summary type="html"><![CDATA[Redux is a state management library for JavaScript applications. It lets you create applications that behave in a predictable manner and run on different environments, including server and native environments. Redux Toolkit is the recommended way to ...]]></summary>
+        <author>
+            <name>Chidera Humphrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Engineering Roadmap]]></title>
+        <id>67a4da7c28544da5426abc94</id>
+        <link href="https://www.freecodecamp.org/news/ai-engineering-roadmap/"/>
+        <updated>2025-02-06T15:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is rapidly transforming industries, and AI Engineers are at the forefront of this revolution. If you’re looking to break into AI Engineering or advance your skills, having a clear roadmap is essential. Mastering AI requires a ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Container query units: cqi and cqb]]></title>
+        <id>https://css-tricks.com/?p=384468</id>
+        <link href="https://css-tricks.com/container-query-units-cqi-and-cqb/"/>
+        <updated>2025-02-06T15:29:35.000Z</updated>
+        <summary type="html"><![CDATA[A little gem from Kevin Powell's "HTML & CSS Tip of the Week" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.
+Container query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Polymorphism in Python? Explained with an Example]]></title>
+        <id>67a4d16ab891dd1403996d28</id>
+        <link href="https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/"/>
+        <updated>2025-02-06T15:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Polymorphism is an object-oriented programming (OOP) principle that helps you write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand polymo...]]></summary>
+        <author>
+            <name>Danny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Clustering in Python – A Machine Learning Engineering Handbook]]></title>
+        <id>67a3eddcb87640f436f52ba3</id>
+        <link href="https://www.freecodecamp.org/news/clustering-in-python-a-machine-learning-handbook/"/>
+        <updated>2025-02-05T23:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Want to learn how to discover and analyze the hidden patterns within your data? Clustering, an essential technique in Unsupervised Machine Learning, holds the key to discovering valuable insights that can revolutionize your understanding of complex d...]]></summary>
+        <author>
+            <name>Tatev Aslanyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Analytical Dashboard with Next.js]]></title>
         <id>67a3aa3efc0a24bff2e83e65</id>
@@ -34,6 +85,16 @@
 Baseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Full Stack App with Next.js and Strapi]]></title>
+        <id>67a4d4fb19ce74a3822b3eab</id>
+        <link href="https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/"/>
+        <updated>2025-02-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building modern, dynamic websites requires a combination of powerful front-end frameworks and flexible content management systems. Whether you're a developer looking to enhance your skills or a beginner wanting to create your first web project, learn...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -67,26 +128,6 @@ Baseline Status in a WordPress Block originally published on CSS-Tricks, which i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simple Tips to Help You Write Clean Code]]></title>
-        <id>67a2380b9af7e36332fde944</id>
-        <link href="https://www.freecodecamp.org/news/tips-for-writing-clean-code/"/>
-        <updated>2025-02-04T15:53:47.000Z</updated>
-        <summary type="html"><![CDATA[Being a developer isn’t as straightforward as many people think. It’s not just about learning a programming language and typing out code to build software. There’s a lot more to it. And one of the most confusing (and often frustrating) topics for dev...]]></summary>
-        <author>
-            <name>Nitin Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose a Cloud Development Environment – Harness CDE, Gitpod, and Coder Compared]]></title>
-        <id>67a22fc0b7eb4acc424cb220</id>
-        <link href="https://www.freecodecamp.org/news/how-to-choose-a-cloud-development-environment/"/>
-        <updated>2025-02-04T15:18:24.000Z</updated>
-        <summary type="html"><![CDATA[Cloud Development Environments (CDEs) have become essential tools in modern software development, offering enhanced productivity and streamlined workflows. This article compares three leading CDEs: Harness CDE, Gitpod, and Coder. My goal here is to o...]]></summary>
-        <author>
-            <name>Gursimar Singh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Integrations: From Simple Data Transfer To Modern Composable Architectures]]></title>
         <id>https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/</id>
         <link href="https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/"/>
@@ -105,26 +146,6 @@ Baseline Status in a WordPress Block originally published on CSS-Tricks, which i
 Compiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Gas Station to Google with Self-Taught Cloud Engineer Rishab Kumar [Podcast #158]]]></title>
-        <id>679cf6a3c58e5553aa30c9a3</id>
-        <link href="https://www.freecodecamp.org/news/from-gas-station-to-google-self-taught-cloud-engineer-rishab-kumar-podcast-158/"/>
-        <updated>2025-01-31T16:13:23.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Rishab Kumar, cloud engineer and developer advocate at Twillio. Rishab grew up in India and moved to Canada for school. But he couldn't afford to finish. He resorted...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Async Programming in TypeScript: Promises, Async/Await, and Callbacks]]></title>
-        <id>679ced2e80ebdc55d3ee44c8</id>
-        <link href="https://www.freecodecamp.org/news/learn-async-programming-in-typescript-promises-asyncawait-and-callbacks/"/>
-        <updated>2025-01-31T15:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Async programming is a programming paradigm that allows you to write code that runs asynchronously. In contrast to synchronous programming, which executes code sequentially, async programming allows code to run in the background while the rest of the...]]></summary>
-        <author>
-            <name>Isaiah Clifford Opoku</name>
         </author>
     </entry>
     <entry>
@@ -158,16 +179,6 @@ Keeping the page interactive while a View Transition is running originally publi
         <summary type="html"><![CDATA[Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LangChain Alternatives You Can Use to Build AI and Agentic Workflows]]></title>
-        <id>679bcc0fa60eb167ae249fba</id>
-        <link href="https://www.freecodecamp.org/news/langchain-alternatives-for-building-ai-and-agentic-workflows/"/>
-        <updated>2025-01-30T18:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Building AI and agentic workflows is at the core of modern AI development in 2025. And LangChain has been the go-to framework for creating AI applications for a while now. But some developers are seeking alternatives that offer more flexibility, simp...]]></summary>
-        <author>
-            <name>Maham Codes</name>
         </author>
     </entry>
     <entry>
@@ -363,43 +374,12 @@ How to Wait for the sibling-count() and sibling-index() Functions originally pub
     </entry>
     <entry>
         <title type="html"><![CDATA[Tight Mode: Why Browsers Produce Different Performance Results]]></title>
-        <id>https://css-tricks.com/?p=383563</id>
-        <link href="https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/"/>
-        <updated>2025-01-09T16:16:15.000Z</updated>
-        <summary type="html"><![CDATA[I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …
-Tight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tight Mode: Why Browsers Produce Different Performance Results]]></title>
         <id>https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/</id>
         <link href="https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/"/>
         <updated>2025-01-09T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lesser Known Uses Of Better Known Attributes]]></title>
-        <id>https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/</id>
-        <link href="https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/"/>
-        <updated>2025-01-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (John Rhea)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Design For High-Traffic Events And Prevent Your Website From Crashing]]></title>
-        <id>https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/</id>
-        <link href="https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/"/>
-        <updated>2025-01-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Product drops and sales are a great way to increase revenue, but these events can result in traffic spikes that affect a site’s availability and performance. To prevent website crashes, you’ll have to make sure that the sites you design can handle large numbers of server requests at once. Let’s discuss how!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Saad Khan)</name>
         </author>
     </entry>
 </feed>
