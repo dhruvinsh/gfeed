@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-07T01:15:29.644Z</id>
+    <id>urn:2025-02-08T01:13:15.883Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-07T01:15:29.644Z</updated>
+    <updated>2025-02-08T01:13:15.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Penetration Testing in Cybersecurity? A Beginner's Guide]]></title>
+        <id>67a62fc9c3ae66ee9e7a4b3e</id>
+        <link href="https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/"/>
+        <updated>2025-02-07T16:07:37.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital world, almost every activity we engage in is intertwined with technology. From making payments via UPI and booking movie or travel tickets online to selling products through e-commerce platforms, technology has become an integral p...]]></summary>
+        <author>
+            <name>P S Mohammed Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an npm Library]]></title>
+        <id>67a627bfaf028c3f4ba71a05</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-npm-library/"/>
+        <updated>2025-02-07T15:33:19.000Z</updated>
+        <summary type="html"><![CDATA[In the world of JavaScript development, npm (Node Package Manager) has become an essential tool for managing dependencies and sharing reusable code. Whether you're building a simple website or a complex web application, npm libraries help streamline ...]]></summary>
+        <author>
+            <name>German Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript – A Handbook for Developers]]></title>
+        <id>67a62638dd67e262dbd96da1</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/"/>
+        <updated>2025-02-07T15:26:48.000Z</updated>
+        <summary type="html"><![CDATA[This handbook will teach you the basics of TypeScript, including what it is, why it is useful, and the key features it offers. TypeScript was created by Anders Hejlsberg, a prominent software engineer at Microsoft who’s also known for his work on C# ...]]></summary>
+        <author>
+            <name>oghenekparobo Stephen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking RWD To The Extreme]]></title>
+        <id>https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/</id>
+        <link href="https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/"/>
+        <updated>2025-02-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tomasz Jakut)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Integrate RTK Query with Redux Toolkit: A Step-by-Step Guide for React Developers]]></title>
         <id>67a4fbc311e2c2609ca60771</id>
@@ -95,36 +135,6 @@ Baseline Status in a WordPress Block originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Building modern, dynamic websites requires a combination of powerful front-end frameworks and flexible content management systems. Whether you're a developer looking to enhance your skills or a beginner wanting to create your first web project, learn...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Scalable Access Control for Your Web App [Full Handbook]]]></title>
-        <id>67a269edea59b2f402186a7d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-scalable-access-control-for-your-web-app/"/>
-        <updated>2025-02-04T19:26:37.000Z</updated>
-        <summary type="html"><![CDATA[Access control is crucial for preventing unauthorized access and ensuring that only the right people can access sensitive data in your application. As your app grows in complexity, so does the challenge of enforcing permissions in a clean and efficie...]]></summary>
-        <author>
-            <name>Samhitha Rama Prasad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pioneering Next-Gen Healthcare with AI, Epigenetics, and Bioengineering]]></title>
-        <id>67a25a17305bf96e1daeccd4</id>
-        <link href="https://www.freecodecamp.org/news/next-gen-healthcare-with-ai-epigenetics-and-bioengineering/"/>
-        <updated>2025-02-04T18:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Bioengineering stands at the precipice of a transformative era, where the convergence of biology, engineering, and technology promises to redefine the very fabric of human existence. This is not hyperbole. It’s a reflection of the rapid strides being...]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Vim Text Editor – An Introduction for Developers]]></title>
-        <id>67a24bb37e501febb084c852</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-vim-text-editor-intro-for-devs/"/>
-        <updated>2025-02-04T17:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a carpenter without tools, a writer without a pen, or a chef without a knife—this is like trying to imagine a developer or sysadmin without a reliable text editor. For devs, text editors are the ultimate multitools, shaping how we create, man...]]></summary>
-        <author>
-            <name>Tanishka Makode</name>
         </author>
     </entry>
     <entry>
@@ -370,16 +380,6 @@ How to Wait for the sibling-count() and sibling-index() Functions originally pub
         <summary type="html"><![CDATA[The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tight Mode: Why Browsers Produce Different Performance Results]]></title>
-        <id>https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/</id>
-        <link href="https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/"/>
-        <updated>2025-01-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>

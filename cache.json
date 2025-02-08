@@ -27,7 +27,7 @@
           "description": "The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.\nBaseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/baseline-status-in-a-wordpress-block/",
           "publishedOn": "2025-02-05T14:58:18.000Z",
-          "wordCount": 3984,
+          "wordCount": 3997,
           "title": "Baseline Status in a WordPress Block",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/11/Screen-Recording-2024-11-05-at-2.56.06 PM.mp4",
@@ -72,7 +72,7 @@
           "description": "All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.\nThe Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-mistakes-of-css/",
           "publishedOn": "2025-01-30T14:31:08.000Z",
-          "wordCount": 2213,
+          "wordCount": 2352,
           "title": "The Mistakes of CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384089"
         },
@@ -179,6 +179,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
+          "author": "hello@smashingmagazine.com (Tomasz Jakut)",
+          "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
+          "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
+          "publishedOn": "2025-02-07T13:00:00.000Z",
+          "wordCount": 5716,
+          "title": "Taking RWD To The Extreme",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/",
           "author": "hello@smashingmagazine.com (Edoardo Dusi)",
           "description": "In today’s web development landscape, the concept of a monolithic application has become increasingly rare. Modern applications are composed of multiple specialized services, each of which handles specific aspects of functionality. This shift didn’t happen overnight - it’s the result of decades of evolution in how we think about and implement data transfer between systems. Let’s explore this journey and see how it shapes modern architectures, particularly in the context of headless CMS solutions.",
@@ -199,7 +214,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5088,
+          "wordCount": 5071,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -214,7 +229,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4060,
+          "wordCount": 4059,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -229,7 +244,7 @@
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5410,
+          "wordCount": 5397,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -244,7 +259,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4057,
+          "wordCount": 4055,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -274,7 +289,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3692,
+          "wordCount": 3698,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -289,7 +304,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4932,
+          "wordCount": 4937,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -304,7 +319,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4314,
+          "wordCount": 4315,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
@@ -327,21 +342,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.",
-          "link": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
-          "publishedOn": "2025-01-09T13:00:00.000Z",
-          "wordCount": 4451,
-          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg"
         }
       ]
     },
@@ -350,6 +350,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67a62fc9c3ae66ee9e7a4b3e",
+          "author": "P S Mohammed Ali",
+          "description": "In today's digital world, almost every activity we engage in is intertwined with technology. From making payments via UPI and booking movie or travel tickets online to selling products through e-commerce platforms, technology has become an integral p...",
+          "link": "https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/",
+          "publishedOn": "2025-02-07T16:07:37.000Z",
+          "wordCount": 2609,
+          "title": "What is Penetration Testing in Cybersecurity? A Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738941455446/843335c0-35a3-4173-bd4c-7baf0e630e8e.png"
+        },
+        {
+          "id": "67a627bfaf028c3f4ba71a05",
+          "author": "German Cocca",
+          "description": "In the world of JavaScript development, npm (Node Package Manager) has become an essential tool for managing dependencies and sharing reusable code. Whether you're building a simple website or a complex web application, npm libraries help streamline ...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-npm-library/",
+          "publishedOn": "2025-02-07T15:33:19.000Z",
+          "wordCount": 4618,
+          "title": "How to Create an npm Library",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738941301640/7189d889-387d-4bd2-bf5c-2cbcbd17faad.png"
+        },
+        {
+          "id": "67a62638dd67e262dbd96da1",
+          "author": "oghenekparobo Stephen",
+          "description": "This handbook will teach you the basics of TypeScript, including what it is, why it is useful, and the key features it offers. TypeScript was created by Anders Hejlsberg, a prominent software engineer at Microsoft who’s also known for his work on C# ...",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/",
+          "publishedOn": "2025-02-07T15:26:48.000Z",
+          "wordCount": 9940,
+          "title": "Learn TypeScript – A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738941922431/cfb485ae-1c59-415a-ad56-393a9803d4d8.png"
+        },
         {
           "id": "67a4fbc311e2c2609ca60771",
           "author": "Chidera Humphrey",
@@ -419,36 +449,6 @@
           "wordCount": 1284,
           "title": "Build a Full Stack App with Next.js and Strapi",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738855654744/dd05c620-8018-4c3c-9800-3948afe5277a.png"
-        },
-        {
-          "id": "67a269edea59b2f402186a7d",
-          "author": "Samhitha Rama Prasad",
-          "description": "Access control is crucial for preventing unauthorized access and ensuring that only the right people can access sensitive data in your application. As your app grows in complexity, so does the challenge of enforcing permissions in a clean and efficie...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-scalable-access-control-for-your-web-app/",
-          "publishedOn": "2025-02-04T19:26:37.000Z",
-          "wordCount": 8753,
-          "title": "How to Build Scalable Access Control for Your Web App [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738695897990/7a5962ce-9c4a-4e7c-bdeb-520dccc5d240.png"
-        },
-        {
-          "id": "67a25a17305bf96e1daeccd4",
-          "author": "Vahe Aslanyan",
-          "description": "Bioengineering stands at the precipice of a transformative era, where the convergence of biology, engineering, and technology promises to redefine the very fabric of human existence. This is not hyperbole. It’s a reflection of the rapid strides being...",
-          "link": "https://www.freecodecamp.org/news/next-gen-healthcare-with-ai-epigenetics-and-bioengineering/",
-          "publishedOn": "2025-02-04T18:19:03.000Z",
-          "wordCount": 12406,
-          "title": "Pioneering Next-Gen Healthcare with AI, Epigenetics, and Bioengineering",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738685201135/64b476e9-b17b-4788-ba3c-ec23a2576e81.png"
-        },
-        {
-          "id": "67a24bb37e501febb084c852",
-          "author": "Tanishka Makode",
-          "description": "Imagine a carpenter without tools, a writer without a pen, or a chef without a knife—this is like trying to imagine a developer or sysadmin without a reliable text editor. For devs, text editors are the ultimate multitools, shaping how we create, man...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-vim-text-editor-intro-for-devs/",
-          "publishedOn": "2025-02-04T17:17:39.000Z",
-          "wordCount": 5148,
-          "title": "How to Use the Vim Text Editor – An Introduction for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738684583892/739ec0fa-e8a2-4f08-a265-7fa5034c932d.png"
         }
       ]
     }
