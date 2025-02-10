@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-09T01:18:59.057Z</id>
+    <id>urn:2025-02-10T01:16:28.485Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-09T01:18:59.057Z</updated>
+    <updated>2025-02-10T01:16:28.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -370,16 +370,6 @@ A Few Ways That Cloudways Makes Running This Site a Little Easier originally pub
 How to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solo Development: Learning To Let Go Of Perfection]]></title>
-        <id>https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/</id>
-        <link href="https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/"/>
-        <updated>2025-01-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
         </author>
     </entry>
 </feed>
