@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-10T01:16:28.485Z</id>
+    <id>urn:2025-02-11T01:15:01.546Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-10T01:16:28.485Z</updated>
+    <updated>2025-02-11T01:15:01.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Organizing Design System Component Patterns With CSS Cascade Layers]]></title>
+        <id>https://css-tricks.com/?p=384306</id>
+        <link href="https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/"/>
+        <updated>2025-02-10T14:06:52.000Z</updated>
+        <summary type="html"><![CDATA[I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with "top-level" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.
+Organizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Any File a Template Using This Hidden macOS Tool]]></title>
+        <id>https://css-tricks.com/?p=384563</id>
+        <link href="https://css-tricks.com/make-any-file-a-template-using-this-hidden-macos-tool/"/>
+        <updated>2025-02-10T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Stationery Pad is a handy way to nix a step in your workflow if you regularly use document templates on your Mac. The long-standing Finder feature essentially tells a file’s parent application to open a copy of it by default, ensuring that the original file remains unedited.
+Make Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Created A Popular WordPress Theme And Coined The Term “Hero Section” (Without Realizing It)]]></title>
+        <id>https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/</id>
+        <link href="https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/"/>
+        <updated>2025-02-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In 2013, Marcel Moerkens was working on Brooklyn, his WordPress theme, and he needed a way to make it stand out from the pack of other WordPress themes. Little did he know that the intro section he called a “Hero” would become one of the most recognizable patterns in web design today. Here’s how the idea came to life and how it changed everything.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marcel Moerkens)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]]]></title>
         <id>67a689db1b3d34453f8da64a</id>
@@ -340,18 +372,6 @@ Web-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, whi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Few Ways That Cloudways Makes Running This Site a Little Easier]]></title>
-        <id>https://css-tricks.com/?p=382719</id>
-        <link href="https://css-tricks.com/a-few-ways-that-cloudways-makes-running-this-site-a-little-easier/"/>
-        <updated>2025-01-14T14:49:10.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-It’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …
-A Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Role Of Illustration Style In Visual Storytelling]]></title>
         <id>https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/</id>
         <link href="https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/"/>
@@ -359,17 +379,6 @@ A Few Ways That Cloudways Makes Running This Site a Little Easier originally pub
         <summary type="html"><![CDATA[How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Thomas Bohm)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Wait for the sibling-count() and sibling-index() Functions]]></title>
-        <id>https://css-tricks.com/?p=383435</id>
-        <link href="https://css-tricks.com/how-to-wait-for-the-sibling-count-and-sibling-index-functions/"/>
-        <updated>2025-01-13T15:08:01.000Z</updated>
-        <summary type="html"><![CDATA[Today, I want to look into one of those cases of impatient and how the community has waited for that feature, to be specific, two upcoming functions: sibling-count() and sibling-index().
-How to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>

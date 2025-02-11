@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384306",
+          "author": "Ryan Trimble",
+          "description": "I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with \"top-level\" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.\nOrganizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/",
+          "publishedOn": "2025-02-10T14:06:52.000Z",
+          "wordCount": 4019,
+          "title": "Organizing Design System Component Patterns With CSS Cascade Layers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384306"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384563",
+          "author": "Geoff Graham",
+          "description": "Stationery Pad is a handy way to nix a step in your workflow if you regularly use document templates on your Mac. The long-standing Finder feature essentially tells a file’s parent application to open a copy of it by default, ensuring that the original file remains unedited.\nMake Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/make-any-file-a-template-using-this-hidden-macos-tool/",
+          "publishedOn": "2025-02-10T13:54:00.000Z",
+          "wordCount": 1894,
+          "title": "Make Any File a Template Using This Hidden macOS Tool",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384563"
+        },
+        {
           "id": "https://css-tricks.com/?p=384468",
           "author": "Geoff Graham",
           "description": "A little gem from Kevin Powell's \"HTML & CSS Tip of the Week\" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.\nContainer query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,26 +170,6 @@
           "wordCount": 3328,
           "title": "Web-Slinger.css: Across the Swiper-Verse",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383533"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382719",
-          "author": "Geoff Graham",
-          "description": "(This is a sponsored post.)\nIt’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …\nA Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-few-ways-that-cloudways-makes-running-this-site-a-little-easier/",
-          "publishedOn": "2025-01-14T14:49:10.000Z",
-          "wordCount": 2566,
-          "title": "A Few Ways That Cloudways Makes Running This Site a Little Easier",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382719"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383435",
-          "author": "Juan Diego Rodríguez",
-          "description": "Today, I want to look into one of those cases of impatient and how the community has waited for that feature, to be specific, two upcoming functions: sibling-count() and sibling-index().\nHow to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-wait-for-the-sibling-count-and-sibling-index-functions/",
-          "publishedOn": "2025-01-13T15:08:01.000Z",
-          "wordCount": 4324,
-          "title": "How to Wait for the sibling-count() and sibling-index() Functions",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383435"
         }
       ]
     },
@@ -179,12 +179,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
+          "author": "hello@smashingmagazine.com (Marcel Moerkens)",
+          "description": "In 2013, Marcel Moerkens was working on Brooklyn, his WordPress theme, and he needed a way to make it stand out from the pack of other WordPress themes. Little did he know that the intro section he called a “Hero” would become one of the most recognizable patterns in web design today. Here’s how the idea came to life and how it changed everything.",
+          "link": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
+          "publishedOn": "2025-02-10T13:00:00.000Z",
+          "wordCount": 3867,
+          "title": "How I Created A Popular WordPress Theme And Coined The Term “Hero Section” (Without Realizing It)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "author": "hello@smashingmagazine.com (Tomasz Jakut)",
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
           "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5716,
+          "wordCount": 5717,
           "title": "Taking RWD To The Extreme",
           "enclosure": {
             "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
@@ -214,7 +229,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5084,
+          "wordCount": 5081,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -229,7 +244,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4163,
+          "wordCount": 4057,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -259,7 +274,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4051,
+          "wordCount": 4049,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -289,7 +304,7 @@
           "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
           "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
           "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3689,
+          "wordCount": 3692,
           "title": "An Ode To Side Project Time",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
@@ -304,7 +319,7 @@
           "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
           "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4935,
+          "wordCount": 4931,
           "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
@@ -319,7 +334,7 @@
           "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
           "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
           "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4317,
+          "wordCount": 4322,
           "title": "The Role Of Illustration Style In Visual Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
