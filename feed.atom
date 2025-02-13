@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-12T01:15:14.957Z</id>
+    <id>urn:2025-02-13T01:15:42.953Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T01:15:14.957Z</updated>
+    <updated>2025-02-13T01:15:42.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
+        <id>66c4c80d6e4b60b5b844529e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
+        <updated>2025-02-12T21:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use....]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How SSH Authentication with GitHub Works Under the Hood]]></title>
+        <id>67ace33e18a2c0de81d7ffc3</id>
+        <link href="https://www.freecodecamp.org/news/ssh-authentication-with-github-under-the-hood/"/>
+        <updated>2025-02-12T18:06:54.000Z</updated>
+        <summary type="html"><![CDATA[SSH (Secure Shell) is a client-server protocol for connecting and authenticating to a remote server. Authentication means that the remote server can verify that it’s actually you and not somebody else talking on your behalf. You may already be using ...]]></summary>
+        <author>
+            <name>Vivek Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time To First Byte: Beyond Server Response Time]]></title>
+        <id>https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/</id>
+        <link href="https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/"/>
+        <updated>2025-02-12T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing web performance means looking beyond surface-level metrics. Time to First Byte (TTFB) is crucial, but improving it requires more than tweaking server response time. Matt Zeunert breaks down what TTFB is, what causes its poor score, and why reducing server response time alone isn’t enough for optimization and often won’t be the most impactful change you can make to your website.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typecasting and Viewport Transitions in CSS With tan(atan2())]]></title>
+        <id>https://css-tricks.com/?p=384339</id>
+        <link href="https://css-tricks.com/typecasting-and-viewport-transitions-in-css-with-tanatan2/"/>
+        <updated>2025-02-12T14:15:28.000Z</updated>
+        <summary type="html"><![CDATA[We’ve been able to get the length of the viewport in CSS since… checks notes… 2013! Surprisingly, that was more than a decade ago. Getting the viewport width is as easy these days as easy as writing 100vw, but …
+Typecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Logs in Programming?]]></title>
+        <id>67abe1c4e2819029e77c7459</id>
+        <link href="https://www.freecodecamp.org/news/what-are-logs-in-programming/"/>
+        <updated>2025-02-11T23:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever run a program, and it crashed? No error messages, no hints, just silence. How do you figure out what went wrong? That's where logging saves the day. Logs keep track of what’s happening inside your code so that when things go wrong, you ...]]></summary>
+        <author>
+            <name>Syeda Maham Fahim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organizing Design System Component Patterns With CSS Cascade Layers]]></title>
         <id>https://css-tricks.com/?p=384306</id>
@@ -126,36 +177,6 @@ Container query units: cqi and cqb originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Polymorphism is an object-oriented programming (OOP) principle that helps you write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand polymo...]]></summary>
         <author>
             <name>Danny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Clustering in Python – A Machine Learning Engineering Handbook]]></title>
-        <id>67a3eddcb87640f436f52ba3</id>
-        <link href="https://www.freecodecamp.org/news/clustering-in-python-a-machine-learning-handbook/"/>
-        <updated>2025-02-05T23:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Want to learn how to discover and analyze the hidden patterns within your data? Clustering, an essential technique in Unsupervised Machine Learning, holds the key to discovering valuable insights that can revolutionize your understanding of complex d...]]></summary>
-        <author>
-            <name>Tatev Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Analytical Dashboard with Next.js]]></title>
-        <id>67a3aa3efc0a24bff2e83e65</id>
-        <link href="https://www.freecodecamp.org/news/build-an-analytical-dashboard-with-nextjs/"/>
-        <updated>2025-02-05T18:13:18.000Z</updated>
-        <summary type="html"><![CDATA[If you work with data or plan to in the future, at some point you'll likely need to build a comprehensive analytics dashboard. Sharing data through charts is a great way to provide others with a clearer understanding of this information. Pairing it w...]]></summary>
-        <author>
-            <name>Stefan Muzyka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Documentation as Code with Docusaurus and GitHub Actions]]></title>
-        <id>67a39f467e716749ae8c7b7e</id>
-        <link href="https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/"/>
-        <updated>2025-02-05T17:26:30.000Z</updated>
-        <summary type="html"><![CDATA[For technical writers, keeping documentation up to date manually can be really frustrating. Issues like outdated guides, broken links, and missing updates are a pain, and they can make writers less productive. These issues can also make it harder for...]]></summary>
-        <author>
-            <name>EZINNE ANNE EMILIA</name>
         </author>
     </entry>
     <entry>
@@ -358,27 +379,6 @@ Fancy Menu Navigation Using Anchor Positioning originally published on CSS-Trick
         <summary type="html"><![CDATA[Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web-Slinger.css: Across the Swiper-Verse]]></title>
-        <id>https://css-tricks.com/?p=383533</id>
-        <link href="https://css-tricks.com/web-slinger-css-across-the-swiper-verse/"/>
-        <updated>2025-01-15T15:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Lee Meyer with a super clever idea using scroll-driven animations as an interaction to "like" or "dislike" something.
-Web-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role Of Illustration Style In Visual Storytelling]]></title>
-        <id>https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/</id>
-        <link href="https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/"/>
-        <updated>2025-01-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
         </author>
     </entry>
 </feed>
