@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T01:15:42.953Z</id>
+    <id>urn:2025-02-14T01:15:23.387Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T01:15:42.953Z</updated>
+    <updated>2025-02-14T01:15:23.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Memory Game in React]]></title>
+        <id>67ae2e50ada6ade0c6abd144</id>
+        <link href="https://www.freecodecamp.org/news/build-a-memory-game-in-react/"/>
+        <updated>2025-02-13T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Building interactive and accessible web applications is a crucial skill for modern developers. React, one of the most popular JavaScript libraries, provides a powerful way to create dynamic user interfaces. A great way to deepen your understanding of...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn A-Level Computer Science Concepts]]></title>
+        <id>67ae2dae801148b110575d1c</id>
+        <link href="https://www.freecodecamp.org/news/learn-a-level-computer-science-concepts/"/>
+        <updated>2025-02-13T17:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Understanding fundamental programming concepts is crucial for success in computer science, especially for students preparing for the Cambridge A-Level Computer Science exam. Mastering these topics not only helps in exams but also builds a strong foun...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Tests Using the Node.js Test Runner and mongodb-memory-server]]></title>
+        <id>67ae1ed03cb7bcfa7a1a3530</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-tests-using-the-nodejs-test-runner-and-mongodb-memory-server/"/>
+        <updated>2025-02-13T16:33:20.000Z</updated>
+        <summary type="html"><![CDATA[I recently migrated some tests from Jest to the Node.js test runner in two of my projects that use MongoDB. In one of those projects, test runtime was reduced from 107 seconds to 25 seconds (screenshot below). In the other project, test runtime was r...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scroll Driven Animations Notebook]]></title>
+        <id>https://css-tricks.com/?p=384634</id>
+        <link href="https://css-tricks.com/scroll-driven-animations-notebook/"/>
+        <updated>2025-02-13T13:24:29.000Z</updated>
+        <summary type="html"><![CDATA[Adam’s such a mad scientist with CSS. He’s been putting together a series of “notebooks” that make it easy for him to demo code. He’s got one for gradient text, one for a comparison slider, another for accordions…
+Scroll Driven Animations Notebook originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Test And Measure Content In UX]]></title>
+        <id>https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/</id>
+        <link href="https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/"/>
+        <updated>2025-02-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
         <id>66c4c80d6e4b60b5b844529e</id>
@@ -139,26 +190,6 @@ Make Any File a Template Using This Hidden macOS Tool originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Integrate RTK Query with Redux Toolkit: A Step-by-Step Guide for React Developers]]></title>
-        <id>67a4fbc311e2c2609ca60771</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-rtk-query-with-redux-toolkit/"/>
-        <updated>2025-02-06T18:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Redux is a state management library for JavaScript applications. It lets you create applications that behave in a predictable manner and run on different environments, including server and native environments. Redux Toolkit is the recommended way to ...]]></summary>
-        <author>
-            <name>Chidera Humphrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Engineering Roadmap]]></title>
-        <id>67a4da7c28544da5426abc94</id>
-        <link href="https://www.freecodecamp.org/news/ai-engineering-roadmap/"/>
-        <updated>2025-02-06T15:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is rapidly transforming industries, and AI Engineers are at the forefront of this revolution. If you’re looking to break into AI Engineering or advance your skills, having a clear roadmap is essential. Mastering AI requires a ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Container query units: cqi and cqb]]></title>
         <id>https://css-tricks.com/?p=384468</id>
         <link href="https://css-tricks.com/container-query-units-cqi-and-cqb/"/>
@@ -167,16 +198,6 @@ Make Any File a Template Using This Hidden macOS Tool originally published on CS
 Container query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Polymorphism in Python? Explained with an Example]]></title>
-        <id>67a4d16ab891dd1403996d28</id>
-        <link href="https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/"/>
-        <updated>2025-02-06T15:12:42.000Z</updated>
-        <summary type="html"><![CDATA[Polymorphism is an object-oriented programming (OOP) principle that helps you write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand polymo...]]></summary>
-        <author>
-            <name>Danny</name>
         </author>
     </entry>
     <entry>
@@ -348,17 +369,6 @@ Creating a “Starred” Feed originally published on CSS-Tricks, which is part 
         <summary type="html"><![CDATA[Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alvaro Saburido)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy Menu Navigation Using Anchor Positioning]]></title>
-        <id>https://css-tricks.com/?p=383518</id>
-        <link href="https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/"/>
-        <updated>2025-01-17T14:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Anchor positioning can be great for little interactive effects — as Temani Afif shows off with this clever idea for a menu hover.
-Fancy Menu Navigation Using Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
