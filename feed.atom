@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-14T01:15:23.387Z</id>
+    <id>urn:2025-02-15T01:14:34.654Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T01:15:23.387Z</updated>
+    <updated>2025-02-15T01:14:34.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Handwriting an SVG Heart, With Our Hearts]]></title>
+        <id>https://css-tricks.com/?p=384495</id>
+        <link href="https://css-tricks.com/handwriting-an-svg-heart-with-our-hearts/"/>
+        <updated>2025-02-14T13:25:12.000Z</updated>
+        <summary type="html"><![CDATA[A while back on CSS-Tricks, we shared several ways to draw hearts, and the response was dreamy. Now, to show my love, I wanted to do something personal, something crafty, something with a mild amount of effort.
+Handwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Cybersecurity Skills Are Important for Front-End Developers]]></title>
+        <id>67ae836a9d7e6c0ddc4469ad</id>
+        <link href="https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/"/>
+        <updated>2025-02-13T23:42:34.000Z</updated>
+        <summary type="html"><![CDATA[These days, cyberattacks are growing concerns that everyone on a development team should be aware of. This means that if you’re a developer, you should learn some basic cybersecurity skills. After all, cyber attackers are typically developers themsel...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Memory Game in React]]></title>
         <id>67ae2e50ada6ade0c6abd144</id>
@@ -130,16 +151,6 @@ Make Any File a Template Using This Hidden macOS Tool originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Created A Popular WordPress Theme And Coined The Term “Hero Section” (Without Realizing It)]]></title>
-        <id>https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/</id>
-        <link href="https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/"/>
-        <updated>2025-02-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In 2013, Marcel Moerkens was working on Brooklyn, his WordPress theme, and he needed a way to make it stand out from the pack of other WordPress themes. Little did he know that the intro section he called a “Hero” would become one of the most recognizable patterns in web design today. Here’s how the idea came to life and how it changed everything.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marcel Moerkens)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]]]></title>
         <id>67a689db1b3d34453f8da64a</id>
         <link href="https://www.freecodecamp.org/news/from-freecodecamp-to-cto-with-robotics-engineer-peggy-wang-podcast-159/"/>
@@ -167,16 +178,6 @@ Make Any File a Template Using This Hidden macOS Tool originally published on CS
         <summary type="html"><![CDATA[In the world of JavaScript development, npm (Node Package Manager) has become an essential tool for managing dependencies and sharing reusable code. Whether you're building a simple website or a complex web application, npm libraries help streamline ...]]></summary>
         <author>
             <name>German Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn TypeScript – A Handbook for Developers]]></title>
-        <id>67a62638dd67e262dbd96da1</id>
-        <link href="https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/"/>
-        <updated>2025-02-07T15:26:48.000Z</updated>
-        <summary type="html"><![CDATA[This handbook will teach you the basics of TypeScript, including what it is, why it is useful, and the key features it offers. TypeScript was created by Anders Hejlsberg, a prominent software engineer at Microsoft who’s also known for his work on C# ...]]></summary>
-        <author>
-            <name>oghenekparobo Stephen</name>
         </author>
     </entry>
     <entry>
@@ -351,17 +352,6 @@ Some Things You Might Not Know About Custom Counter Styles originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating a “Starred” Feed]]></title>
-        <id>https://css-tricks.com/?p=382660</id>
-        <link href="https://css-tricks.com/creating-a-starred-feed/"/>
-        <updated>2025-01-21T14:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Chris wrote about “Likes” pages a long while back. The idea is rather simple: “Like” an item in your RSS reader and display it in a feed of other liked items. The little example Chris made is still really good.…
-Creating a “Starred” Feed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Navigating The Challenges Of Modern Open-Source Authoring: Lessons Learned]]></title>
         <id>https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/</id>
         <link href="https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/"/>
@@ -379,16 +369,6 @@ Creating a “Starred” Feed originally published on CSS-Tricks, which is part 
         <summary type="html"><![CDATA[A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-Device AI: Building Smarter, Faster, And Private Applications]]></title>
-        <id>https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/</id>
-        <link href="https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/"/>
-        <updated>2025-01-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
 </feed>
