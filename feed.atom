@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-15T01:14:34.654Z</id>
+    <id>urn:2025-02-16T01:21:23.141Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T01:14:34.654Z</updated>
+    <updated>2025-02-16T01:21:23.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[She taught herself coding at age 30 for zero dollars [Podcast #160]]]></title>
+        <id>67afede38299e397dc71768b</id>
+        <link href="https://www.freecodecamp.org/news/she-taught-herself-coding-at-age-30-for-zero-dollars-podcast-160/"/>
+        <updated>2025-02-15T01:29:07.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Julia Undeutsch who is a self-taught software engineer and accessibility specialist. She works at a big European company making software more accessible for people with disabilities. Julia taught her...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Handwriting an SVG Heart, With Our Hearts]]></title>
         <id>https://css-tricks.com/?p=384495</id>
@@ -168,16 +178,6 @@ Make Any File a Template Using This Hidden macOS Tool originally published on CS
         <summary type="html"><![CDATA[In today's digital world, almost every activity we engage in is intertwined with technology. From making payments via UPI and booking movie or travel tickets online to selling products through e-commerce platforms, technology has become an integral p...]]></summary>
         <author>
             <name>P S Mohammed Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an npm Library]]></title>
-        <id>67a627bfaf028c3f4ba71a05</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-npm-library/"/>
-        <updated>2025-02-07T15:33:19.000Z</updated>
-        <summary type="html"><![CDATA[In the world of JavaScript development, npm (Node Package Manager) has become an essential tool for managing dependencies and sharing reusable code. Whether you're building a simple website or a complex web application, npm libraries help streamline ...]]></summary>
-        <author>
-            <name>German Cocca</name>
         </author>
     </entry>
     <entry>
@@ -359,16 +359,6 @@ Some Things You Might Not Know About Custom Counter Styles originally published 
         <summary type="html"><![CDATA[Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alvaro Saburido)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Ode To Side Project Time]]></title>
-        <id>https://smashingmagazine.com/2025/01/ode-to-side-project-time/</id>
-        <link href="https://smashingmagazine.com/2025/01/ode-to-side-project-time/"/>
-        <updated>2025-01-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>

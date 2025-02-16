@@ -17,7 +17,7 @@
           "description": "A while back on CSS-Tricks, we shared several ways to draw hearts, and the response was dreamy. Now, to show my love, I wanted to do something personal, something crafty, something with a mild amount of effort.\nHandwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/handwriting-an-svg-heart-with-our-hearts/",
           "publishedOn": "2025-02-14T13:25:12.000Z",
-          "wordCount": 2371,
+          "wordCount": 2400,
           "title": "Handwriting an SVG Heart, With Our Hearts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384495"
         },
@@ -214,7 +214,7 @@
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
           "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5728,
+          "wordCount": 5719,
           "title": "Taking RWD To The Extreme",
           "enclosure": {
             "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
@@ -244,7 +244,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5079,
+          "wordCount": 5082,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -259,7 +259,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4052,
+          "wordCount": 4046,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -274,7 +274,7 @@
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5394,
+          "wordCount": 5404,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -289,7 +289,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4057,
+          "wordCount": 4055,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -312,21 +312,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/navigating-challenges-modern-open-source-authoring/navigating-challenges-modern-open-source-authoring.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
-          "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
-          "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3695,
-          "title": "An Ode To Side Project Time",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg"
         }
       ]
     },
@@ -335,6 +320,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67afede38299e397dc71768b",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Julia Undeutsch who is a self-taught software engineer and accessibility specialist. She works at a big European company making software more accessible for people with disabilities. Julia taught her...",
+          "link": "https://www.freecodecamp.org/news/she-taught-herself-coding-at-age-30-for-zero-dollars-podcast-160/",
+          "publishedOn": "2025-02-15T01:29:07.000Z",
+          "wordCount": 1053,
+          "title": "She taught herself coding at age 30 for zero dollars [Podcast #160]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739582603136/eebe10ab-edc5-4bf3-af50-38e1c8081415.png"
+        },
         {
           "id": "67ae836a9d7e6c0ddc4469ad",
           "author": "Alex Tray",
@@ -424,16 +419,6 @@
           "wordCount": 2609,
           "title": "What is Penetration Testing in Cybersecurity? A Beginner's Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738941455446/843335c0-35a3-4173-bd4c-7baf0e630e8e.png"
-        },
-        {
-          "id": "67a627bfaf028c3f4ba71a05",
-          "author": "German Cocca",
-          "description": "In the world of JavaScript development, npm (Node Package Manager) has become an essential tool for managing dependencies and sharing reusable code. Whether you're building a simple website or a complex web application, npm libraries help streamline ...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-npm-library/",
-          "publishedOn": "2025-02-07T15:33:19.000Z",
-          "wordCount": 4618,
-          "title": "How to Create an npm Library",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738941301640/7189d889-387d-4bd2-bf5c-2cbcbd17faad.png"
         }
       ]
     }
