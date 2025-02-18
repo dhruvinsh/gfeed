@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384446",
+          "author": "Lee Meyer",
+          "description": "My thesis for today's article offers further reassurance that inline conditionals are probably not the harbinger of the end of civilization: I reckon we can achieve the same functionality right now with style queries, which are gaining pretty good browser support.\nThe What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-what-if-machine-bringing-the-iffy-future-of-css-into-the-present/",
+          "publishedOn": "2025-02-17T14:24:40.000Z",
+          "wordCount": 3346,
+          "title": "The What If Machine: Bringing the “Iffy” Future of CSS into the Present",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384446"
+        },
+        {
           "id": "https://css-tricks.com/?p=384495",
           "author": "Ryan Trimble",
           "description": "A while back on CSS-Tricks, we shared several ways to draw hearts, and the response was dreamy. Now, to show my love, I wanted to do something personal, something crafty, something with a mild amount of effort.\nHandwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -47,7 +57,7 @@
           "description": "I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with \"top-level\" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.\nOrganizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/",
           "publishedOn": "2025-02-10T14:06:52.000Z",
-          "wordCount": 3939,
+          "wordCount": 4057,
           "title": "Organizing Design System Component Patterns With CSS Cascade Layers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384306"
         },
@@ -160,16 +170,6 @@
           "wordCount": 2795,
           "title": "Positioning Text Around Elements With CSS Offset",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383506"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383776",
-          "author": "Geoff Graham",
-          "description": "I was reading through Juan’s recent Almanac entry for the @counter-style at-rule and I’ll be darned if he didn’t uncover and unpack some extremely interesting things that we can do to style lists, notably the list marker. You’re probably already …\nSome Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-things-you-might-not-know-about-custom-counter-styles/",
-          "publishedOn": "2025-01-23T17:21:15.000Z",
-          "wordCount": 2483,
-          "title": "Some Things You Might Not Know About Custom Counter Styles",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383776"
         }
       ]
     },
@@ -214,7 +214,7 @@
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
           "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5725,
+          "wordCount": 5720,
           "title": "Taking RWD To The Extreme",
           "enclosure": {
             "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
@@ -244,7 +244,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5081,
+          "wordCount": 5080,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -259,7 +259,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4050,
+          "wordCount": 4064,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -274,7 +274,7 @@
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5405,
+          "wordCount": 5394,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -289,7 +289,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4053,
+          "wordCount": 4055,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -320,6 +320,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67b30da662ec9a593dfeb4a7",
+          "author": "Ijeoma Igboagu",
+          "description": "Building an authentication system can be complex, often requiring a server to store user data. Sometimes, you need a faster, easier solution. For those new to development or without technical expertise, managing servers, databases, and user logins ca...",
+          "link": "https://www.freecodecamp.org/news/backend-as-a-service-beginners-guide/",
+          "publishedOn": "2025-02-17T10:21:26.000Z",
+          "wordCount": 3204,
+          "title": "What is Backend as a Service (BaaS)? A Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739291731037/169ad924-9bcb-4af2-9281-fad2488a868d.png"
+        },
         {
           "id": "67afede38299e397dc71768b",
           "author": "Quincy Larson",
@@ -409,16 +419,6 @@
           "wordCount": 1144,
           "title": "From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738967132406/6ab8c7bb-397a-42b3-bb91-ff9c4842ead0.png"
-        },
-        {
-          "id": "67a62fc9c3ae66ee9e7a4b3e",
-          "author": "P S Mohammed Ali",
-          "description": "In today's digital world, almost every activity we engage in is intertwined with technology. From making payments via UPI and booking movie or travel tickets online to selling products through e-commerce platforms, technology has become an integral p...",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/",
-          "publishedOn": "2025-02-07T16:07:37.000Z",
-          "wordCount": 2609,
-          "title": "What is Penetration Testing in Cybersecurity? A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738941455446/843335c0-35a3-4173-bd4c-7baf0e630e8e.png"
         }
       ]
     }

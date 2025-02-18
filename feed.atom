@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T01:18:14.011Z</id>
+    <id>urn:2025-02-18T01:15:32.190Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T01:18:14.011Z</updated>
+    <updated>2025-02-18T01:15:32.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The What If Machine: Bringing the “Iffy” Future of CSS into the Present]]></title>
+        <id>https://css-tricks.com/?p=384446</id>
+        <link href="https://css-tricks.com/the-what-if-machine-bringing-the-iffy-future-of-css-into-the-present/"/>
+        <updated>2025-02-17T14:24:40.000Z</updated>
+        <summary type="html"><![CDATA[My thesis for today's article offers further reassurance that inline conditionals are probably not the harbinger of the end of civilization: I reckon we can achieve the same functionality right now with style queries, which are gaining pretty good browser support.
+The What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Backend as a Service (BaaS)? A Beginner's Guide]]></title>
+        <id>67b30da662ec9a593dfeb4a7</id>
+        <link href="https://www.freecodecamp.org/news/backend-as-a-service-beginners-guide/"/>
+        <updated>2025-02-17T10:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Building an authentication system can be complex, often requiring a server to store user data. Sometimes, you need a faster, easier solution. For those new to development or without technical expertise, managing servers, databases, and user logins ca...]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[She taught herself coding at age 30 for zero dollars [Podcast #160]]]></title>
         <id>67afede38299e397dc71768b</id>
@@ -171,16 +192,6 @@ Make Any File a Template Using This Hidden macOS Tool originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Penetration Testing in Cybersecurity? A Beginner's Guide]]></title>
-        <id>67a62fc9c3ae66ee9e7a4b3e</id>
-        <link href="https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/"/>
-        <updated>2025-02-07T16:07:37.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital world, almost every activity we engage in is intertwined with technology. From making payments via UPI and booking movie or travel tickets online to selling products through e-commerce platforms, technology has become an integral p...]]></summary>
-        <author>
-            <name>P S Mohammed Ali</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Taking RWD To The Extreme]]></title>
         <id>https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/</id>
         <link href="https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/"/>
@@ -338,17 +349,6 @@ Revisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is 
 Positioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Things You Might Not Know About Custom Counter Styles]]></title>
-        <id>https://css-tricks.com/?p=383776</id>
-        <link href="https://css-tricks.com/some-things-you-might-not-know-about-custom-counter-styles/"/>
-        <updated>2025-01-23T17:21:15.000Z</updated>
-        <summary type="html"><![CDATA[I was reading through Juan’s recent Almanac entry for the @counter-style at-rule and I’ll be darned if he didn’t uncover and unpack some extremely interesting things that we can do to style lists, notably the list marker. You’re probably already …
-Some Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
