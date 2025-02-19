@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T01:15:32.190Z</id>
+    <id>urn:2025-02-19T01:16:03.681Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T01:15:32.190Z</updated>
+    <updated>2025-02-19T01:16:03.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Kubernetes Network Policy and Secure Your Cluster]]></title>
+        <id>67b49d275027eb87a4a1ba21</id>
+        <link href="https://www.freecodecamp.org/news/set-up-kubernetes-network-policy-and-secure-your-cluster/"/>
+        <updated>2025-02-18T14:45:59.000Z</updated>
+        <summary type="html"><![CDATA[In a Kubernetes environment, proper networking allows for seamless communication between various components within the cluster and the external environment. As your applications grow, networking becomes more and more important and helps ensure that t...]]></summary>
+        <author>
+            <name>Eti Ijeoma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Classes in JavaScript – A Handbook for Beginners]]></title>
+        <id>67b47d2761b19f350f00901b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-classes-in-javascript-handbook/"/>
+        <updated>2025-02-18T12:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Are you curious about classes in JavaScript but feel a little puzzled about how they work or why you'd even use them? If that's you, then you're definitely in the right place. Lots of developers find classes a bit tricky at first, and honestly, I was...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Shadow AI? The Hidden Risks and Challenges in Modern Organizations]]></title>
+        <id>67b450b56572419f24094c04</id>
+        <link href="https://www.freecodecamp.org/news/shadow-ai-hidden-risks-and-challenges/"/>
+        <updated>2025-02-18T09:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Imagine this: a marketing manager uses ChatGPT to draft a personalized email campaign. Meanwhile, a developer experiments with a machine learning model trained on customer data, and an HR team integrates an artificial intelligence (AI) tool to screen...]]></summary>
+        <author>
+            <name>Sonya Moisset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How OWASP Helps You Secure Your Full-Stack Web Applications]]></title>
+        <id>https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/</id>
+        <link href="https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/"/>
+        <updated>2025-02-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Burel)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use FakeLogger to Make Testing Easier In .Net]]></title>
+        <id>67b3b736d8f6ac012e312ac5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-fakelogger-to-make-testing-easier-in-net/"/>
+        <updated>2025-02-17T22:24:54.000Z</updated>
+        <summary type="html"><![CDATA[When writing unit tests in .NET, you may need to verify that methods are logging exceptions, errors, or other key information. You might think, No problem, I'll just mock ILogger using my favourite mocking library – for example Moq, NSubstitute, or F...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The What If Machine: Bringing the “Iffy” Future of CSS into the Present]]></title>
         <id>https://css-tricks.com/?p=384446</id>
@@ -103,29 +153,9 @@ Scroll Driven Animations Notebook originally published on CSS-Tricks, which is p
         <id>https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/</id>
         <link href="https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/"/>
         <updated>2025-02-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
+        <summary type="html"><![CDATA[The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [How To Measure UX & Design Impact](https://measure-ux.com/) by yours truly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
-        <id>66c4c80d6e4b60b5b844529e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
-        <updated>2025-02-12T21:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use....]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How SSH Authentication with GitHub Works Under the Hood]]></title>
-        <id>67ace33e18a2c0de81d7ffc3</id>
-        <link href="https://www.freecodecamp.org/news/ssh-authentication-with-github-under-the-hood/"/>
-        <updated>2025-02-12T18:06:54.000Z</updated>
-        <summary type="html"><![CDATA[SSH (Secure Shell) is a client-server protocol for connecting and authenticating to a remote server. Authentication means that the remote server can verify that it’s actually you and not somebody else talking on your behalf. You may already be using ...]]></summary>
-        <author>
-            <name>Vivek Agrawal</name>
         </author>
     </entry>
     <entry>
@@ -150,16 +180,6 @@ Typecasting and Viewport Transitions in CSS With tan(atan2()) originally publis
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Are Logs in Programming?]]></title>
-        <id>67abe1c4e2819029e77c7459</id>
-        <link href="https://www.freecodecamp.org/news/what-are-logs-in-programming/"/>
-        <updated>2025-02-11T23:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever run a program, and it crashed? No error messages, no hints, just silence. How do you figure out what went wrong? That's where logging saves the day. Logs keep track of what’s happening inside your code so that when things go wrong, you ...]]></summary>
-        <author>
-            <name>Syeda Maham Fahim</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Organizing Design System Component Patterns With CSS Cascade Layers]]></title>
         <id>https://css-tricks.com/?p=384306</id>
         <link href="https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/"/>
@@ -179,16 +199,6 @@ Organizing Design System Component Patterns With CSS Cascade Layers originally p
 Make Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]]]></title>
-        <id>67a689db1b3d34453f8da64a</id>
-        <link href="https://www.freecodecamp.org/news/from-freecodecamp-to-cto-with-robotics-engineer-peggy-wang-podcast-159/"/>
-        <updated>2025-02-07T22:31:55.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Peggy Wang. She used freeCodeCamp to learn coding. She then worked in Big Tech as a robotics engineer. And now she's cofounder and CTO of Ego AI, a Y-Combinator-backed startup that builds human-like ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>

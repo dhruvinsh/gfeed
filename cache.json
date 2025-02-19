@@ -179,12 +179,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
+          "author": "hello@smashingmagazine.com (Eric Burel)",
+          "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
+          "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
+          "publishedOn": "2025-02-18T08:00:00.000Z",
+          "wordCount": 5416,
+          "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
+          "description": "The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [How To Measure UX & Design Impact](https://measure-ux.com/) by yours truly.",
           "link": "https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/",
           "publishedOn": "2025-02-13T08:00:00.000Z",
-          "wordCount": 3531,
+          "wordCount": 3534,
           "title": "How To Test And Measure Content In UX",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-to-test-and-measure-content-in-ux/concept-testing-opt.png",
@@ -214,7 +229,7 @@
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
           "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5720,
+          "wordCount": 5718,
           "title": "Taking RWD To The Extreme",
           "enclosure": {
             "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
@@ -244,7 +259,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5080,
+          "wordCount": 5074,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -259,7 +274,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4064,
+          "wordCount": 4061,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -289,7 +304,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4055,
+          "wordCount": 4046,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -320,6 +335,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67b49d275027eb87a4a1ba21",
+          "author": "Eti Ijeoma",
+          "description": "In a Kubernetes environment, proper networking allows for seamless communication between various components within the cluster and the external environment. As your applications grow, networking becomes more and more important and helps ensure that t...",
+          "link": "https://www.freecodecamp.org/news/set-up-kubernetes-network-policy-and-secure-your-cluster/",
+          "publishedOn": "2025-02-18T14:45:59.000Z",
+          "wordCount": 3056,
+          "title": "How to Set Up a Kubernetes Network Policy and Secure Your Cluster",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739889943803/796d97e8-a1c9-41e4-a678-61477514c020.png"
+        },
+        {
+          "id": "67b47d2761b19f350f00901b",
+          "author": "Spruce Emmanuel",
+          "description": "Are you curious about classes in JavaScript but feel a little puzzled about how they work or why you'd even use them? If that's you, then you're definitely in the right place. Lots of developers find classes a bit tricky at first, and honestly, I was...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-classes-in-javascript-handbook/",
+          "publishedOn": "2025-02-18T12:29:27.000Z",
+          "wordCount": 8858,
+          "title": "How to Use Classes in JavaScript – A Handbook for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739878241514/a725b4af-8061-49c2-9575-2aa4096acb74.png"
+        },
+        {
+          "id": "67b450b56572419f24094c04",
+          "author": "Sonya Moisset",
+          "description": "Imagine this: a marketing manager uses ChatGPT to draft a personalized email campaign. Meanwhile, a developer experiments with a machine learning model trained on customer data, and an HR team integrates an artificial intelligence (AI) tool to screen...",
+          "link": "https://www.freecodecamp.org/news/shadow-ai-hidden-risks-and-challenges/",
+          "publishedOn": "2025-02-18T09:19:49.000Z",
+          "wordCount": 3380,
+          "title": "What is Shadow AI? The Hidden Risks and Challenges in Modern Organizations",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739870232803/7d5d5b43-4ca1-4e51-972b-586c0094854f.png"
+        },
+        {
+          "id": "67b3b736d8f6ac012e312ac5",
+          "author": "Grant Riordan",
+          "description": "When writing unit tests in .NET, you may need to verify that methods are logging exceptions, errors, or other key information. You might think, No problem, I'll just mock ILogger using my favourite mocking library – for example Moq, NSubstitute, or F...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-fakelogger-to-make-testing-easier-in-net/",
+          "publishedOn": "2025-02-17T22:24:54.000Z",
+          "wordCount": 3337,
+          "title": "How to Use FakeLogger to Make Testing Easier In .Net",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739486043718/2d1e6339-fb93-4719-a89a-5b29e30c2bfc.png"
+        },
         {
           "id": "67b30da662ec9a593dfeb4a7",
           "author": "Ijeoma Igboagu",
@@ -379,46 +434,6 @@
           "wordCount": 2653,
           "title": "How to Write Tests Using the Node.js Test Runner and mongodb-memory-server",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739464298236/f5d6c959-4570-4813-bdd2-28c27dae4e1f.png"
-        },
-        {
-          "id": "66c4c80d6e4b60b5b844529e",
-          "author": "Hunor Márton Borbély",
-          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use....",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
-          "publishedOn": "2025-02-12T21:44:03.000Z",
-          "wordCount": 4919,
-          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739318785959/23632d35-1d5a-4797-8c7d-fbad6c80a879.png"
-        },
-        {
-          "id": "67ace33e18a2c0de81d7ffc3",
-          "author": "Vivek Agrawal",
-          "description": "SSH (Secure Shell) is a client-server protocol for connecting and authenticating to a remote server. Authentication means that the remote server can verify that it’s actually you and not somebody else talking on your behalf. You may already be using ...",
-          "link": "https://www.freecodecamp.org/news/ssh-authentication-with-github-under-the-hood/",
-          "publishedOn": "2025-02-12T18:06:54.000Z",
-          "wordCount": 3454,
-          "title": "How SSH Authentication with GitHub Works Under the Hood",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739082652213/aba38efa-117c-4ef7-a844-91599c0a4d62.png"
-        },
-        {
-          "id": "67abe1c4e2819029e77c7459",
-          "author": "Syeda Maham Fahim",
-          "description": "Have you ever run a program, and it crashed? No error messages, no hints, just silence. How do you figure out what went wrong? That's where logging saves the day. Logs keep track of what’s happening inside your code so that when things go wrong, you ...",
-          "link": "https://www.freecodecamp.org/news/what-are-logs-in-programming/",
-          "publishedOn": "2025-02-11T23:48:20.000Z",
-          "wordCount": 2169,
-          "title": "What Are Logs in Programming?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738685115991/600c01b6-b031-4ce9-a77a-5d88fcdaa68a.png"
-        },
-        {
-          "id": "67a689db1b3d34453f8da64a",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Peggy Wang. She used freeCodeCamp to learn coding. She then worked in Big Tech as a robotics engineer. And now she's cofounder and CTO of Ego AI, a Y-Combinator-backed startup that builds human-like ...",
-          "link": "https://www.freecodecamp.org/news/from-freecodecamp-to-cto-with-robotics-engineer-peggy-wang-podcast-159/",
-          "publishedOn": "2025-02-07T22:31:55.000Z",
-          "wordCount": 1144,
-          "title": "From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738967132406/6ab8c7bb-397a-42b3-bb91-ff9c4842ead0.png"
         }
       ]
     }
