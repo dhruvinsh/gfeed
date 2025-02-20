@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382234",
+          "author": "Geoff Graham",
+          "description": "I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element.\nWorking With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/",
+          "publishedOn": "2025-02-19T13:55:31.000Z",
+          "wordCount": 3311,
+          "title": "Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382234"
+        },
+        {
           "id": "https://css-tricks.com/?p=384446",
           "author": "Lee Meyer",
           "description": "My thesis for today's article offers further reassurance that inline conditionals are probably not the harbinger of the end of civilization: I reckon we can achieve the same functionality right now with style queries, which are gaining pretty good browser support.\nThe What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +170,6 @@
           "wordCount": 3758,
           "title": "Revisiting CSS Multi-Column Layout",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384002"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383506",
-          "author": "Preethi",
-          "description": "When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.\nPositioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/positioning-text-around-elements-with-css-offset/",
-          "publishedOn": "2025-01-24T14:59:25.000Z",
-          "wordCount": 2795,
-          "title": "Positioning Text Around Elements With CSS Offset",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383506"
         }
       ]
     },
@@ -179,12 +179,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
+          "author": "hello@smashingmagazine.com (Eduard Kuric)",
+          "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
+          "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
+          "publishedOn": "2025-02-19T10:00:00.000Z",
+          "wordCount": 5960,
+          "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "author": "hello@smashingmagazine.com (Eric Burel)",
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
           "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5416,
+          "wordCount": 5524,
           "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
@@ -229,7 +244,7 @@
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
           "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5718,
+          "wordCount": 5720,
           "title": "Taking RWD To The Extreme",
           "enclosure": {
             "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
@@ -259,7 +274,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5074,
+          "wordCount": 5080,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -274,7 +289,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4061,
+          "wordCount": 4045,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -289,7 +304,7 @@
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5394,
+          "wordCount": 5402,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -304,7 +319,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4046,
+          "wordCount": 4055,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -312,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/",
-          "author": "hello@smashingmagazine.com (Alvaro Saburido)",
-          "description": "Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.",
-          "link": "https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/",
-          "publishedOn": "2025-01-21T08:00:00.000Z",
-          "wordCount": 4247,
-          "title": "Navigating The Challenges Of Modern Open-Source Authoring: Lessons Learned",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/navigating-challenges-modern-open-source-authoring/navigating-challenges-modern-open-source-authoring.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/navigating-challenges-modern-open-source-authoring/navigating-challenges-modern-open-source-authoring.jpg"
         }
       ]
     },
@@ -335,6 +335,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67b626105b8a70c6cf85c5be",
+          "author": "Beau Carnes",
+          "description": "Building modern web applications requires a solid understanding of both frontend and backend development. ASP.NET Core MVC is a powerful framework for creating full-stack web applications with clean architecture and maintainable code. Whether you're ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-aspnet-core-mvc-web-app/",
+          "publishedOn": "2025-02-19T18:42:24.000Z",
+          "wordCount": 1311,
+          "title": "How to Build an ASP.NET Core MVC Web App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739990522515/196a648c-bcf1-4ee4-ae29-664c1a7de4eb.png"
+        },
+        {
+          "id": "67b5df98970327b4e047537c",
+          "author": "Maham Codes",
+          "description": "Cold emails can make a huge difference in your job search, but writing the perfect one takes time. You need to match your skills with the job description, find the right tone, and do it over and over again—it’s exhausting. This guide will walk you th...",
+          "link": "https://www.freecodecamp.org/news/build-a-serverless-ai-agent-for-generating-cold-emails/",
+          "publishedOn": "2025-02-19T13:41:44.000Z",
+          "wordCount": 3110,
+          "title": "How to build a serverless AI agent to generate cold emails for your dream job",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739971173263/869c0c1c-9b45-48af-a1d1-0982436b8630.png"
+        },
+        {
+          "id": "67b5da4da9d7e29052110938",
+          "author": "Alex Pliutau",
+          "description": "Well-structured and well-documented APIs are a pleasure to work with. And nowadays the standard is OpenAPI, which comes with a good methodology for defining an API interface first, and only then constructing everything around it. This makes it easier...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-openapi-in-go/",
+          "publishedOn": "2025-02-19T13:19:09.000Z",
+          "wordCount": 3080,
+          "title": "How to Work with OpenAPI in Go",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739971119374/b444d5f6-6e42-4bc6-9136-84a1fe2f073c.png"
+        },
+        {
+          "id": "67b5da0a6db178277c2bebc9",
+          "author": "Tanishka Makode",
+          "description": "Imagine you're throwing a house party. You wouldn’t hand out keys to every guest, right? Some friends can roam freely, some should probably stick to the living room, and a few—well, let’s just say they need supervision. Managing users in RHEL is kind...",
+          "link": "https://www.freecodecamp.org/news/learn-user-management-in-rhel-a-comprehensive-guide/",
+          "publishedOn": "2025-02-19T13:18:02.000Z",
+          "wordCount": 2746,
+          "title": "Learn User Management in RHEL: A Comprehensive Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739971027992/d19c4616-4c2e-4cc4-ac45-384e6520d1a8.png"
+        },
         {
           "id": "67b49d275027eb87a4a1ba21",
           "author": "Eti Ijeoma",
@@ -394,46 +434,6 @@
           "wordCount": 1053,
           "title": "She taught herself coding at age 30 for zero dollars [Podcast #160]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739582603136/eebe10ab-edc5-4bf3-af50-38e1c8081415.png"
-        },
-        {
-          "id": "67ae836a9d7e6c0ddc4469ad",
-          "author": "Alex Tray",
-          "description": "These days, cyberattacks are growing concerns that everyone on a development team should be aware of. This means that if you’re a developer, you should learn some basic cybersecurity skills. After all, cyber attackers are typically developers themsel...",
-          "link": "https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/",
-          "publishedOn": "2025-02-13T23:42:34.000Z",
-          "wordCount": 5131,
-          "title": "Why Cybersecurity Skills Are Important for Front-End Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739382570620/c4a57662-4275-4deb-92c1-6ec560d6c30a.png"
-        },
-        {
-          "id": "67ae2e50ada6ade0c6abd144",
-          "author": "Beau Carnes",
-          "description": "Building interactive and accessible web applications is a crucial skill for modern developers. React, one of the most popular JavaScript libraries, provides a powerful way to create dynamic user interfaces. A great way to deepen your understanding of...",
-          "link": "https://www.freecodecamp.org/news/build-a-memory-game-in-react/",
-          "publishedOn": "2025-02-13T17:39:28.000Z",
-          "wordCount": 1267,
-          "title": "Build a Memory Game in React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739468350427/a0102079-c5ee-4eaa-8757-cf4d7740033c.png"
-        },
-        {
-          "id": "67ae2dae801148b110575d1c",
-          "author": "Beau Carnes",
-          "description": "Understanding fundamental programming concepts is crucial for success in computer science, especially for students preparing for the Cambridge A-Level Computer Science exam. Mastering these topics not only helps in exams but also builds a strong foun...",
-          "link": "https://www.freecodecamp.org/news/learn-a-level-computer-science-concepts/",
-          "publishedOn": "2025-02-13T17:36:46.000Z",
-          "wordCount": 1219,
-          "title": "Learn A-Level Computer Science Concepts",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739496613329/9a7ef36b-53ef-4b9f-8bc9-9992293cdaa9.png"
-        },
-        {
-          "id": "67ae1ed03cb7bcfa7a1a3530",
-          "author": "Orim Dominic Adah",
-          "description": "I recently migrated some tests from Jest to the Node.js test runner in two of my projects that use MongoDB. In one of those projects, test runtime was reduced from 107 seconds to 25 seconds (screenshot below). In the other project, test runtime was r...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-tests-using-the-nodejs-test-runner-and-mongodb-memory-server/",
-          "publishedOn": "2025-02-13T16:33:20.000Z",
-          "wordCount": 2653,
-          "title": "How to Write Tests Using the Node.js Test Runner and mongodb-memory-server",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739464298236/f5d6c959-4570-4813-bdd2-28c27dae4e1f.png"
         }
       ]
     }

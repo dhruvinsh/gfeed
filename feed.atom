@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T01:16:03.681Z</id>
+    <id>urn:2025-02-20T01:16:17.413Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T01:16:03.681Z</updated>
+    <updated>2025-02-20T01:16:17.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an ASP.NET Core MVC Web App]]></title>
+        <id>67b626105b8a70c6cf85c5be</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-aspnet-core-mvc-web-app/"/>
+        <updated>2025-02-19T18:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Building modern web applications requires a solid understanding of both frontend and backend development. ASP.NET Core MVC is a powerful framework for creating full-stack web applications with clean architecture and maintainable code. Whether you're ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop]]></title>
+        <id>https://css-tricks.com/?p=382234</id>
+        <link href="https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/"/>
+        <updated>2025-02-19T13:55:31.000Z</updated>
+        <summary type="html"><![CDATA[I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element.
+Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build a serverless AI agent to generate cold emails for your dream job]]></title>
+        <id>67b5df98970327b4e047537c</id>
+        <link href="https://www.freecodecamp.org/news/build-a-serverless-ai-agent-for-generating-cold-emails/"/>
+        <updated>2025-02-19T13:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Cold emails can make a huge difference in your job search, but writing the perfect one takes time. You need to match your skills with the job description, find the right tone, and do it over and over again—it’s exhausting. This guide will walk you th...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with OpenAPI in Go]]></title>
+        <id>67b5da4da9d7e29052110938</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-openapi-in-go/"/>
+        <updated>2025-02-19T13:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Well-structured and well-documented APIs are a pleasure to work with. And nowadays the standard is OpenAPI, which comes with a good methodology for defining an API interface first, and only then constructing everything around it. This makes it easier...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn User Management in RHEL: A Comprehensive Guide]]></title>
+        <id>67b5da0a6db178277c2bebc9</id>
+        <link href="https://www.freecodecamp.org/news/learn-user-management-in-rhel-a-comprehensive-guide/"/>
+        <updated>2025-02-19T13:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you're throwing a house party. You wouldn’t hand out keys to every guest, right? Some friends can roam freely, some should probably stick to the living room, and a few—well, let’s just say they need supervision. Managing users in RHEL is kind...]]></summary>
+        <author>
+            <name>Tanishka Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?]]></title>
+        <id>https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/</id>
+        <link href="https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/"/>
+        <updated>2025-02-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up a Kubernetes Network Policy and Secure Your Cluster]]></title>
         <id>67b49d275027eb87a4a1ba21</id>
@@ -95,46 +156,6 @@ The What If Machine: Bringing the “Iffy” Future of CSS into the Present orig
 Handwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Cybersecurity Skills Are Important for Front-End Developers]]></title>
-        <id>67ae836a9d7e6c0ddc4469ad</id>
-        <link href="https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/"/>
-        <updated>2025-02-13T23:42:34.000Z</updated>
-        <summary type="html"><![CDATA[These days, cyberattacks are growing concerns that everyone on a development team should be aware of. This means that if you’re a developer, you should learn some basic cybersecurity skills. After all, cyber attackers are typically developers themsel...]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Memory Game in React]]></title>
-        <id>67ae2e50ada6ade0c6abd144</id>
-        <link href="https://www.freecodecamp.org/news/build-a-memory-game-in-react/"/>
-        <updated>2025-02-13T17:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Building interactive and accessible web applications is a crucial skill for modern developers. React, one of the most popular JavaScript libraries, provides a powerful way to create dynamic user interfaces. A great way to deepen your understanding of...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn A-Level Computer Science Concepts]]></title>
-        <id>67ae2dae801148b110575d1c</id>
-        <link href="https://www.freecodecamp.org/news/learn-a-level-computer-science-concepts/"/>
-        <updated>2025-02-13T17:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Understanding fundamental programming concepts is crucial for success in computer science, especially for students preparing for the Cambridge A-Level Computer Science exam. Mastering these topics not only helps in exams but also builds a strong foun...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Tests Using the Node.js Test Runner and mongodb-memory-server]]></title>
-        <id>67ae1ed03cb7bcfa7a1a3530</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-tests-using-the-nodejs-test-runner-and-mongodb-memory-server/"/>
-        <updated>2025-02-13T16:33:20.000Z</updated>
-        <summary type="html"><![CDATA[I recently migrated some tests from Jest to the Node.js test runner in two of my projects that use MongoDB. In one of those projects, test runtime was reduced from 107 seconds to 25 seconds (screenshot below). In the other project, test runtime was r...]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
         </author>
     </entry>
     <entry>
@@ -348,27 +369,6 @@ What on Earth is the `types` Descriptor in View Transitions? originally publis
 Revisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positioning Text Around Elements With CSS Offset]]></title>
-        <id>https://css-tricks.com/?p=383506</id>
-        <link href="https://css-tricks.com/positioning-text-around-elements-with-css-offset/"/>
-        <updated>2025-01-24T14:59:25.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.
-Positioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating The Challenges Of Modern Open-Source Authoring: Lessons Learned]]></title>
-        <id>https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/</id>
-        <link href="https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/"/>
-        <updated>2025-01-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alvaro Saburido)</name>
         </author>
     </entry>
 </feed>
