@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-20T01:16:17.413Z</id>
+    <id>urn:2025-02-21T01:16:30.182Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T01:16:17.413Z</updated>
+    <updated>2025-02-21T01:16:30.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Secure Ways to Access DeepSeek( Third-Party Apps)]]></title>
+        <id>67b746282e12c8160896e071</id>
+        <link href="https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-third-party-apps/"/>
+        <updated>2025-02-20T15:11:36.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Kubernetes and EKS for Deployment]]></title>
+        <id>67b743e1674d20deafd5b082</id>
+        <link href="https://www.freecodecamp.org/news/learn-kubernetes-and-eks-for-deployment/"/>
+        <updated>2025-02-20T15:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes has become the de facto standard for container orchestration, allowing developers to efficiently deploy, manage, and scale applications. But deploying Kubernetes clusters in the cloud can be complex. That’s where Amazon Elastic Kubernetes ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an ASP.NET Core MVC Web App]]></title>
         <id>67b626105b8a70c6cf85c5be</id>
@@ -125,26 +145,6 @@ Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop origina
 The What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Backend as a Service (BaaS)? A Beginner's Guide]]></title>
-        <id>67b30da662ec9a593dfeb4a7</id>
-        <link href="https://www.freecodecamp.org/news/backend-as-a-service-beginners-guide/"/>
-        <updated>2025-02-17T10:21:26.000Z</updated>
-        <summary type="html"><![CDATA[Building an authentication system can be complex, often requiring a server to store user data. Sometimes, you need a faster, easier solution. For those new to development or without technical expertise, managing servers, databases, and user logins ca...]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She taught herself coding at age 30 for zero dollars [Podcast #160]]]></title>
-        <id>67afede38299e397dc71768b</id>
-        <link href="https://www.freecodecamp.org/news/she-taught-herself-coding-at-age-30-for-zero-dollars-podcast-160/"/>
-        <updated>2025-02-15T01:29:07.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Julia Undeutsch who is a self-taught software engineer and accessibility specialist. She works at a big European company making software more accessible for people with disabilities. Julia taught her...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
