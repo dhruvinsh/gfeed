@@ -1,14 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-21T01:16:30.182Z</id>
+    <id>urn:2025-02-22T01:14:10.206Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-21T01:16:30.182Z</updated>
+    <updated>2025-02-22T01:14:10.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Secure Ways to Access DeepSeek( Third-Party Apps)]]></title>
+        <title type="html"><![CDATA[How to go full-on Renaissance Man mode in 2025 with Vaughn Gene [Podcast #161]]]></title>
+        <id>67b8d14181f9a2aaa77a646f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-go-full-on-renaissance-man-mode-in-2025-with-vaughn-gene-podcast-161/"/>
+        <updated>2025-02-21T19:17:21.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Vaughn Gene. He's a self-taught software engineer who works with lots of freelance clients. Vaughn lived in Japan for 10 years, and speaks Japanese, speaks Spanish, plays guitar, plays piano, and is ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toe Dipping Into View Transitions]]></title>
+        <id>https://css-tricks.com/?p=384665</id>
+        <link href="https://css-tricks.com/toe-dipping-into-view-transitions/"/>
+        <updated>2025-02-21T14:34:58.000Z</updated>
+        <summary type="html"><![CDATA[The View Transitions API is more a set of features than it is about any one particular thing. And it gets complex fast. But in this post, we’ll cover a couple ways to dip your toes into the waters without having to dive in head-first.
+Toe Dipping Into View Transitions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code a Crossy Road Game Clone with Three.js]]></title>
+        <id>67b7bad6bcd9ef47aba6001d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-threejs/"/>
+        <updated>2025-02-20T23:29:26.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with Three.js. The goal of this game is to move a character through an endless path of static and moving obstacles. You have to go around trees and avoid getting hit ...]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a DeepSeek R1 API in R with Plumber]]></title>
+        <id>67b7b91a534c03e678009324</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-deepseek-r1-api-in-r-with-plumber/"/>
+        <updated>2025-02-20T23:22:01.000Z</updated>
+        <summary type="html"><![CDATA[To create an AI chatbot and integrate it with another platform, you have to communicate with large language model using an API. This API receives prompts from the client and sends them to the model to generate answers. In this tutorial, you will lear...]]></summary>
+        <author>
+            <name>Adejumo Ridwan Suleiman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Replit Clone with Socket.io, Monaco Editor, and Copilotkit]]></title>
+        <id>67b7b7b46d2a73d146b3a978</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-replit-clone-with-socketio-monaco-editor-and-copilotkit/"/>
+        <updated>2025-02-20T23:16:04.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been coding for about a decade now. And over the years, I’ve tried my fair share of development tools—especially IDEs like Sublime Text, Atom, and even NetBeans back in my college days. But when VS Code came along, it completely changed the game...]]></summary>
+        <author>
+            <name>Prankur Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Ways to Access DeepSeek Using Third-Party Apps]]></title>
         <id>67b746282e12c8160896e071</id>
-        <link href="https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-third-party-apps/"/>
+        <link href="https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-using-third-party-apps/"/>
         <updated>2025-02-20T15:11:36.000Z</updated>
         <summary type="html"><![CDATA[AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...]]></summary>
         <author>
@@ -87,36 +138,6 @@ Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop origina
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Set Up a Kubernetes Network Policy and Secure Your Cluster]]></title>
-        <id>67b49d275027eb87a4a1ba21</id>
-        <link href="https://www.freecodecamp.org/news/set-up-kubernetes-network-policy-and-secure-your-cluster/"/>
-        <updated>2025-02-18T14:45:59.000Z</updated>
-        <summary type="html"><![CDATA[In a Kubernetes environment, proper networking allows for seamless communication between various components within the cluster and the external environment. As your applications grow, networking becomes more and more important and helps ensure that t...]]></summary>
-        <author>
-            <name>Eti Ijeoma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Classes in JavaScript – A Handbook for Beginners]]></title>
-        <id>67b47d2761b19f350f00901b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-classes-in-javascript-handbook/"/>
-        <updated>2025-02-18T12:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Are you curious about classes in JavaScript but feel a little puzzled about how they work or why you'd even use them? If that's you, then you're definitely in the right place. Lots of developers find classes a bit tricky at first, and honestly, I was...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Shadow AI? The Hidden Risks and Challenges in Modern Organizations]]></title>
-        <id>67b450b56572419f24094c04</id>
-        <link href="https://www.freecodecamp.org/news/shadow-ai-hidden-risks-and-challenges/"/>
-        <updated>2025-02-18T09:19:49.000Z</updated>
-        <summary type="html"><![CDATA[Imagine this: a marketing manager uses ChatGPT to draft a personalized email campaign. Meanwhile, a developer experiments with a machine learning model trained on customer data, and an HR team integrates an artificial intelligence (AI) tool to screen...]]></summary>
-        <author>
-            <name>Sonya Moisset</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How OWASP Helps You Secure Your Full-Stack Web Applications]]></title>
         <id>https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/</id>
         <link href="https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/"/>
@@ -124,16 +145,6 @@ Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop origina
         <summary type="html"><![CDATA[The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Burel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use FakeLogger to Make Testing Easier In .Net]]></title>
-        <id>67b3b736d8f6ac012e312ac5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-fakelogger-to-make-testing-easier-in-net/"/>
-        <updated>2025-02-17T22:24:54.000Z</updated>
-        <summary type="html"><![CDATA[When writing unit tests in .NET, you may need to verify that methods are logging exceptions, errors, or other key information. You might think, No problem, I'll just mock ILogger using my favourite mocking library – for example Moq, NSubstitute, or F...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
         </author>
     </entry>
     <entry>
@@ -358,17 +369,6 @@ What on Earth is the `types` Descriptor in View Transitions? originally publis
         <summary type="html"><![CDATA[After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisiting CSS Multi-Column Layout]]></title>
-        <id>https://css-tricks.com/?p=384002</id>
-        <link href="https://css-tricks.com/revisiting-css-multi-column-layout/"/>
-        <updated>2025-01-27T15:35:44.000Z</updated>
-        <summary type="html"><![CDATA[After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.
-Revisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
         </author>
     </entry>
 </feed>

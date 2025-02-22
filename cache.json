@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384665",
+          "author": "Geoff Graham",
+          "description": "The View Transitions API is more a set of features than it is about any one particular thing. And it gets complex fast. But in this post, we’ll cover a couple ways to dip your toes into the waters without having to dive in head-first.\nToe Dipping Into View Transitions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/toe-dipping-into-view-transitions/",
+          "publishedOn": "2025-02-21T14:34:58.000Z",
+          "wordCount": 2478,
+          "title": "Toe Dipping Into View Transitions",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/02/Screen-Recording-2025-02-14-at-2.22.14 PM.mov",
+            "length": "2794632",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384665"
+        },
+        {
           "id": "https://css-tricks.com/?p=382234",
           "author": "Geoff Graham",
           "description": "I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element.\nWorking With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +175,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383818"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384002",
-          "author": "Andy Clarke",
-          "description": "After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.\nRevisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/revisiting-css-multi-column-layout/",
-          "publishedOn": "2025-01-27T15:35:44.000Z",
-          "wordCount": 3758,
-          "title": "Revisiting CSS Multi-Column Layout",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384002"
         }
       ]
     },
@@ -184,7 +189,7 @@
           "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
           "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5848,
+          "wordCount": 5850,
           "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
@@ -199,7 +204,7 @@
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
           "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5523,
+          "wordCount": 5420,
           "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
@@ -244,7 +249,7 @@
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
           "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5732,
+          "wordCount": 5726,
           "title": "Taking RWD To The Extreme",
           "enclosure": {
             "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
@@ -274,7 +279,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5089,
+          "wordCount": 5088,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -289,7 +294,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4044,
+          "wordCount": 4051,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -304,7 +309,7 @@
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5396,
+          "wordCount": 5392,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -319,7 +324,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4050,
+          "wordCount": 4047,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -336,13 +341,53 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67b8d14181f9a2aaa77a646f",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Vaughn Gene. He's a self-taught software engineer who works with lots of freelance clients. Vaughn lived in Japan for 10 years, and speaks Japanese, speaks Spanish, plays guitar, plays piano, and is ...",
+          "link": "https://www.freecodecamp.org/news/how-to-go-full-on-renaissance-man-mode-in-2025-with-vaughn-gene-podcast-161/",
+          "publishedOn": "2025-02-21T19:17:21.000Z",
+          "wordCount": 1089,
+          "title": "How to go full-on Renaissance Man mode in 2025 with Vaughn Gene [Podcast #161]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740165379376/d6b72344-45a5-4d95-9f14-a2837b80a6b6.png"
+        },
+        {
+          "id": "67b7bad6bcd9ef47aba6001d",
+          "author": "Hunor Márton Borbély",
+          "description": "In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with Three.js. The goal of this game is to move a character through an endless path of static and moving obstacles. You have to go around trees and avoid getting hit ...",
+          "link": "https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-threejs/",
+          "publishedOn": "2025-02-20T23:29:26.000Z",
+          "wordCount": 8226,
+          "title": "How to Code a Crossy Road Game Clone with Three.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740094139765/282432bf-1a5b-40e4-8b74-7aa854fd20ac.png"
+        },
+        {
+          "id": "67b7b91a534c03e678009324",
+          "author": "Adejumo Ridwan Suleiman",
+          "description": "To create an AI chatbot and integrate it with another platform, you have to communicate with large language model using an API. This API receives prompts from the client and sends them to the model to generate answers. In this tutorial, you will lear...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-deepseek-r1-api-in-r-with-plumber/",
+          "publishedOn": "2025-02-20T23:22:01.000Z",
+          "wordCount": 2015,
+          "title": "How to Create a DeepSeek R1 API in R with Plumber",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740093558918/453118b9-3c93-4e57-a1ad-7471e1046ef1.png"
+        },
+        {
+          "id": "67b7b7b46d2a73d146b3a978",
+          "author": "Prankur Pandey",
+          "description": "I’ve been coding for about a decade now. And over the years, I’ve tried my fair share of development tools—especially IDEs like Sublime Text, Atom, and even NetBeans back in my college days. But when VS Code came along, it completely changed the game...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-replit-clone-with-socketio-monaco-editor-and-copilotkit/",
+          "publishedOn": "2025-02-20T23:16:04.000Z",
+          "wordCount": 10749,
+          "title": "How to Build a Replit Clone with Socket.io, Monaco Editor, and Copilotkit",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740064335866/a058fbf3-2d89-4e95-9d3b-07224f3985be.png"
+        },
+        {
           "id": "67b746282e12c8160896e071",
           "author": "Oluwadamisi Samuel",
           "description": "AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...",
-          "link": "https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-third-party-apps/",
+          "link": "https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-using-third-party-apps/",
           "publishedOn": "2025-02-20T15:11:36.000Z",
-          "wordCount": 2715,
-          "title": "Secure Ways to Access DeepSeek( Third-Party Apps)",
+          "wordCount": 2718,
+          "title": "Secure Ways to Access DeepSeek Using Third-Party Apps",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740064259806/efd0af33-1df9-415e-8944-6311e75391d0.png"
         },
         {
@@ -383,7 +428,7 @@
           "publishedOn": "2025-02-19T13:19:09.000Z",
           "wordCount": 3080,
           "title": "How to Work with OpenAPI in Go",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739971119374/b444d5f6-6e42-4bc6-9136-84a1fe2f073c.png"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740164911110/7954a7d5-39dc-4504-82eb-f5fe583b7b84.png"
         },
         {
           "id": "67b5da0a6db178277c2bebc9",
@@ -394,46 +439,6 @@
           "wordCount": 2746,
           "title": "Learn User Management in RHEL: A Comprehensive Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739971027992/d19c4616-4c2e-4cc4-ac45-384e6520d1a8.png"
-        },
-        {
-          "id": "67b49d275027eb87a4a1ba21",
-          "author": "Eti Ijeoma",
-          "description": "In a Kubernetes environment, proper networking allows for seamless communication between various components within the cluster and the external environment. As your applications grow, networking becomes more and more important and helps ensure that t...",
-          "link": "https://www.freecodecamp.org/news/set-up-kubernetes-network-policy-and-secure-your-cluster/",
-          "publishedOn": "2025-02-18T14:45:59.000Z",
-          "wordCount": 3056,
-          "title": "How to Set Up a Kubernetes Network Policy and Secure Your Cluster",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739889943803/796d97e8-a1c9-41e4-a678-61477514c020.png"
-        },
-        {
-          "id": "67b47d2761b19f350f00901b",
-          "author": "Spruce Emmanuel",
-          "description": "Are you curious about classes in JavaScript but feel a little puzzled about how they work or why you'd even use them? If that's you, then you're definitely in the right place. Lots of developers find classes a bit tricky at first, and honestly, I was...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-classes-in-javascript-handbook/",
-          "publishedOn": "2025-02-18T12:29:27.000Z",
-          "wordCount": 8858,
-          "title": "How to Use Classes in JavaScript – A Handbook for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739878241514/a725b4af-8061-49c2-9575-2aa4096acb74.png"
-        },
-        {
-          "id": "67b450b56572419f24094c04",
-          "author": "Sonya Moisset",
-          "description": "Imagine this: a marketing manager uses ChatGPT to draft a personalized email campaign. Meanwhile, a developer experiments with a machine learning model trained on customer data, and an HR team integrates an artificial intelligence (AI) tool to screen...",
-          "link": "https://www.freecodecamp.org/news/shadow-ai-hidden-risks-and-challenges/",
-          "publishedOn": "2025-02-18T09:19:49.000Z",
-          "wordCount": 3384,
-          "title": "What is Shadow AI? The Hidden Risks and Challenges in Modern Organizations",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739870232803/7d5d5b43-4ca1-4e51-972b-586c0094854f.png"
-        },
-        {
-          "id": "67b3b736d8f6ac012e312ac5",
-          "author": "Grant Riordan",
-          "description": "When writing unit tests in .NET, you may need to verify that methods are logging exceptions, errors, or other key information. You might think, No problem, I'll just mock ILogger using my favourite mocking library – for example Moq, NSubstitute, or F...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-fakelogger-to-make-testing-easier-in-net/",
-          "publishedOn": "2025-02-17T22:24:54.000Z",
-          "wordCount": 3337,
-          "title": "How to Use FakeLogger to Make Testing Easier In .Net",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739486043718/2d1e6339-fb93-4719-a89a-5b29e30c2bfc.png"
         }
       ]
     }
