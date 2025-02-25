@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-24T01:18:19.124Z</id>
+    <id>urn:2025-02-25T01:17:42.201Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-24T01:18:19.124Z</updated>
+    <updated>2025-02-25T01:17:42.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Speed Up Website Loading by Removing Extra Bits and Bytes]]></title>
+        <id>67bca6f616cf4617f656a33f</id>
+        <link href="https://www.freecodecamp.org/news/speed-up-website-loading/"/>
+        <updated>2025-02-24T17:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Let’s start with an interesting fact: according to research done by Akamai, a 1-second delay in loading a website’s page can decrease the conversion rate by 7%. We are currently living in a fast-paced world, where time is money for everyone. People e...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applying the Web Dev Mindset to Dealing With Life Challenges]]></title>
+        <id>https://css-tricks.com/?p=384565</id>
+        <link href="https://css-tricks.com/applying-the-web-dev-mindset-to-dealing-with-life-challenges/"/>
+        <updated>2025-02-24T13:42:16.000Z</updated>
+        <summary type="html"><![CDATA[The grain of truth was that even if you love your job, it can’t love you back. Yet what I’m hooked on isn’t one job, but the power of code and language.
+Applying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to go full-on Renaissance Man mode in 2025 with Vaughn Gene [Podcast #161]]]></title>
         <id>67b8d14181f9a2aaa77a646f</id>
@@ -115,16 +136,6 @@ Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop origina
         <summary type="html"><![CDATA[Well-structured and well-documented APIs are a pleasure to work with. And nowadays the standard is OpenAPI, which comes with a good methodology for defining an API interface first, and only then constructing everything around it. This makes it easier...]]></summary>
         <author>
             <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn User Management in RHEL: A Comprehensive Guide]]></title>
-        <id>67b5da0a6db178277c2bebc9</id>
-        <link href="https://www.freecodecamp.org/news/learn-user-management-in-rhel-a-comprehensive-guide/"/>
-        <updated>2025-02-19T13:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're throwing a house party. You wouldn’t hand out keys to every guest, right? Some friends can roam freely, some should probably stick to the living room, and a few—well, let’s just say they need supervision. Managing users in RHEL is kind...]]></summary>
-        <author>
-            <name>Tanishka Makode</name>
         </author>
     </entry>
     <entry>
@@ -338,17 +349,6 @@ The Mistakes of CSS originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What on Earth is the `types` Descriptor in View Transitions?]]></title>
-        <id>https://css-tricks.com/?p=383818</id>
-        <link href="https://css-tricks.com/what-on-earth-is-the-types-descriptor-in-view-transitions/"/>
-        <updated>2025-01-29T14:13:53.000Z</updated>
-        <summary type="html"><![CDATA[The @view-transition at-rule has two descriptions. One is the commonly used navigation descriptor. The second is types, the lesser-known of the two, and one that probably envies how much attention navigation gets. But read on to learn why we need types and how it opens up new possibilities for custom view transitions when navigating between pages.
-What on Earth is the `types` Descriptor in View Transitions? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
     <entry>
