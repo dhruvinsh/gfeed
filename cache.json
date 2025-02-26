@@ -17,7 +17,7 @@
           "description": "The grain of truth was that even if you love your job, it can’t love you back. Yet what I’m hooked on isn’t one job, but the power of code and language.\nApplying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/applying-the-web-dev-mindset-to-dealing-with-life-challenges/",
           "publishedOn": "2025-02-24T13:42:16.000Z",
-          "wordCount": 4733,
+          "wordCount": 4910,
           "title": "Applying the Web Dev Mindset to Dealing With Life Challenges",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
         },
@@ -184,7 +184,7 @@
           "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
           "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5860,
+          "wordCount": 5843,
           "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
@@ -199,7 +199,7 @@
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
           "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5409,
+          "wordCount": 5424,
           "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
@@ -244,7 +244,7 @@
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
           "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5727,
+          "wordCount": 5725,
           "title": "Taking RWD To The Extreme",
           "enclosure": {
             "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
@@ -274,7 +274,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5085,
+          "wordCount": 5088,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -289,7 +289,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4060,
+          "wordCount": 4059,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -304,7 +304,7 @@
           "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
           "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
           "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5409,
+          "wordCount": 5407,
           "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
@@ -319,7 +319,7 @@
           "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
           "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4052,
+          "wordCount": 4050,
           "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
@@ -335,6 +335,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67be32ff803613c5edf10387",
+          "author": "Spruce Emmanuel",
+          "description": "Recently, I needed to add a search feature to a React app. Naturally, I did what many developers would do—I turned to Google for help. The first article I found was about building a search and filter component in React. As I read through it, I couldn...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/",
+          "publishedOn": "2025-02-25T21:15:43.000Z",
+          "wordCount": 4008,
+          "title": "How to Build a Reusable useSearch Hook in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494925672/3a87e5a2-5233-4fae-a652-4fbf5b325ded.png"
+        },
+        {
+          "id": "67be316dd9d7f9374abc151b",
+          "author": "Praise James",
+          "description": "Recommender systems are used to provide personalized experiences for customers in many industries today, including e-commerce, social media, entertainment, and education. These recommender systems make recommendations based on user preferences and co...",
+          "link": "https://www.freecodecamp.org/news/cold-start-problem-in-recommender-systems/",
+          "publishedOn": "2025-02-25T21:09:01.000Z",
+          "wordCount": 2500,
+          "title": "What is the Cold Start Problem in Recommender Systems?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740509206117/308696ac-788a-4545-b7dd-0e2352e33436.png"
+        },
+        {
+          "id": "67bde54468de46f577ed25f8",
+          "author": "Md. Fahim Bin Amin",
+          "description": "LaTeX is a high-quality typesetting system that is widely used in technical, academic, and scientific writing. It’s very popular in academia, especially in fields like mathematics, physics, computer science, and engineering. LaTeX is not a word proce...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-latex-projects-locally-for-free-on-windows/",
+          "publishedOn": "2025-02-25T15:44:04.000Z",
+          "wordCount": 1976,
+          "title": "How to Run LaTeX Projects Locally (for Free) On Windows",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494599916/ce7cfadb-985c-4245-9cc8-1ccba483ba69.png"
+        },
         {
           "id": "67bca6f616cf4617f656a33f",
           "author": "Alex Tray",
@@ -361,7 +391,7 @@
           "description": "In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with Three.js. The goal of this game is to move a character through an endless path of static and moving obstacles. You have to go around trees and avoid getting hit ...",
           "link": "https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-threejs/",
           "publishedOn": "2025-02-20T23:29:26.000Z",
-          "wordCount": 8226,
+          "wordCount": 8210,
           "title": "How to Code a Crossy Road Game Clone with Three.js",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740094139765/282432bf-1a5b-40e4-8b74-7aa854fd20ac.png"
         },
@@ -404,36 +434,6 @@
           "wordCount": 1362,
           "title": "Learn Kubernetes and EKS for Deployment",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740063597212/95295b26-4334-4875-ba73-c71218c47b67.png"
-        },
-        {
-          "id": "67b626105b8a70c6cf85c5be",
-          "author": "Beau Carnes",
-          "description": "Building modern web applications requires a solid understanding of both frontend and backend development. ASP.NET Core MVC is a powerful framework for creating full-stack web applications with clean architecture and maintainable code. Whether you're ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-aspnet-core-mvc-web-app/",
-          "publishedOn": "2025-02-19T18:42:24.000Z",
-          "wordCount": 1311,
-          "title": "How to Build an ASP.NET Core MVC Web App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739990522515/196a648c-bcf1-4ee4-ae29-664c1a7de4eb.png"
-        },
-        {
-          "id": "67b5df98970327b4e047537c",
-          "author": "Maham Codes",
-          "description": "Cold emails can make a huge difference in your job search, but writing the perfect one takes time. You need to match your skills with the job description, find the right tone, and do it over and over again—it’s exhausting. This guide will walk you th...",
-          "link": "https://www.freecodecamp.org/news/build-a-serverless-ai-agent-for-generating-cold-emails/",
-          "publishedOn": "2025-02-19T13:41:44.000Z",
-          "wordCount": 3110,
-          "title": "How to build a serverless AI agent to generate cold emails for your dream job",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739971173263/869c0c1c-9b45-48af-a1d1-0982436b8630.png"
-        },
-        {
-          "id": "67b5da4da9d7e29052110938",
-          "author": "Alex Pliutau",
-          "description": "Well-structured and well-documented APIs are a pleasure to work with. And nowadays the standard is OpenAPI, which comes with a good methodology for defining an API interface first, and only then constructing everything around it. This makes it easier...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-openapi-in-go/",
-          "publishedOn": "2025-02-19T13:19:09.000Z",
-          "wordCount": 3080,
-          "title": "How to Work with OpenAPI in Go",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740164911110/7954a7d5-39dc-4504-82eb-f5fe583b7b84.png"
         }
       ]
     }

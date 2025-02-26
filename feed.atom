@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-25T01:17:42.201Z</id>
+    <id>urn:2025-02-26T01:17:21.535Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T01:17:42.201Z</updated>
+    <updated>2025-02-26T01:17:21.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Reusable useSearch Hook in React]]></title>
+        <id>67be32ff803613c5edf10387</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/"/>
+        <updated>2025-02-25T21:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I needed to add a search feature to a React app. Naturally, I did what many developers would do—I turned to Google for help. The first article I found was about building a search and filter component in React. As I read through it, I couldn...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Cold Start Problem in Recommender Systems?]]></title>
+        <id>67be316dd9d7f9374abc151b</id>
+        <link href="https://www.freecodecamp.org/news/cold-start-problem-in-recommender-systems/"/>
+        <updated>2025-02-25T21:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Recommender systems are used to provide personalized experiences for customers in many industries today, including e-commerce, social media, entertainment, and education. These recommender systems make recommendations based on user preferences and co...]]></summary>
+        <author>
+            <name>Praise James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run LaTeX Projects Locally (for Free) On Windows]]></title>
+        <id>67bde54468de46f577ed25f8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-latex-projects-locally-for-free-on-windows/"/>
+        <updated>2025-02-25T15:44:04.000Z</updated>
+        <summary type="html"><![CDATA[LaTeX is a high-quality typesetting system that is widely used in technical, academic, and scientific writing. It’s very popular in academia, especially in fields like mathematics, physics, computer science, and engineering. LaTeX is not a word proce...]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Speed Up Website Loading by Removing Extra Bits and Bytes]]></title>
         <id>67bca6f616cf4617f656a33f</id>
@@ -98,16 +128,6 @@ Toe Dipping Into View Transitions originally published on CSS-Tricks, which is p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an ASP.NET Core MVC Web App]]></title>
-        <id>67b626105b8a70c6cf85c5be</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-aspnet-core-mvc-web-app/"/>
-        <updated>2025-02-19T18:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Building modern web applications requires a solid understanding of both frontend and backend development. ASP.NET Core MVC is a powerful framework for creating full-stack web applications with clean architecture and maintainable code. Whether you're ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop]]></title>
         <id>https://css-tricks.com/?p=382234</id>
         <link href="https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/"/>
@@ -116,26 +136,6 @@ Toe Dipping Into View Transitions originally published on CSS-Tricks, which is p
 Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build a serverless AI agent to generate cold emails for your dream job]]></title>
-        <id>67b5df98970327b4e047537c</id>
-        <link href="https://www.freecodecamp.org/news/build-a-serverless-ai-agent-for-generating-cold-emails/"/>
-        <updated>2025-02-19T13:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Cold emails can make a huge difference in your job search, but writing the perfect one takes time. You need to match your skills with the job description, find the right tone, and do it over and over again—it’s exhausting. This guide will walk you th...]]></summary>
-        <author>
-            <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with OpenAPI in Go]]></title>
-        <id>67b5da4da9d7e29052110938</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-openapi-in-go/"/>
-        <updated>2025-02-19T13:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Well-structured and well-documented APIs are a pleasure to work with. And nowadays the standard is OpenAPI, which comes with a good methodology for defining an API interface first, and only then constructing everything around it. This makes it easier...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
         </author>
     </entry>
     <entry>
