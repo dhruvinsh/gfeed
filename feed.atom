@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T01:17:21.535Z</id>
+    <id>urn:2025-02-27T01:17:42.582Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T01:17:21.535Z</updated>
+    <updated>2025-02-27T01:17:42.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using & Styling the Details Element]]></title>
+        <id>https://css-tricks.com/?p=383813</id>
+        <link href="https://css-tricks.com/using-styling-the-details-element/"/>
+        <updated>2025-02-26T16:07:14.000Z</updated>
+        <summary type="html"><![CDATA[Now that we're 5+ years into 
+, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.
+Using & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If-Else vs Switch Case in JavaScript – Which One is Better?]]></title>
+        <id>67bf38654fdd15eb4db76755</id>
+        <link href="https://www.freecodecamp.org/news/if-else-vs-switch-case-in-javascript/"/>
+        <updated>2025-02-26T15:51:01.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript has been a popular programming language for almost 30 years now. Whether you’re using it for web applications, mobile applications, backend services, or even desktop applications, you’ll find that JavaScript has deep roots. Many of the lib...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Human Element: Using Research And Psychology To Elevate Data Storytelling]]></title>
+        <id>https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/</id>
+        <link href="https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/"/>
+        <updated>2025-02-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco &amp; Angelica Lo Duca)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Reusable useSearch Hook in React]]></title>
         <id>67be32ff803613c5edf10387</id>
@@ -115,16 +147,6 @@ Toe Dipping Into View Transitions originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...]]></summary>
         <author>
             <name>Oluwadamisi Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Kubernetes and EKS for Deployment]]></title>
-        <id>67b743e1674d20deafd5b082</id>
-        <link href="https://www.freecodecamp.org/news/learn-kubernetes-and-eks-for-deployment/"/>
-        <updated>2025-02-20T15:01:53.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes has become the de facto standard for container orchestration, allowing developers to efficiently deploy, manage, and scale applications. But deploying Kubernetes clusters in the cloud can be complex. That’s where Amazon Elastic Kubernetes ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -328,17 +350,6 @@ Keeping the page interactive while a View Transition is running originally publi
         <summary type="html"><![CDATA[Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mistakes of CSS]]></title>
-        <id>https://css-tricks.com/?p=384089</id>
-        <link href="https://css-tricks.com/the-mistakes-of-css/"/>
-        <updated>2025-01-30T14:31:08.000Z</updated>
-        <summary type="html"><![CDATA[All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.
-The Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
     <entry>
