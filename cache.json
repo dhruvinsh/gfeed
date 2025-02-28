@@ -14,10 +14,10 @@
         {
           "id": "https://css-tricks.com/?p=383813",
           "author": "Geoff Graham",
-          "description": "Now that we're 5+ years into \n, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.\nUsing & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "Now that we're 5+ years into the details element, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.\nUsing & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/using-styling-the-details-element/",
           "publishedOn": "2025-02-26T16:07:14.000Z",
-          "wordCount": 3750,
+          "wordCount": 4075,
           "title": "Using & Styling the Details Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/details-box.jpg"
         },
@@ -184,7 +184,7 @@
           "description": "Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.",
           "link": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
           "publishedOn": "2025-02-26T10:00:00.000Z",
-          "wordCount": 7284,
+          "wordCount": 7294,
           "title": "The Human Element: Using Research And Psychology To Elevate Data Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg",
@@ -199,7 +199,7 @@
           "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
           "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5850,
+          "wordCount": 5848,
           "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
@@ -214,7 +214,7 @@
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
           "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5421,
+          "wordCount": 5412,
           "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
@@ -259,7 +259,7 @@
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
           "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5729,
+          "wordCount": 5718,
           "title": "Taking RWD To The Extreme",
           "enclosure": {
             "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
@@ -289,7 +289,7 @@
           "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
           "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5089,
+          "wordCount": 5083,
           "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
@@ -304,7 +304,7 @@
           "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
           "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4161,
+          "wordCount": 4056,
           "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
@@ -312,36 +312,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
-          "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
-          "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5402,
-          "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
-          "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
-          "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4041,
-          "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg"
         }
       ]
     },
@@ -350,6 +320,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67c07627b9cb8c91fbfe2e7c",
+          "author": "Beau Carnes",
+          "description": "Linear algebra is a fundamental building block of machine learning. Whether you are working with deep learning models, optimization algorithms, or computer vision applications, understanding linear algebra concepts can give you a solid mathematical f...",
+          "link": "https://www.freecodecamp.org/news/learn-linear-algebra-for-machine-learning/",
+          "publishedOn": "2025-02-27T14:26:47.000Z",
+          "wordCount": 1397,
+          "title": "Learn Linear Algebra for Machine Learning",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740666382320/d655b144-61c2-4a24-91b2-fa3ab0cacea9.png"
+        },
+        {
+          "id": "67bf99792e5bf2f98ee2466d",
+          "author": "Beau Carnes",
+          "description": "AI-powered chat applications are becoming an essential part of modern web development, enabling users to interact with intelligent conversational agents. Whether for customer support, virtual assistants, or educational tools, building your own AI cha...",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-chat-application-with-the-mern-stack/",
+          "publishedOn": "2025-02-26T22:45:13.000Z",
+          "wordCount": 1330,
+          "title": "Build an AI Chat Application with the MERN Stack",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740666306092/460598ee-3036-4395-ad92-7c8db9e70ae0.png"
+        },
+        {
+          "id": "67bf961287f2aad5763d1f78",
+          "author": "Beau Carnes",
+          "description": "Transformers have revolutionized natural language processing, and now they are transforming computer vision as well. Vision Transformers (ViTs) apply the power of self-attention to image processing, offering state-of-the-art performance in tasks like...",
+          "link": "https://www.freecodecamp.org/news/build-a-vision-transformer-from-scratch/",
+          "publishedOn": "2025-02-26T22:30:42.000Z",
+          "wordCount": 1305,
+          "title": "Build a Vision Transformer from Scratch",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740609022511/e0864dae-cffe-4757-85f9-d4162102a082.png"
+        },
+        {
+          "id": "67bf859b948d001fe6c9ab99",
+          "author": "Hunor Márton Borbély",
+          "description": "In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with React Three Fiber. In a previous tutorial, I taught you how to build this game using Three.js and vanilla JavaScript. And here, you’ll learn how to make the same...",
+          "link": "https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-react-three-fiber/",
+          "publishedOn": "2025-02-26T21:20:27.000Z",
+          "wordCount": 8189,
+          "title": "How to Code a Crossy Road Game Clone with React Three Fiber",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740599557930/dcbb214e-c6d2-400e-8b2a-25fd81ac3c47.png"
+        },
         {
           "id": "67bf38654fdd15eb4db76755",
           "author": "Tapas Adhikary",
@@ -409,46 +419,6 @@
           "wordCount": 1089,
           "title": "How to go full-on Renaissance Man mode in 2025 with Vaughn Gene [Podcast #161]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740165379376/d6b72344-45a5-4d95-9f14-a2837b80a6b6.png"
-        },
-        {
-          "id": "67b7bad6bcd9ef47aba6001d",
-          "author": "Hunor Márton Borbély",
-          "description": "In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with Three.js. The goal of this game is to move a character through an endless path of static and moving obstacles. You have to go around trees and avoid getting hit ...",
-          "link": "https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-threejs/",
-          "publishedOn": "2025-02-20T23:29:26.000Z",
-          "wordCount": 8210,
-          "title": "How to Code a Crossy Road Game Clone with Three.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740094139765/282432bf-1a5b-40e4-8b74-7aa854fd20ac.png"
-        },
-        {
-          "id": "67b7b91a534c03e678009324",
-          "author": "Adejumo Ridwan Suleiman",
-          "description": "To create an AI chatbot and integrate it with another platform, you have to communicate with large language model using an API. This API receives prompts from the client and sends them to the model to generate answers. In this tutorial, you will lear...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-deepseek-r1-api-in-r-with-plumber/",
-          "publishedOn": "2025-02-20T23:22:01.000Z",
-          "wordCount": 2015,
-          "title": "How to Create a DeepSeek R1 API in R with Plumber",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740093558918/453118b9-3c93-4e57-a1ad-7471e1046ef1.png"
-        },
-        {
-          "id": "67b7b7b46d2a73d146b3a978",
-          "author": "Prankur Pandey",
-          "description": "I’ve been coding for about a decade now. And over the years, I’ve tried my fair share of development tools—especially IDEs like Sublime Text, Atom, and even NetBeans back in my college days. But when VS Code came along, it completely changed the game...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-replit-clone-with-socketio-monaco-editor-and-copilotkit/",
-          "publishedOn": "2025-02-20T23:16:04.000Z",
-          "wordCount": 10749,
-          "title": "How to Build a Replit Clone with Socket.io, Monaco Editor, and Copilotkit",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740064335866/a058fbf3-2d89-4e95-9d3b-07224f3985be.png"
-        },
-        {
-          "id": "67b746282e12c8160896e071",
-          "author": "Oluwadamisi Samuel",
-          "description": "AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...",
-          "link": "https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-using-third-party-apps/",
-          "publishedOn": "2025-02-20T15:11:36.000Z",
-          "wordCount": 2718,
-          "title": "Secure Ways to Access DeepSeek Using Third-Party Apps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740064259806/efd0af33-1df9-415e-8944-6311e75391d0.png"
         }
       ]
     }

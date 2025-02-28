@@ -1,17 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-27T01:17:42.582Z</id>
+    <id>urn:2025-02-28T01:18:11.596Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-27T01:17:42.582Z</updated>
+    <updated>2025-02-28T01:18:11.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Linear Algebra for Machine Learning]]></title>
+        <id>67c07627b9cb8c91fbfe2e7c</id>
+        <link href="https://www.freecodecamp.org/news/learn-linear-algebra-for-machine-learning/"/>
+        <updated>2025-02-27T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Linear algebra is a fundamental building block of machine learning. Whether you are working with deep learning models, optimization algorithms, or computer vision applications, understanding linear algebra concepts can give you a solid mathematical f...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an AI Chat Application with the MERN Stack]]></title>
+        <id>67bf99792e5bf2f98ee2466d</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-chat-application-with-the-mern-stack/"/>
+        <updated>2025-02-26T22:45:13.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered chat applications are becoming an essential part of modern web development, enabling users to interact with intelligent conversational agents. Whether for customer support, virtual assistants, or educational tools, building your own AI cha...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Vision Transformer from Scratch]]></title>
+        <id>67bf961287f2aad5763d1f78</id>
+        <link href="https://www.freecodecamp.org/news/build-a-vision-transformer-from-scratch/"/>
+        <updated>2025-02-26T22:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Transformers have revolutionized natural language processing, and now they are transforming computer vision as well. Vision Transformers (ViTs) apply the power of self-attention to image processing, offering state-of-the-art performance in tasks like...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code a Crossy Road Game Clone with React Three Fiber]]></title>
+        <id>67bf859b948d001fe6c9ab99</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-react-three-fiber/"/>
+        <updated>2025-02-26T21:20:27.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with React Three Fiber. In a previous tutorial, I taught you how to build this game using Three.js and vanilla JavaScript. And here, you’ll learn how to make the same...]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using & Styling the Details Element]]></title>
         <id>https://css-tricks.com/?p=383813</id>
         <link href="https://css-tricks.com/using-styling-the-details-element/"/>
         <updated>2025-02-26T16:07:14.000Z</updated>
-        <summary type="html"><![CDATA[Now that we're 5+ years into 
-, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.
+        <summary type="html"><![CDATA[Now that we're 5+ years into the details element, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.
 Using & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
@@ -107,46 +146,6 @@ Applying the Web Dev Mindset to Dealing With Life Challenges originally publishe
 Toe Dipping Into View Transitions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code a Crossy Road Game Clone with Three.js]]></title>
-        <id>67b7bad6bcd9ef47aba6001d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-threejs/"/>
-        <updated>2025-02-20T23:29:26.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with Three.js. The goal of this game is to move a character through an endless path of static and moving obstacles. You have to go around trees and avoid getting hit ...]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a DeepSeek R1 API in R with Plumber]]></title>
-        <id>67b7b91a534c03e678009324</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-deepseek-r1-api-in-r-with-plumber/"/>
-        <updated>2025-02-20T23:22:01.000Z</updated>
-        <summary type="html"><![CDATA[To create an AI chatbot and integrate it with another platform, you have to communicate with large language model using an API. This API receives prompts from the client and sends them to the model to generate answers. In this tutorial, you will lear...]]></summary>
-        <author>
-            <name>Adejumo Ridwan Suleiman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Replit Clone with Socket.io, Monaco Editor, and Copilotkit]]></title>
-        <id>67b7b7b46d2a73d146b3a978</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-replit-clone-with-socketio-monaco-editor-and-copilotkit/"/>
-        <updated>2025-02-20T23:16:04.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been coding for about a decade now. And over the years, I’ve tried my fair share of development tools—especially IDEs like Sublime Text, Atom, and even NetBeans back in my college days. But when VS Code came along, it completely changed the game...]]></summary>
-        <author>
-            <name>Prankur Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Ways to Access DeepSeek Using Third-Party Apps]]></title>
-        <id>67b746282e12c8160896e071</id>
-        <link href="https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-using-third-party-apps/"/>
-        <updated>2025-02-20T15:11:36.000Z</updated>
-        <summary type="html"><![CDATA[AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel</name>
         </author>
     </entry>
     <entry>
@@ -360,26 +359,6 @@ Keeping the page interactive while a View Transition is running originally publi
         <summary type="html"><![CDATA[Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transitioning Top-Layer Entries And The Display Property In CSS]]></title>
-        <id>https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/</id>
-        <link href="https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/"/>
-        <updated>2025-01-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris]]></title>
-        <id>https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/</id>
-        <link href="https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/"/>
-        <updated>2025-01-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>
