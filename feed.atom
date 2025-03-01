@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T01:18:11.596Z</id>
+    <id>urn:2025-03-01T01:22:47.892Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T01:18:11.596Z</updated>
+    <updated>2025-03-01T01:22:47.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Zod for React API Validation]]></title>
+        <id>67c1f994107ebba152ad9e79</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-zod-for-react-api-validation/"/>
+        <updated>2025-02-28T17:59:48.000Z</updated>
+        <summary type="html"><![CDATA[In React applications, handling API (Application Programming Interface) responses can be challenging. You might encounter data that’s missing crucial fields, that’s formatted unexpectedly, or that simply doesn’t match what you anticipated. This incon...]]></summary>
+        <author>
+            <name>Emore Ogheneyoma Lawrence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to become a developer in your 30s with Anjana Vakil [Podcast #162]]]></title>
+        <id>67c1e77814978ff66bb8a865</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-developer-in-your-30s-anjana-vakil-podcast-162/"/>
+        <updated>2025-02-28T16:42:32.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Anjana Vakil. She left academia to learn to code and got her first developer job in her 30s. Anjana was an English teacher who studied computational linguistics, and found building software to be mor...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CSS-Only Star Rating Component and More! (Part 1)]]></title>
+        <id>https://css-tricks.com/?p=384906</id>
+        <link href="https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/"/>
+        <updated>2025-02-28T14:03:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to make a full-on star rating component out of nothing but a single input element and vanilla CSS.
+A CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunshine And March Vibes (2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/</id>
+        <link href="https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/"/>
+        <updated>2025-02-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Linear Algebra for Machine Learning]]></title>
         <id>67c07627b9cb8c91fbfe2e7c</id>
@@ -107,16 +148,6 @@ Using & Styling the Details Element originally published on CSS-Tricks, which is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Speed Up Website Loading by Removing Extra Bits and Bytes]]></title>
-        <id>67bca6f616cf4617f656a33f</id>
-        <link href="https://www.freecodecamp.org/news/speed-up-website-loading/"/>
-        <updated>2025-02-24T17:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Let’s start with an interesting fact: according to research done by Akamai, a 1-second delay in loading a website’s page can decrease the conversion rate by 7%. We are currently living in a fast-paced world, where time is money for everyone. People e...]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Applying the Web Dev Mindset to Dealing With Life Challenges]]></title>
         <id>https://css-tricks.com/?p=384565</id>
         <link href="https://css-tricks.com/applying-the-web-dev-mindset-to-dealing-with-life-challenges/"/>
@@ -125,16 +156,6 @@ Using & Styling the Details Element originally published on CSS-Tricks, which is
 Applying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to go full-on Renaissance Man mode in 2025 with Vaughn Gene [Podcast #161]]]></title>
-        <id>67b8d14181f9a2aaa77a646f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-go-full-on-renaissance-man-mode-in-2025-with-vaughn-gene-podcast-161/"/>
-        <updated>2025-02-21T19:17:21.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Vaughn Gene. He's a self-taught software engineer who works with lots of freelance clients. Vaughn lived in Japan for 10 years, and speaks Japanese, speaks Spanish, plays guitar, plays piano, and is ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -330,18 +351,6 @@ Chrome 133 Goodies originally published on CSS-Tricks, which is part of the Digi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keeping the page interactive while a View Transition is running]]></title>
-        <id>https://css-tricks.com/?p=384331</id>
-        <link href="https://css-tricks.com/keeping-the-page-interactive-while-a-view-transition-is-running/"/>
-        <updated>2025-01-31T14:11:00.000Z</updated>
-        <summary type="html"><![CDATA[When using View Transitions you’ll notice the page becomes unresponsive to clicks while a View Transition is running. […] This happens because of the ::view-transition pseudo element – the one that contains all animated snapshots – gets overlayed on top 
-…
-Keeping the page interactive while a View Transition is running originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/</id>
         <link href="https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/"/>
@@ -349,16 +358,6 @@ Keeping the page interactive while a View Transition is running originally publi
         <summary type="html"><![CDATA[Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Digital Playbook: A Crucial Counterpart To Your Design System]]></title>
-        <id>https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/</id>
-        <link href="https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/"/>
-        <updated>2025-01-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
