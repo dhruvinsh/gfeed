@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-01T01:22:47.892Z</id>
+    <id>urn:2025-03-02T01:22:05.304Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-01T01:22:47.892Z</updated>
+    <updated>2025-03-02T01:22:05.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -348,16 +348,6 @@ Compiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, wh
 Chrome 133 Goodies originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/</id>
-        <link href="https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/"/>
-        <updated>2025-01-31T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
