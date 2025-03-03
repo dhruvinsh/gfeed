@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-02T01:22:05.304Z</id>
+    <id>urn:2025-03-03T01:20:03.370Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-02T01:22:05.304Z</updated>
+    <updated>2025-03-03T01:20:03.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Git through Gamification – A Visual Guide to Key Version Control Concepts]]></title>
+        <id>67c1cfa78df3594301bc3fef</id>
+        <link href="https://www.freecodecamp.org/news/learn-git-through-gamification/"/>
+        <updated>2025-03-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git has many concepts and commands that you’ll need to understand before you feel confident using it. Some of these concepts may sound trivial, especially to someone who has worked with Git before. But like most Git and coding concepts, even the “sim...]]></summary>
+        <author>
+            <name>Jacob Stopak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Zod for React API Validation]]></title>
         <id>67c1f994107ebba152ad9e79</id>
@@ -135,16 +145,6 @@ Using & Styling the Details Element originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[Recommender systems are used to provide personalized experiences for customers in many industries today, including e-commerce, social media, entertainment, and education. These recommender systems make recommendations based on user preferences and co...]]></summary>
         <author>
             <name>Praise James</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run LaTeX Projects Locally (for Free) On Windows]]></title>
-        <id>67bde54468de46f577ed25f8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-latex-projects-locally-for-free-on-windows/"/>
-        <updated>2025-02-25T15:44:04.000Z</updated>
-        <summary type="html"><![CDATA[LaTeX is a high-quality typesetting system that is widely used in technical, academic, and scientific writing. It’s very popular in academia, especially in fields like mathematics, physics, computer science, and engineering. LaTeX is not a word proce...]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
     <entry>
@@ -337,17 +337,6 @@ Baseline Status in a WordPress Block originally published on CSS-Tricks, which i
 Compiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 133 Goodies]]></title>
-        <id>https://css-tricks.com/?p=383910</id>
-        <link href="https://css-tricks.com/chrome-133-goodies/"/>
-        <updated>2025-01-31T15:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Did you see the release notes for Chrome 133? It's currently in beta, but the Chrome team has been publishing a slew of new articles with pretty incredible demos that are tough to ignore. I figured I'd round those up in one place.
-Chrome 133 Goodies originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
