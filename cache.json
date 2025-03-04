@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384685",
+          "author": "Juan Diego Rodríguez",
+          "description": "Arguments?! Return values?! What's crazier, you can use functions right now in Chrome Canary! So, after reading and playing around, here are my key insights on what you need to know about CSS Functions.\nFunctions in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/functions-in-css/",
+          "publishedOn": "2025-03-03T13:34:22.000Z",
+          "wordCount": 3474,
+          "title": "Functions in CSS?!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/css-functions-mixins.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=384906",
           "author": "Temani Afif",
           "description": "In this article, you'll learn how to make a full-on star rating component out of nothing but a single input element and vanilla CSS.\nA CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/",
           "publishedOn": "2025-02-28T14:03:32.000Z",
-          "wordCount": 4143,
+          "wordCount": 4160,
           "title": "A CSS-Only Star Rating Component and More! (Part 1)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
         },
@@ -37,7 +47,7 @@
           "description": "The grain of truth was that even if you love your job, it can’t love you back. Yet what I’m hooked on isn’t one job, but the power of code and language.\nApplying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/applying-the-web-dev-mindset-to-dealing-with-life-challenges/",
           "publishedOn": "2025-02-24T13:42:16.000Z",
-          "wordCount": 5129,
+          "wordCount": 5150,
           "title": "Applying the Web Dev Mindset to Dealing With Life Challenges",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
         },
@@ -169,6 +179,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
+          "author": "hello@smashingmagazine.com (Kevin Leary)",
+          "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
+          "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
+          "publishedOn": "2025-03-03T08:00:00.000Z",
+          "wordCount": 5348,
+          "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
@@ -189,7 +214,7 @@
           "description": "Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.",
           "link": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
           "publishedOn": "2025-02-26T10:00:00.000Z",
-          "wordCount": 7286,
+          "wordCount": 7287,
           "title": "The Human Element: Using Research And Psychology To Elevate Data Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg",
@@ -204,7 +229,7 @@
           "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
           "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5798,
+          "wordCount": 5797,
           "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
@@ -219,7 +244,7 @@
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
           "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5530,
+          "wordCount": 5419,
           "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
@@ -264,7 +289,7 @@
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
           "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5730,
+          "wordCount": 5725,
           "title": "Taking RWD To The Extreme",
           "enclosure": {
             "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
@@ -296,12 +321,22 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67c5c657e04393229206983b",
+          "author": "David Asaolu",
+          "description": "Social media and real-time communication have transformed how people interact, making it easier to share ideas, collaborate, and learn from others, regardless of location. From professional networks to online study groups, these platforms allow vario...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-social-learning-platform-using-nextjs-stream-and-supabase/",
+          "publishedOn": "2025-03-03T15:10:15.000Z",
+          "wordCount": 7341,
+          "title": "How to Build a Social Learning Platform using Next.js, Stream, and Supabase",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741009946459/dba65929-1b65-4278-9601-4d047042753a.png"
+        },
+        {
           "id": "67c1cfa78df3594301bc3fef",
           "author": "Jacob Stopak",
           "description": "Git has many concepts and commands that you’ll need to understand before you feel confident using it. Some of these concepts may sound trivial, especially to someone who has worked with Git before. But like most Git and coding concepts, even the “sim...",
           "link": "https://www.freecodecamp.org/news/learn-git-through-gamification/",
           "publishedOn": "2025-03-02T06:00:00.000Z",
-          "wordCount": 2613,
+          "wordCount": 2624,
           "title": "Learn Git through Gamification – A Visual Guide to Key Version Control Concepts",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740686401633/ffd9ac3c-668a-47bf-b2ba-f7cee14e74a8.webp"
         },
@@ -384,16 +419,6 @@
           "wordCount": 4008,
           "title": "How to Build a Reusable useSearch Hook in React",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494925672/3a87e5a2-5233-4fae-a652-4fbf5b325ded.png"
-        },
-        {
-          "id": "67be316dd9d7f9374abc151b",
-          "author": "Praise James",
-          "description": "Recommender systems are used to provide personalized experiences for customers in many industries today, including e-commerce, social media, entertainment, and education. These recommender systems make recommendations based on user preferences and co...",
-          "link": "https://www.freecodecamp.org/news/cold-start-problem-in-recommender-systems/",
-          "publishedOn": "2025-02-25T21:09:01.000Z",
-          "wordCount": 2500,
-          "title": "What is the Cold Start Problem in Recommender Systems?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740509206117/308696ac-788a-4545-b7dd-0e2352e33436.png"
         }
       ]
     }
