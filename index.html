@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-03-04 datetime="2025-03-04T18:58:44.000Z">2025-03-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-03-04 datetime="2025-03-04T18:58:44.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >freeCodeCamp Programming Tutorials: Python, JavaScript, Git &amp; More</button>
+                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="67c74d6473daa61c95803cfc"
+                        open
+                      >
+                        <summary class="article-expander__title">How to Build a MERN Stack To-Do App</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-build-a-mern-stack-to-do-app/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1741102112733/3aa43545-c095-4a47-8787-130b470f6ce1.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>This guide will walk you through building a full-stack MERN To-Do application. It covers setting up the environment, writing code to demonstrate core CRUD (Create, Read, Update, Delete) operations, and connecting the application to MongoDB Atlas, a f...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-03-03 datetime="2025-03-03T15:10:15.000Z">2025-03-03</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-03-03 datetime="2025-03-03T15:10:15.000Z"></time>
           </button>
@@ -531,54 +579,6 @@ Using &amp; Styling the Details Element originally published on CSS-Tricks, whic
                             <span class="media-object__text">
                               <span>Effective data storytelling isn’t a black box. By integrating UX research &amp; psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-25 datetime="2025-02-25T21:15:43.000Z">2025-02-25</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-25 datetime="2025-02-25T21:15:43.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp Programming Tutorials: Python, JavaScript, Git &amp; More</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="67be32ff803613c5edf10387"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Build a Reusable useSearch Hook in React</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1740494925672/3a87e5a2-5233-4fae-a652-4fbf5b325ded.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Recently, I needed to add a search feature to a React app. Naturally, I did what many developers would do—I turned to Google for help. The first article I found was about building a search and filter component in React. As I read through it, I couldn...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1398,8 +1398,8 @@ Compiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, wh
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/dhruvinsh/gfeed/actions/runs/13644071403">
-        <time id="build-timestamp" datetime="2025-03-04T01:18:52.177Z">2025-03-04T01:18:52.177Z</time>
+      <a class="footer-link" href="https://github.com/dhruvinsh/gfeed/actions/runs/13666352399">
+        <time id="build-timestamp" datetime="2025-03-05T01:18:52.340Z">2025-03-05T01:18:52.340Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

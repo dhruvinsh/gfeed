@@ -17,7 +17,7 @@
           "description": "Arguments?! Return values?! What's crazier, you can use functions right now in Chrome Canary! So, after reading and playing around, here are my key insights on what you need to know about CSS Functions.\nFunctions in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/functions-in-css/",
           "publishedOn": "2025-03-03T13:34:22.000Z",
-          "wordCount": 3474,
+          "wordCount": 3596,
           "title": "Functions in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/css-functions-mixins.png"
         },
@@ -37,7 +37,7 @@
           "description": "Now that we're 5+ years into the details element, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.\nUsing & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/using-styling-the-details-element/",
           "publishedOn": "2025-02-26T16:07:14.000Z",
-          "wordCount": 4075,
+          "wordCount": 4080,
           "title": "Using & Styling the Details Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/details-box.jpg"
         },
@@ -47,7 +47,7 @@
           "description": "The grain of truth was that even if you love your job, it can’t love you back. Yet what I’m hooked on isn’t one job, but the power of code and language.\nApplying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/applying-the-web-dev-mindset-to-dealing-with-life-challenges/",
           "publishedOn": "2025-02-24T13:42:16.000Z",
-          "wordCount": 5150,
+          "wordCount": 5182,
           "title": "Applying the Web Dev Mindset to Dealing With Life Challenges",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
         },
@@ -184,7 +184,7 @@
           "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
           "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
           "publishedOn": "2025-03-03T08:00:00.000Z",
-          "wordCount": 5348,
+          "wordCount": 5349,
           "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
@@ -199,7 +199,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
           "publishedOn": "2025-02-28T13:00:00.000Z",
-          "wordCount": 4683,
+          "wordCount": 4685,
           "title": "Sunshine And March Vibes (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png",
@@ -214,7 +214,7 @@
           "description": "Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.",
           "link": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
           "publishedOn": "2025-02-26T10:00:00.000Z",
-          "wordCount": 7287,
+          "wordCount": 7293,
           "title": "The Human Element: Using Research And Psychology To Elevate Data Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg",
@@ -229,7 +229,7 @@
           "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
           "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5797,
+          "wordCount": 5801,
           "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
@@ -321,6 +321,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67c74d6473daa61c95803cfc",
+          "author": "Casmir Onyekani",
+          "description": "This guide will walk you through building a full-stack MERN To-Do application. It covers setting up the environment, writing code to demonstrate core CRUD (Create, Read, Update, Delete) operations, and connecting the application to MongoDB Atlas, a f...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-mern-stack-to-do-app/",
+          "publishedOn": "2025-03-04T18:58:44.000Z",
+          "wordCount": 4488,
+          "title": "How to Build a MERN Stack To-Do App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741102112733/3aa43545-c095-4a47-8787-130b470f6ce1.png"
+        },
+        {
           "id": "67c5c657e04393229206983b",
           "author": "David Asaolu",
           "description": "Social media and real-time communication have transformed how people interact, making it easier to share ideas, collaborate, and learn from others, regardless of location. From professional networks to online study groups, these platforms allow vario...",
@@ -409,16 +419,6 @@
           "wordCount": 2522,
           "title": "If-Else vs Switch Case in JavaScript – Which One is Better?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740585035432/f829418f-0efc-4af9-b1c7-7233b6640abc.png"
-        },
-        {
-          "id": "67be32ff803613c5edf10387",
-          "author": "Spruce Emmanuel",
-          "description": "Recently, I needed to add a search feature to a React app. Naturally, I did what many developers would do—I turned to Google for help. The first article I found was about building a search and filter component in React. As I read through it, I couldn...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/",
-          "publishedOn": "2025-02-25T21:15:43.000Z",
-          "wordCount": 4008,
-          "title": "How to Build a Reusable useSearch Hook in React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494925672/3a87e5a2-5233-4fae-a652-4fbf5b325ded.png"
         }
       ]
     }

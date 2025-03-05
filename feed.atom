@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-04T01:18:52.196Z</id>
+    <id>urn:2025-03-05T01:18:52.375Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T01:18:52.196Z</updated>
+    <updated>2025-03-05T01:18:52.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a MERN Stack To-Do App]]></title>
+        <id>67c74d6473daa61c95803cfc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-mern-stack-to-do-app/"/>
+        <updated>2025-03-04T18:58:44.000Z</updated>
+        <summary type="html"><![CDATA[This guide will walk you through building a full-stack MERN To-Do application. It covers setting up the environment, writing code to demonstrate core CRUD (Create, Read, Update, Delete) operations, and connecting the application to MongoDB Atlas, a f...]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Social Learning Platform using Next.js, Stream, and Supabase]]></title>
         <id>67c5c657e04393229206983b</id>
@@ -156,16 +166,6 @@ Using & Styling the Details Element originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco &amp; Angelica Lo Duca)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Reusable useSearch Hook in React]]></title>
-        <id>67be32ff803613c5edf10387</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/"/>
-        <updated>2025-02-25T21:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I needed to add a search feature to a React app. Naturally, I did what many developers would do—I turned to Google for help. The first article I found was about building a search and filter component in React. As I read through it, I couldn...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
         </author>
     </entry>
     <entry>
