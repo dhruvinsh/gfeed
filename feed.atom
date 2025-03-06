@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-05T01:18:52.375Z</id>
+    <id>urn:2025-03-06T01:18:59.667Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-05T01:18:52.375Z</updated>
+    <updated>2025-03-06T01:18:59.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Grouping Selection List Items Together With CSS Grid]]></title>
+        <id>https://css-tricks.com/?p=384971</id>
+        <link href="https://css-tricks.com/grouping-selection-list-items-together-with-css-grid/"/>
+        <updated>2025-03-05T13:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Preethi demonstrates how to make a user interface to group selected items using CSS Grid using two different methods: the auto-fill keyword for stable layouts and the span keyword for flexible arrangements.
+Grouping Selection List Items Together With CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a MERN Stack To-Do App]]></title>
         <id>67c74d6473daa61c95803cfc</id>
@@ -337,27 +348,6 @@ Container query units: cqi and cqb originally published on CSS-Tricks, which is 
 Baseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrations: From Simple Data Transfer To Modern Composable Architectures]]></title>
-        <id>https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/</id>
-        <link href="https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/"/>
-        <updated>2025-02-04T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s web development landscape, the concept of a monolithic application has become increasingly rare. Modern applications are composed of multiple specialized services, each of which handles specific aspects of functionality. This shift didn’t happen overnight - it’s the result of decades of evolution in how we think about and implement data transfer between systems. Let’s explore this journey and see how it shapes modern architectures, particularly in the context of headless CMS solutions.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Edoardo Dusi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compiling CSS With Vite and Lightning CSS]]></title>
-        <id>https://css-tricks.com/?p=384050</id>
-        <link href="https://css-tricks.com/compiling-css-with-vite-and-lightning-css/"/>
-        <updated>2025-02-03T15:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Are partials the only thing keeping you writing CSS in Sass? With a little configuration, it's possible to compile partial CSS files without a Sass dependency. Ryan Trimble has the details.
-Compiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>
