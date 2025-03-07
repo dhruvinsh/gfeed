@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-06T01:18:59.667Z</id>
+    <id>urn:2025-03-07T01:19:33.975Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T01:18:59.667Z</updated>
+    <updated>2025-03-07T01:19:33.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn PyTorch in Five Projects]]></title>
+        <id>67c9e1b1b9163aa35c6dc2ee</id>
+        <link href="https://www.freecodecamp.org/news/learn-pytorch-in-five-projects/"/>
+        <updated>2025-03-06T17:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Deep learning has revolutionized the way we approach complex problems like image recognition, natural language processing, and even audio analysis. At the core of many deep learning applications is PyTorch, a powerful and flexible framework that allo...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe don’t use custom properties in shorthand properties]]></title>
+        <id>https://css-tricks.com/?p=385117</id>
+        <link href="https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/"/>
+        <updated>2025-03-06T16:33:55.000Z</updated>
+        <summary type="html"><![CDATA[This easily qualifies as a "gotcha" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.
+Maybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Fix Largest Contentful Issues With Subpart Analysis]]></title>
+        <id>https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/</id>
+        <link href="https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/"/>
+        <updated>2025-03-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Struggling with slow Largest Contentful Paint (LCP)? Newly introduced by Google, LCP subparts help you pinpoint where page load delays come from. Now, in the Chrome UX Report, this data provides real visitor insights to speed up your site and boost rankings. Matt Zeunert unpacks what LCP subparts are, what they mean for your website speed, and how you can measure them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Machine Learning Concepts plus Generative AI]]></title>
+        <id>67c90b95f53d5f98abdef4ce</id>
+        <link href="https://www.freecodecamp.org/news/learn-machine-learning-concepts-plus-generative-ai/"/>
+        <updated>2025-03-06T02:42:29.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning is revolutionizing industries by enabling computers to learn from data, recognize patterns, and make decisions without explicit programming. If you've ever been curious about how AI systems work, this course provides a structured int...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a simple MMO Game in Unity]]></title>
+        <id>67c90a7950860cc5f8cd4d06</id>
+        <link href="https://www.freecodecamp.org/news/create-a-simple-mmo-game-in-unity/"/>
+        <updated>2025-03-06T02:37:45.000Z</updated>
+        <summary type="html"><![CDATA[Creating an MMO (Massively Multiplayer Online) game may seem like a daunting task, but with the right tools and guidance, you can bring your game idea to life. Whether you're an aspiring game developer or just curious about how online multiplayer gam...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grouping Selection List Items Together With CSS Grid]]></title>
         <id>https://css-tricks.com/?p=384971</id>
@@ -129,26 +180,6 @@ A CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Vision Transformer from Scratch]]></title>
-        <id>67bf961287f2aad5763d1f78</id>
-        <link href="https://www.freecodecamp.org/news/build-a-vision-transformer-from-scratch/"/>
-        <updated>2025-02-26T22:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Transformers have revolutionized natural language processing, and now they are transforming computer vision as well. Vision Transformers (ViTs) apply the power of self-attention to image processing, offering state-of-the-art performance in tasks like...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code a Crossy Road Game Clone with React Three Fiber]]></title>
-        <id>67bf859b948d001fe6c9ab99</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-react-three-fiber/"/>
-        <updated>2025-02-26T21:20:27.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with React Three Fiber. In a previous tutorial, I taught you how to build this game using Three.js and vanilla JavaScript. And here, you’ll learn how to make the same...]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using & Styling the Details Element]]></title>
         <id>https://css-tricks.com/?p=383813</id>
         <link href="https://css-tricks.com/using-styling-the-details-element/"/>
@@ -157,16 +188,6 @@ A CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-
 Using & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If-Else vs Switch Case in JavaScript – Which One is Better?]]></title>
-        <id>67bf38654fdd15eb4db76755</id>
-        <link href="https://www.freecodecamp.org/news/if-else-vs-switch-case-in-javascript/"/>
-        <updated>2025-02-26T15:51:01.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript has been a popular programming language for almost 30 years now. Whether you’re using it for web applications, mobile applications, backend services, or even desktop applications, you’ll find that JavaScript has deep roots. Many of the lib...]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
         </author>
     </entry>
     <entry>
@@ -335,17 +356,6 @@ Make Any File a Template Using This Hidden macOS Tool originally published on CS
         <updated>2025-02-06T15:29:35.000Z</updated>
         <summary type="html"><![CDATA[A little gem from Kevin Powell's "HTML & CSS Tip of the Week" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.
 Container query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baseline Status in a WordPress Block]]></title>
-        <id>https://css-tricks.com/?p=382311</id>
-        <link href="https://css-tricks.com/baseline-status-in-a-wordpress-block/"/>
-        <updated>2025-02-05T14:58:18.000Z</updated>
-        <summary type="html"><![CDATA[The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.
-Baseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
