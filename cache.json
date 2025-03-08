@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384919",
+          "author": "Temani Afif",
+          "description": "In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.\nA CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/",
+          "publishedOn": "2025-03-07T13:14:12.000Z",
+          "wordCount": 4007,
+          "title": "A CSS-Only Star Rating Component and More! (Part 2)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385117",
           "author": "Geoff Graham",
           "description": "This easily qualifies as a \"gotcha\" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.\nMaybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/",
           "publishedOn": "2025-03-06T16:33:55.000Z",
-          "wordCount": 1833,
+          "wordCount": 1858,
           "title": "Maybe don’t use custom properties in shorthand properties",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code.png"
         },
@@ -37,7 +47,7 @@
           "description": "Arguments?! Return values?! What's crazier, you can use functions right now in Chrome Canary! So, after reading and playing around, here are my key insights on what you need to know about CSS Functions.\nFunctions in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/functions-in-css/",
           "publishedOn": "2025-03-03T13:34:22.000Z",
-          "wordCount": 3778,
+          "wordCount": 3864,
           "title": "Functions in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/css-functions-mixins.png"
         },
@@ -47,7 +57,7 @@
           "description": "In this article, you'll learn how to make a full-on star rating component out of nothing but a single input element and vanilla CSS.\nA CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/",
           "publishedOn": "2025-02-28T14:03:32.000Z",
-          "wordCount": 4233,
+          "wordCount": 4229,
           "title": "A CSS-Only Star Rating Component and More! (Part 1)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
         },
@@ -155,16 +165,6 @@
           "wordCount": 1762,
           "title": "Make Any File a Template Using This Hidden macOS Tool",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/macos-get-info.jpeg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384468",
-          "author": "Geoff Graham",
-          "description": "A little gem from Kevin Powell's \"HTML & CSS Tip of the Week\" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.\nContainer query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/container-query-units-cqi-and-cqb/",
-          "publishedOn": "2025-02-06T15:29:35.000Z",
-          "wordCount": 1839,
-          "title": "Container query units: cqi and cqb",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/cqmax.jpg"
         }
       ]
     },
@@ -209,7 +209,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
           "publishedOn": "2025-02-28T13:00:00.000Z",
-          "wordCount": 4670,
+          "wordCount": 4687,
           "title": "Sunshine And March Vibes (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png",
@@ -224,7 +224,7 @@
           "description": "Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.",
           "link": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
           "publishedOn": "2025-02-26T10:00:00.000Z",
-          "wordCount": 7289,
+          "wordCount": 7290,
           "title": "The Human Element: Using Research And Psychology To Elevate Data Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg",
@@ -239,7 +239,7 @@
           "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
           "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5777,
+          "wordCount": 5799,
           "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
@@ -254,7 +254,7 @@
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
           "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5415,
+          "wordCount": 5419,
           "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
@@ -299,7 +299,7 @@
           "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
           "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5714,
+          "wordCount": 5709,
           "title": "Taking RWD To The Extreme",
           "enclosure": {
             "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
@@ -315,6 +315,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67cb4f49e5cd83d2948ab4fe",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Caleb Curry. He's a software engineer and prolific computer science educator. He recently started mentoring dozens of developers directly and helping them with their skills and careers. We talk about...",
+          "link": "https://www.freecodecamp.org/news/learn-fewer-skills-but-go-deeper-the-caleb-curry-interview-podcast-163/",
+          "publishedOn": "2025-03-07T19:55:53.000Z",
+          "wordCount": 1107,
+          "title": "Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741377315559/585b915d-2390-45a7-9f4a-171dc134af5d.png"
+        },
+        {
+          "id": "67cb2cab98825a8b61ca9121",
+          "author": "Chaitanya Rahalkar",
+          "description": "In this tutorial, we’ll build a simplified, AI-flavored SIEM log analysis system using Python. Our focus will be on log analysis and anomaly detection. We’ll walk through ingesting logs, detecting anomalies with a lightweight machine learning model, ...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-python-siem-system-using-ai-and-llms/",
+          "publishedOn": "2025-03-07T17:28:11.000Z",
+          "wordCount": 3920,
+          "title": "How to Create a Python SIEM System Using AI and LLMs for Log Analysis and Anomaly Detection",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741368457380/900d7d5b-cffc-4175-b5a5-4d7361ea383d.png"
+        },
         {
           "id": "67c9e1b1b9163aa35c6dc2ee",
           "author": "Beau Carnes",
@@ -394,26 +414,6 @@
           "wordCount": 1124,
           "title": "How to become a developer in your 30s with Anjana Vakil [Podcast #162]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740760825697/bcf3c6af-4c0c-4ec4-8b80-d24bfe131a4d.png"
-        },
-        {
-          "id": "67c07627b9cb8c91fbfe2e7c",
-          "author": "Beau Carnes",
-          "description": "Linear algebra is a fundamental building block of machine learning. Whether you are working with deep learning models, optimization algorithms, or computer vision applications, understanding linear algebra concepts can give you a solid mathematical f...",
-          "link": "https://www.freecodecamp.org/news/learn-linear-algebra-for-machine-learning/",
-          "publishedOn": "2025-02-27T14:26:47.000Z",
-          "wordCount": 1397,
-          "title": "Learn Linear Algebra for Machine Learning",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740666382320/d655b144-61c2-4a24-91b2-fa3ab0cacea9.png"
-        },
-        {
-          "id": "67bf99792e5bf2f98ee2466d",
-          "author": "Beau Carnes",
-          "description": "AI-powered chat applications are becoming an essential part of modern web development, enabling users to interact with intelligent conversational agents. Whether for customer support, virtual assistants, or educational tools, building your own AI cha...",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-chat-application-with-the-mern-stack/",
-          "publishedOn": "2025-02-26T22:45:13.000Z",
-          "wordCount": 1330,
-          "title": "Build an AI Chat Application with the MERN Stack",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740666306092/460598ee-3036-4395-ad92-7c8db9e70ae0.png"
         }
       ]
     }

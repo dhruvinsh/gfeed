@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-07T01:19:33.975Z</id>
+    <id>urn:2025-03-08T01:03:41.614Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T01:19:33.975Z</updated>
+    <updated>2025-03-08T01:03:41.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]]]></title>
+        <id>67cb4f49e5cd83d2948ab4fe</id>
+        <link href="https://www.freecodecamp.org/news/learn-fewer-skills-but-go-deeper-the-caleb-curry-interview-podcast-163/"/>
+        <updated>2025-03-07T19:55:53.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Caleb Curry. He's a software engineer and prolific computer science educator. He recently started mentoring dozens of developers directly and helping them with their skills and careers. We talk about...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Python SIEM System Using AI and LLMs for Log Analysis and Anomaly Detection]]></title>
+        <id>67cb2cab98825a8b61ca9121</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-python-siem-system-using-ai-and-llms/"/>
+        <updated>2025-03-07T17:28:11.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we’ll build a simplified, AI-flavored SIEM log analysis system using Python. Our focus will be on log analysis and anomaly detection. We’ll walk through ingesting logs, detecting anomalies with a lightweight machine learning model, ...]]></summary>
+        <author>
+            <name>Chaitanya Rahalkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CSS-Only Star Rating Component and More! (Part 2)]]></title>
+        <id>https://css-tricks.com/?p=384919</id>
+        <link href="https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/"/>
+        <updated>2025-03-07T13:14:12.000Z</updated>
+        <summary type="html"><![CDATA[In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.
+A CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn PyTorch in Five Projects]]></title>
         <id>67c9e1b1b9163aa35c6dc2ee</id>
@@ -157,26 +188,6 @@ A CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Linear Algebra for Machine Learning]]></title>
-        <id>67c07627b9cb8c91fbfe2e7c</id>
-        <link href="https://www.freecodecamp.org/news/learn-linear-algebra-for-machine-learning/"/>
-        <updated>2025-02-27T14:26:47.000Z</updated>
-        <summary type="html"><![CDATA[Linear algebra is a fundamental building block of machine learning. Whether you are working with deep learning models, optimization algorithms, or computer vision applications, understanding linear algebra concepts can give you a solid mathematical f...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an AI Chat Application with the MERN Stack]]></title>
-        <id>67bf99792e5bf2f98ee2466d</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-chat-application-with-the-mern-stack/"/>
-        <updated>2025-02-26T22:45:13.000Z</updated>
-        <summary type="html"><![CDATA[AI-powered chat applications are becoming an essential part of modern web development, enabling users to interact with intelligent conversational agents. Whether for customer support, virtual assistants, or educational tools, building your own AI cha...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -347,17 +358,6 @@ Make Any File a Template Using This Hidden macOS Tool originally published on CS
         <summary type="html"><![CDATA[Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tomasz Jakut)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Container query units: cqi and cqb]]></title>
-        <id>https://css-tricks.com/?p=384468</id>
-        <link href="https://css-tricks.com/container-query-units-cqi-and-cqb/"/>
-        <updated>2025-02-06T15:29:35.000Z</updated>
-        <summary type="html"><![CDATA[A little gem from Kevin Powell's "HTML & CSS Tip of the Week" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.
-Container query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
