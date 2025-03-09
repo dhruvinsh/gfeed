@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-08T01:03:41.614Z</id>
+    <id>urn:2025-03-09T01:09:01.017Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T01:03:41.614Z</updated>
+    <updated>2025-03-09T01:09:01.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Software Design Basics: Key Phases and Best Practices]]></title>
+        <id>67cb6446f54b40e1e9144db0</id>
+        <link href="https://www.freecodecamp.org/news/learn-software-design-basics/"/>
+        <updated>2025-03-07T21:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Coding has become one of the most common tasks in modern society. With computers now central to almost every field, more people are designing algorithms and writing code to solve various problems. From healthcare to finance, robust software systems p...]]></summary>
+        <author>
+            <name>Soham Banerjee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]]]></title>
         <id>67cb4f49e5cd83d2948ab4fe</id>
@@ -157,16 +167,6 @@ Functions in CSS?! originally published on CSS-Tricks, which is part of the Digi
         <summary type="html"><![CDATA[In React applications, handling API (Application Programming Interface) responses can be challenging. You might encounter data that’s missing crucial fields, that’s formatted unexpectedly, or that simply doesn’t match what you anticipated. This incon...]]></summary>
         <author>
             <name>Emore Ogheneyoma Lawrence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to become a developer in your 30s with Anjana Vakil [Podcast #162]]]></title>
-        <id>67c1e77814978ff66bb8a865</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-developer-in-your-30s-anjana-vakil-podcast-162/"/>
-        <updated>2025-02-28T16:42:32.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Anjana Vakil. She left academia to learn to code and got her first developer job in her 30s. Anjana was an English teacher who studied computational linguistics, and found building software to be mor...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -348,16 +348,6 @@ Organizing Design System Component Patterns With CSS Cascade Layers originally p
 Make Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking RWD To The Extreme]]></title>
-        <id>https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/</id>
-        <link href="https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/"/>
-        <updated>2025-02-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tomasz Jakut)</name>
         </author>
     </entry>
 </feed>
