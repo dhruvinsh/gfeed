@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-10T01:07:05.762Z</id>
+    <id>urn:2025-03-11T01:19:36.548Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T01:07:05.762Z</updated>
+    <updated>2025-03-11T01:19:36.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smashing Meets Accessibility]]></title>
+        <id>https://css-tricks.com/?p=385112</id>
+        <link href="https://css-tricks.com/smashing-meets-accessibility/"/>
+        <updated>2025-03-10T15:08:47.000Z</updated>
+        <summary type="html"><![CDATA[The videos from Smashing Magazine's recent event on accessibility were just posted the other day. I was invited to host the panel discussion with the speakers, including a couple of personal heroes of mine, Stéphanie Walter and Sarah Fossheim. But I was just as stoked to meet Kardo Ayoub who shared his deeply personal story as a designer with a major visual impairment.
+Smashing Meets Accessibility originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enforce Type Safety in FormData with TypeScript]]></title>
+        <id>67cef1f13c2aba931eee9785</id>
+        <link href="https://www.freecodecamp.org/news/how-to-enforce-type-safety-in-formdata-with-typescript/"/>
+        <updated>2025-03-10T14:06:41.000Z</updated>
+        <summary type="html"><![CDATA[When working with the FormData interface in JavaScript, where data is appended as key/value pairs, there's no built-in way to enforce type safety on the keys you append. This can lead to typos, missing keys, and unexpected runtime errors. But in Type...]]></summary>
+        <author>
+            <name>Olabisi Olaoye</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Software Design Basics: Key Phases and Best Practices]]></title>
         <id>67cb6446f54b40e1e9144db0</id>
@@ -157,16 +178,6 @@ Functions in CSS?! originally published on CSS-Tricks, which is part of the Digi
         <summary type="html"><![CDATA[Git has many concepts and commands that you’ll need to understand before you feel confident using it. Some of these concepts may sound trivial, especially to someone who has worked with Git before. But like most Git and coding concepts, even the “sim...]]></summary>
         <author>
             <name>Jacob Stopak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Zod for React API Validation]]></title>
-        <id>67c1f994107ebba152ad9e79</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-zod-for-react-api-validation/"/>
-        <updated>2025-02-28T17:59:48.000Z</updated>
-        <summary type="html"><![CDATA[In React applications, handling API (Application Programming Interface) responses can be challenging. You might encounter data that’s missing crucial fields, that’s formatted unexpectedly, or that simply doesn’t match what you anticipated. This incon...]]></summary>
-        <author>
-            <name>Emore Ogheneyoma Lawrence</name>
         </author>
     </entry>
     <entry>
@@ -337,17 +348,6 @@ Typecasting and Viewport Transitions in CSS With tan(atan2()) originally publis
 Organizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make Any File a Template Using This Hidden macOS Tool]]></title>
-        <id>https://css-tricks.com/?p=384563</id>
-        <link href="https://css-tricks.com/make-any-file-a-template-using-this-hidden-macos-tool/"/>
-        <updated>2025-02-10T13:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Stationery Pad is a handy way to nix a step in your workflow if you regularly use document templates on your Mac. The long-standing Finder feature essentially tells a file’s parent application to open a copy of it by default, ensuring that the original file remains unedited.
-Make Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
