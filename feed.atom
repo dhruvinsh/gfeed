@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T01:19:36.548Z</id>
+    <id>urn:2025-03-12T01:18:42.661Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T01:19:36.548Z</updated>
+    <updated>2025-03-12T01:18:42.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Powering Search With Astro Actions and Fuse.js]]></title>
+        <id>https://css-tricks.com/?p=384941</id>
+        <link href="https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/"/>
+        <updated>2025-03-11T15:26:10.000Z</updated>
+        <summary type="html"><![CDATA[With Astro, we can generate most of our site during our build, but have a small bit of server-side code that can handle search functionality using something like Fuse.js. In this demo, we’ll use Fuse to search through a set of personal “bookmarks” that are generated at build time, but return back proper results from a server call.
+Powering Search With Astro Actions and Fuse.js originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Bryan Robinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build Confidence In Your UX Work]]></title>
+        <id>https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/</id>
+        <link href="https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/"/>
+        <updated>2025-03-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UX initiatives are often seen as a disruption rather than a means to solving existing problems in an organization. In this post, we’ll explore how you can build trust for your UX work, gain support, and make a noticeable impact. Part of [Measure UX and Design Impact](https://measure-ux.com/) by yours truly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smashing Meets Accessibility]]></title>
         <id>https://css-tricks.com/?p=385112</id>
@@ -89,9 +110,9 @@ Maybe don’t use custom properties in shorthand properties originally published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Fix Largest Contentful Issues With Subpart Analysis]]></title>
-        <id>https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/</id>
-        <link href="https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/"/>
+        <title type="html"><![CDATA[How To Fix Largest Contentful Paint Issues With Subpart Analysis]]></title>
+        <id>https://smashingmagazine.com/2025/03/how-to-fix-largest-contentful-issues-with-subpart-analysis/</id>
+        <link href="https://smashingmagazine.com/2025/03/how-to-fix-largest-contentful-issues-with-subpart-analysis/"/>
         <updated>2025-03-06T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Struggling with slow Largest Contentful Paint (LCP)? Newly introduced by Google, LCP subparts help you pinpoint where page load delays come from. Now, in the Chrome UX Report, this data provides real visitor insights to speed up your site and boost rankings. Matt Zeunert unpacks what LCP subparts are, what they mean for your website speed, and how you can measure them.]]></summary>
         <author>
@@ -337,17 +358,6 @@ Scroll Driven Animations Notebook originally published on CSS-Tricks, which is p
 Typecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organizing Design System Component Patterns With CSS Cascade Layers]]></title>
-        <id>https://css-tricks.com/?p=384306</id>
-        <link href="https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/"/>
-        <updated>2025-02-10T14:06:52.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with "top-level" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.
-Organizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>

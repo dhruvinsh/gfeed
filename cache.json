@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384941",
+          "author": "Bryan Robinson",
+          "description": "With Astro, we can generate most of our site during our build, but have a small bit of server-side code that can handle search functionality using something like Fuse.js. In this demo, we’ll use Fuse to search through a set of personal “bookmarks” that are generated at build time, but return back proper results from a server call.\nPowering Search With Astro Actions and Fuse.js originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/",
+          "publishedOn": "2025-03-11T15:26:10.000Z",
+          "wordCount": 5170,
+          "title": "Powering Search With Astro Actions and Fuse.js",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/astro-search.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385112",
           "author": "Geoff Graham",
           "description": "The videos from Smashing Magazine's recent event on accessibility were just posted the other day. I was invited to host the panel discussion with the speakers, including a couple of personal heroes of mine, Stéphanie Walter and Sarah Fossheim. But I was just as stoked to meet Kardo Ayoub who shared his deeply personal story as a designer with a major visual impairment.\nSmashing Meets Accessibility originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +37,7 @@
           "description": "In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.\nA CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/",
           "publishedOn": "2025-03-07T13:14:12.000Z",
-          "wordCount": 4007,
+          "wordCount": 4073,
           "title": "A CSS-Only Star Rating Component and More! (Part 2)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
         },
@@ -155,16 +165,6 @@
           "wordCount": 3292,
           "title": "Typecasting and Viewport Transitions in CSS With tan(atan2())",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/animation-zone.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384306",
-          "author": "Ryan Trimble",
-          "description": "I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with \"top-level\" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.\nOrganizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/",
-          "publishedOn": "2025-02-10T14:06:52.000Z",
-          "wordCount": 4125,
-          "title": "Organizing Design System Component Patterns With CSS Cascade Layers",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/10/signup-buttons.png"
         }
       ]
     },
@@ -174,13 +174,28 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/",
+          "id": "https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "UX initiatives are often seen as a disruption rather than a means to solving existing problems in an organization. In this post, we’ll explore how you can build trust for your UX work, gain support, and make a noticeable impact. Part of [Measure UX and Design Impact](https://measure-ux.com/) by yours truly.",
+          "link": "https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/",
+          "publishedOn": "2025-03-11T15:00:00.000Z",
+          "wordCount": 3834,
+          "title": "How To Build Confidence In Your UX Work",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-to-build-confidence-in-your-ux-work/onion-layers-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-to-build-confidence-in-your-ux-work/onion-layers-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/03/how-to-fix-largest-contentful-issues-with-subpart-analysis/",
           "author": "hello@smashingmagazine.com (Matt Zeunert)",
           "description": "Struggling with slow Largest Contentful Paint (LCP)? Newly introduced by Google, LCP subparts help you pinpoint where page load delays come from. Now, in the Chrome UX Report, this data provides real visitor insights to speed up your site and boost rankings. Matt Zeunert unpacks what LCP subparts are, what they mean for your website speed, and how you can measure them.",
-          "link": "https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/",
+          "link": "https://smashingmagazine.com/2025/03/how-to-fix-largest-contentful-issues-with-subpart-analysis/",
           "publishedOn": "2025-03-06T10:00:00.000Z",
-          "wordCount": 3967,
-          "title": "How To Fix Largest Contentful Issues With Subpart Analysis",
+          "wordCount": 3969,
+          "title": "How To Fix Largest Contentful Paint Issues With Subpart Analysis",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg",
             "length": "0",
@@ -194,7 +209,7 @@
           "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
           "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
           "publishedOn": "2025-03-03T08:00:00.000Z",
-          "wordCount": 5342,
+          "wordCount": 5354,
           "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
@@ -209,7 +224,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
           "publishedOn": "2025-02-28T13:00:00.000Z",
-          "wordCount": 4678,
+          "wordCount": 4672,
           "title": "Sunshine And March Vibes (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png",
@@ -224,7 +239,7 @@
           "description": "Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.",
           "link": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
           "publishedOn": "2025-02-26T10:00:00.000Z",
-          "wordCount": 7279,
+          "wordCount": 7296,
           "title": "The Human Element: Using Research And Psychology To Elevate Data Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg",
@@ -239,7 +254,7 @@
           "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
           "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5788,
+          "wordCount": 5792,
           "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
@@ -254,7 +269,7 @@
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
           "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5408,
+          "wordCount": 5399,
           "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
