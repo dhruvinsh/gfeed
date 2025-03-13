@@ -37,7 +37,7 @@
           "description": "In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.\nA CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/",
           "publishedOn": "2025-03-07T13:14:12.000Z",
-          "wordCount": 4073,
+          "wordCount": 4123,
           "title": "A CSS-Only Star Rating Component and More! (Part 2)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
         },
@@ -209,7 +209,7 @@
           "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
           "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
           "publishedOn": "2025-03-03T08:00:00.000Z",
-          "wordCount": 5354,
+          "wordCount": 5339,
           "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
@@ -224,7 +224,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
           "publishedOn": "2025-02-28T13:00:00.000Z",
-          "wordCount": 4672,
+          "wordCount": 4678,
           "title": "Sunshine And March Vibes (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png",
@@ -239,7 +239,7 @@
           "description": "Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.",
           "link": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
           "publishedOn": "2025-02-26T10:00:00.000Z",
-          "wordCount": 7296,
+          "wordCount": 7289,
           "title": "The Human Element: Using Research And Psychology To Elevate Data Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg",
@@ -254,7 +254,7 @@
           "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
           "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5792,
+          "wordCount": 5797,
           "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
@@ -269,7 +269,7 @@
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
           "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5399,
+          "wordCount": 5412,
           "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
@@ -315,6 +315,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67d1f8cced96446e8fad7db9",
+          "author": "Prankur Pandey",
+          "description": "Whenever I publish a new article, I receive countless emails and DMs across social media asking, \"How can I become a Full Stack Developer like you? How much DSA do I need to know? How long does it take?\" Well, I always say, \"Wait for my next tutorial...",
+          "link": "https://www.freecodecamp.org/news/become-a-full-stack-developer-and-get-a-job/",
+          "publishedOn": "2025-03-12T21:12:44.000Z",
+          "wordCount": 11498,
+          "title": "How to Become a Full-Stack Developer in 2025 (and Get a Job) – A Handbook for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741296524045/6d9bed13-d3bb-4fb3-95ac-45f5dd4f2033.png"
+        },
+        {
+          "id": "67d1f7a9ed7b17e04fb90aa7",
+          "author": "Ben",
+          "description": "I’ve been writing a lot of articles lately on Agile methodologies. And for this one, I wanted to cover how to get the most out of a Sprint Retrospective. I’ve been participating and running Sprint Retrospectives now for 15 years and I truly believe t...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-a-sprint-retrospective-start-stop-continue-method/",
+          "publishedOn": "2025-03-12T21:07:53.000Z",
+          "wordCount": 2204,
+          "title": "How to Run a Sprint Retrospective Using the Start, Stop, Continue Method",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494845460/a0181901-d715-49ce-881b-936b1143d341.png"
+        },
         {
           "id": "67cef1f13c2aba931eee9785",
           "author": "Olabisi Olaoye",
@@ -394,26 +414,6 @@
           "wordCount": 4488,
           "title": "How to Build a MERN Stack To-Do App",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741102112733/3aa43545-c095-4a47-8787-130b470f6ce1.png"
-        },
-        {
-          "id": "67c5c657e04393229206983b",
-          "author": "David Asaolu",
-          "description": "Social media and real-time communication have transformed how people interact, making it easier to share ideas, collaborate, and learn from others, regardless of location. From professional networks to online study groups, these platforms allow vario...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-social-learning-platform-using-nextjs-stream-and-supabase/",
-          "publishedOn": "2025-03-03T15:10:15.000Z",
-          "wordCount": 7341,
-          "title": "How to Build a Social Learning Platform using Next.js, Stream, and Supabase",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741009946459/dba65929-1b65-4278-9601-4d047042753a.png"
-        },
-        {
-          "id": "67c1cfa78df3594301bc3fef",
-          "author": "Jacob Stopak",
-          "description": "Git has many concepts and commands that you’ll need to understand before you feel confident using it. Some of these concepts may sound trivial, especially to someone who has worked with Git before. But like most Git and coding concepts, even the “sim...",
-          "link": "https://www.freecodecamp.org/news/learn-git-through-gamification/",
-          "publishedOn": "2025-03-02T06:00:00.000Z",
-          "wordCount": 2624,
-          "title": "Learn Git through Gamification – A Visual Guide to Key Version Control Concepts",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740686401633/ffd9ac3c-668a-47bf-b2ba-f7cee14e74a8.webp"
         }
       ]
     }

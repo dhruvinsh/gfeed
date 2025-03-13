@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-12T01:18:42.661Z</id>
+    <id>urn:2025-03-13T01:20:09.614Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-12T01:18:42.661Z</updated>
+    <updated>2025-03-13T01:20:09.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Full-Stack Developer in 2025 (and Get a Job) – A Handbook for Beginners]]></title>
+        <id>67d1f8cced96446e8fad7db9</id>
+        <link href="https://www.freecodecamp.org/news/become-a-full-stack-developer-and-get-a-job/"/>
+        <updated>2025-03-12T21:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Whenever I publish a new article, I receive countless emails and DMs across social media asking, "How can I become a Full Stack Developer like you? How much DSA do I need to know? How long does it take?" Well, I always say, "Wait for my next tutorial...]]></summary>
+        <author>
+            <name>Prankur Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run a Sprint Retrospective Using the Start, Stop, Continue Method]]></title>
+        <id>67d1f7a9ed7b17e04fb90aa7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-a-sprint-retrospective-start-stop-continue-method/"/>
+        <updated>2025-03-12T21:07:53.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been writing a lot of articles lately on Agile methodologies. And for this one, I wanted to cover how to get the most out of a Sprint Retrospective. I’ve been participating and running Sprint Retrospectives now for 15 years and I truly believe t...]]></summary>
+        <author>
+            <name>Ben</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Powering Search With Astro Actions and Fuse.js]]></title>
         <id>https://css-tricks.com/?p=384941</id>
@@ -161,16 +181,6 @@ Grouping Selection List Items Together With CSS Grid originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Social Learning Platform using Next.js, Stream, and Supabase]]></title>
-        <id>67c5c657e04393229206983b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-social-learning-platform-using-nextjs-stream-and-supabase/"/>
-        <updated>2025-03-03T15:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Social media and real-time communication have transformed how people interact, making it easier to share ideas, collaborate, and learn from others, regardless of location. From professional networks to online study groups, these platforms allow vario...]]></summary>
-        <author>
-            <name>David Asaolu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Functions in CSS?!]]></title>
         <id>https://css-tricks.com/?p=384685</id>
         <link href="https://css-tricks.com/functions-in-css/"/>
@@ -189,16 +199,6 @@ Functions in CSS?! originally published on CSS-Tricks, which is part of the Digi
         <summary type="html"><![CDATA[Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kevin Leary)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Git through Gamification – A Visual Guide to Key Version Control Concepts]]></title>
-        <id>67c1cfa78df3594301bc3fef</id>
-        <link href="https://www.freecodecamp.org/news/learn-git-through-gamification/"/>
-        <updated>2025-03-02T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Git has many concepts and commands that you’ll need to understand before you feel confident using it. Some of these concepts may sound trivial, especially to someone who has worked with Git before. But like most Git and coding concepts, even the “sim...]]></summary>
-        <author>
-            <name>Jacob Stopak</name>
         </author>
     </entry>
     <entry>
