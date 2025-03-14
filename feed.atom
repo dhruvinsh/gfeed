@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-13T01:20:09.614Z</id>
+    <id>urn:2025-03-14T01:18:42.000Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-13T01:20:09.614Z</updated>
+    <updated>2025-03-14T01:18:42.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Data Synchronization for Edge Computing with SymmetricDS]]></title>
+        <id>67d2cc837d28795ed4ea4d3e</id>
+        <link href="https://www.freecodecamp.org/news/data-synchronization-for-edge-computing/"/>
+        <updated>2025-03-13T12:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Edge computing is a distributed system design that moves computation and data storage to where it’s most required – at the ‘edge’ of the network. Moving these tasks to the edge of the network enables computing in real time, which reduces the cost of ...]]></summary>
+        <author>
+            <name>Divya Valsala Saratchandran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Prevent WordPress SQL Injection Attacks]]></title>
+        <id>https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/</id>
+        <link href="https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/"/>
+        <updated>2025-03-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Anders Johansson)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Essentials]]></title>
+        <id>67d23a5a68fbee7d6b2ec767</id>
+        <link href="https://www.freecodecamp.org/news/javascript-essentials/"/>
+        <updated>2025-03-13T01:52:26.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is the backbone of modern web development, powering everything from interactive websites to complex web applications. Object-oriented programming (OOP), prototypical inheritance, ES6 classes, Node.js, and asynchronous programming are all k...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Become a Full-Stack Developer in 2025 (and Get a Job) – A Handbook for Beginners]]></title>
         <id>67d1f8cced96446e8fad7db9</id>
@@ -150,16 +180,6 @@ Maybe don’t use custom properties in shorthand properties originally published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create a simple MMO Game in Unity]]></title>
-        <id>67c90a7950860cc5f8cd4d06</id>
-        <link href="https://www.freecodecamp.org/news/create-a-simple-mmo-game-in-unity/"/>
-        <updated>2025-03-06T02:37:45.000Z</updated>
-        <summary type="html"><![CDATA[Creating an MMO (Massively Multiplayer Online) game may seem like a daunting task, but with the right tools and guidance, you can bring your game idea to life. Whether you're an aspiring game developer or just curious about how online multiplayer gam...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grouping Selection List Items Together With CSS Grid]]></title>
         <id>https://css-tricks.com/?p=384971</id>
         <link href="https://css-tricks.com/grouping-selection-list-items-together-with-css-grid/"/>
@@ -168,16 +188,6 @@ Maybe don’t use custom properties in shorthand properties originally published
 Grouping Selection List Items Together With CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a MERN Stack To-Do App]]></title>
-        <id>67c74d6473daa61c95803cfc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-mern-stack-to-do-app/"/>
-        <updated>2025-03-04T18:58:44.000Z</updated>
-        <summary type="html"><![CDATA[This guide will walk you through building a full-stack MERN To-Do application. It covers setting up the environment, writing code to demonstrate core CRUD (Create, Read, Update, Delete) operations, and connecting the application to MongoDB Atlas, a f...]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
         </author>
     </entry>
     <entry>

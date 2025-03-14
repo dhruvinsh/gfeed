@@ -17,7 +17,7 @@
           "description": "With Astro, we can generate most of our site during our build, but have a small bit of server-side code that can handle search functionality using something like Fuse.js. In this demo, we’ll use Fuse to search through a set of personal “bookmarks” that are generated at build time, but return back proper results from a server call.\nPowering Search With Astro Actions and Fuse.js originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/",
           "publishedOn": "2025-03-11T15:26:10.000Z",
-          "wordCount": 5170,
+          "wordCount": 5250,
           "title": "Powering Search With Astro Actions and Fuse.js",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/astro-search.jpg"
         },
@@ -174,6 +174,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
+          "author": "hello@smashingmagazine.com (Anders Johansson)",
+          "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
+          "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
+          "publishedOn": "2025-03-13T08:00:00.000Z",
+          "wordCount": 5223,
+          "title": "How To Prevent WordPress SQL Injection Attacks",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "UX initiatives are often seen as a disruption rather than a means to solving existing problems in an organization. In this post, we’ll explore how you can build trust for your UX work, gain support, and make a noticeable impact. Part of [Measure UX and Design Impact](https://measure-ux.com/) by yours truly.",
@@ -209,7 +224,7 @@
           "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
           "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
           "publishedOn": "2025-03-03T08:00:00.000Z",
-          "wordCount": 5339,
+          "wordCount": 5336,
           "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
@@ -224,7 +239,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
           "publishedOn": "2025-02-28T13:00:00.000Z",
-          "wordCount": 4678,
+          "wordCount": 4667,
           "title": "Sunshine And March Vibes (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png",
@@ -239,7 +254,7 @@
           "description": "Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.",
           "link": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
           "publishedOn": "2025-02-26T10:00:00.000Z",
-          "wordCount": 7289,
+          "wordCount": 7291,
           "title": "The Human Element: Using Research And Psychology To Elevate Data Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg",
@@ -254,7 +269,7 @@
           "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
           "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5797,
+          "wordCount": 5777,
           "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
@@ -269,7 +284,7 @@
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
           "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5412,
+          "wordCount": 5415,
           "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
@@ -315,6 +330,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67d2cc837d28795ed4ea4d3e",
+          "author": "Divya Valsala Saratchandran",
+          "description": "Edge computing is a distributed system design that moves computation and data storage to where it’s most required – at the ‘edge’ of the network. Moving these tasks to the edge of the network enables computing in real time, which reduces the cost of ...",
+          "link": "https://www.freecodecamp.org/news/data-synchronization-for-edge-computing/",
+          "publishedOn": "2025-03-13T12:16:03.000Z",
+          "wordCount": 2797,
+          "title": "Data Synchronization for Edge Computing with SymmetricDS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741798507678/d66ed2f3-4116-49ce-a4eb-06fcb7c36dc7.png"
+        },
+        {
+          "id": "67d23a5a68fbee7d6b2ec767",
+          "author": "Beau Carnes",
+          "description": "JavaScript is the backbone of modern web development, powering everything from interactive websites to complex web applications. Object-oriented programming (OOP), prototypical inheritance, ES6 classes, Node.js, and asynchronous programming are all k...",
+          "link": "https://www.freecodecamp.org/news/javascript-essentials/",
+          "publishedOn": "2025-03-13T01:52:26.000Z",
+          "wordCount": 1217,
+          "title": "JavaScript Essentials",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741830729776/b8ebbaab-f0a4-43ae-a820-e305b72072a9.png"
+        },
         {
           "id": "67d1f8cced96446e8fad7db9",
           "author": "Prankur Pandey",
@@ -394,26 +429,6 @@
           "wordCount": 1232,
           "title": "Learn Machine Learning Concepts plus Generative AI",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741228930362/5c9e0d40-e79d-4aba-970c-ea5949a92b92.png"
-        },
-        {
-          "id": "67c90a7950860cc5f8cd4d06",
-          "author": "Beau Carnes",
-          "description": "Creating an MMO (Massively Multiplayer Online) game may seem like a daunting task, but with the right tools and guidance, you can bring your game idea to life. Whether you're an aspiring game developer or just curious about how online multiplayer gam...",
-          "link": "https://www.freecodecamp.org/news/create-a-simple-mmo-game-in-unity/",
-          "publishedOn": "2025-03-06T02:37:45.000Z",
-          "wordCount": 1218,
-          "title": "Create a simple MMO Game in Unity",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741228630313/676dbb39-5da0-421e-aa31-8760b7f994a2.png"
-        },
-        {
-          "id": "67c74d6473daa61c95803cfc",
-          "author": "Casmir Onyekani",
-          "description": "This guide will walk you through building a full-stack MERN To-Do application. It covers setting up the environment, writing code to demonstrate core CRUD (Create, Read, Update, Delete) operations, and connecting the application to MongoDB Atlas, a f...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-mern-stack-to-do-app/",
-          "publishedOn": "2025-03-04T18:58:44.000Z",
-          "wordCount": 4488,
-          "title": "How to Build a MERN Stack To-Do App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741102112733/3aa43545-c095-4a47-8787-130b470f6ce1.png"
         }
       ]
     }
