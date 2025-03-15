@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-14T01:18:42.000Z</id>
+    <id>urn:2025-03-15T01:18:13.317Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T01:18:42.000Z</updated>
+    <updated>2025-03-15T01:18:13.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Connect, Read, and Process Sensor Data on Microcontrollers – A Beginner's Guide]]></title>
+        <id>67d45997c9e7f2d42bb1c540</id>
+        <link href="https://www.freecodecamp.org/news/connect-read-process-sensor-data-on-microcontrollers-for-beginners/"/>
+        <updated>2025-03-14T16:30:15.000Z</updated>
+        <summary type="html"><![CDATA[In today’s world, computers are ubiquitous and generally serve two primary purposes. The first is general-purpose computing, where they handle a wide range of tasks, including running diverse applications and programs. Examples include laptops, deskt...]]></summary>
+        <author>
+            <name>Soham Banerjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Components Demystified]]></title>
+        <id>https://css-tricks.com/?p=383422</id>
+        <link href="https://css-tricks.com/web-components-demystified/"/>
+        <updated>2025-03-14T12:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Scott Jehl released a course called Web Components Demystified. This is my full set of notes from Scott's course. You'll still want to take the course on your own, and I encourage you to because Scott is an excellent teacher who makes all of this stuff extremely accessible, even to noobs like me.
+Web Components Demystified originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn AWS Incognito for Authentication]]></title>
+        <id>67d38995d1f16f987c9eb503</id>
+        <link href="https://www.freecodecamp.org/news/learn-aws-incognito-for-authentication/"/>
+        <updated>2025-03-14T01:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Whether you're building a web app, mobile app, or API, understanding how to implement robust authentication and authorization is a critical skill. AWS Cognito is a powerful ability that simplifies user management, authentication, and access control, ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Exploit the EternalBlue Vulnerability on Windows – A Step-by-Step Guide]]></title>
+        <id>67d35b3cba576fa68285a197</id>
+        <link href="https://www.freecodecamp.org/news/how-to-exploit-the-eternalblue-vulnerability-on-windows/"/>
+        <updated>2025-03-13T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve followed cybersecurity news over the past few years, you’ve likely come across EternalBlue. This critical Windows exploit played a key role in the widespread WannaCry ransomware attack that affected systems in over 150 countries. In this ar...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Synchronization for Edge Computing with SymmetricDS]]></title>
         <id>67d2cc837d28795ed4ea4d3e</id>
@@ -118,16 +159,6 @@ Smashing Meets Accessibility originally published on CSS-Tricks, which is part o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a Python SIEM System Using AI and LLMs for Log Analysis and Anomaly Detection]]></title>
-        <id>67cb2cab98825a8b61ca9121</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-python-siem-system-using-ai-and-llms/"/>
-        <updated>2025-03-07T17:28:11.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we’ll build a simplified, AI-flavored SIEM log analysis system using Python. Our focus will be on log analysis and anomaly detection. We’ll walk through ingesting logs, detecting anomalies with a lightweight machine learning model, ...]]></summary>
-        <author>
-            <name>Chaitanya Rahalkar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A CSS-Only Star Rating Component and More! (Part 2)]]></title>
         <id>https://css-tricks.com/?p=384919</id>
         <link href="https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/"/>
@@ -136,16 +167,6 @@ Smashing Meets Accessibility originally published on CSS-Tricks, which is part o
 A CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn PyTorch in Five Projects]]></title>
-        <id>67c9e1b1b9163aa35c6dc2ee</id>
-        <link href="https://www.freecodecamp.org/news/learn-pytorch-in-five-projects/"/>
-        <updated>2025-03-06T17:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Deep learning has revolutionized the way we approach complex problems like image recognition, natural language processing, and even audio analysis. At the core of many deep learning applications is PyTorch, a powerful and flexible framework that allo...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -167,16 +188,6 @@ Maybe don’t use custom properties in shorthand properties originally published
         <summary type="html"><![CDATA[Struggling with slow Largest Contentful Paint (LCP)? Newly introduced by Google, LCP subparts help you pinpoint where page load delays come from. Now, in the Chrome UX Report, this data provides real visitor insights to speed up your site and boost rankings. Matt Zeunert unpacks what LCP subparts are, what they mean for your website speed, and how you can measure them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matt Zeunert)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Machine Learning Concepts plus Generative AI]]></title>
-        <id>67c90b95f53d5f98abdef4ce</id>
-        <link href="https://www.freecodecamp.org/news/learn-machine-learning-concepts-plus-generative-ai/"/>
-        <updated>2025-03-06T02:42:29.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning is revolutionizing industries by enabling computers to learn from data, recognize patterns, and make decisions without explicit programming. If you've ever been curious about how AI systems work, this course provides a structured int...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -337,37 +348,6 @@ Handwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, wh
 Scroll Driven Animations Notebook originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Test And Measure Content In UX]]></title>
-        <id>https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/</id>
-        <link href="https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/"/>
-        <updated>2025-02-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [How To Measure UX & Design Impact](https://measure-ux.com/) by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time To First Byte: Beyond Server Response Time]]></title>
-        <id>https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/</id>
-        <link href="https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/"/>
-        <updated>2025-02-12T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing web performance means looking beyond surface-level metrics. Time to First Byte (TTFB) is crucial, but improving it requires more than tweaking server response time. Matt Zeunert breaks down what TTFB is, what causes its poor score, and why reducing server response time alone isn’t enough for optimization and often won’t be the most impactful change you can make to your website.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typecasting and Viewport Transitions in CSS With tan(atan2())]]></title>
-        <id>https://css-tricks.com/?p=384339</id>
-        <link href="https://css-tricks.com/typecasting-and-viewport-transitions-in-css-with-tanatan2/"/>
-        <updated>2025-02-12T14:15:28.000Z</updated>
-        <summary type="html"><![CDATA[We’ve been able to get the length of the viewport in CSS since… checks notes… 2013! Surprisingly, that was more than a decade ago. Getting the viewport width is as easy these days as easy as writing 100vw, but …
-Typecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>

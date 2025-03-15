@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383422",
+          "author": "Geoff Graham",
+          "description": "Scott Jehl released a course called Web Components Demystified. This is my full set of notes from Scott's course. You'll still want to take the course on your own, and I encourage you to because Scott is an excellent teacher who makes all of this stuff extremely accessible, even to noobs like me.\nWeb Components Demystified originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/web-components-demystified/",
+          "publishedOn": "2025-03-14T12:51:59.000Z",
+          "wordCount": 9122,
+          "title": "Web Components Demystified",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/web-components-demystified.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=384941",
           "author": "Bryan Robinson",
           "description": "With Astro, we can generate most of our site during our build, but have a small bit of server-side code that can handle search functionality using something like Fuse.js. In this demo, we’ll use Fuse to search through a set of personal “bookmarks” that are generated at build time, but return back proper results from a server call.\nPowering Search With Astro Actions and Fuse.js originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/",
           "publishedOn": "2025-03-11T15:26:10.000Z",
-          "wordCount": 5250,
+          "wordCount": 5249,
           "title": "Powering Search With Astro Actions and Fuse.js",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/astro-search.jpg"
         },
@@ -67,7 +77,7 @@
           "description": "Arguments?! Return values?! What's crazier, you can use functions right now in Chrome Canary! So, after reading and playing around, here are my key insights on what you need to know about CSS Functions.\nFunctions in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/functions-in-css/",
           "publishedOn": "2025-03-03T13:34:22.000Z",
-          "wordCount": 3864,
+          "wordCount": 3967,
           "title": "Functions in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/css-functions-mixins.png"
         },
@@ -155,16 +165,6 @@
           "wordCount": 1915,
           "title": "Scroll Driven Animations Notebook",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/adam-argyle-nerdy-notebook.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384339",
-          "author": "Juan Diego Rodríguez",
-          "description": "We’ve been able to get the length of the viewport in CSS since… checks notes… 2013! Surprisingly, that was more than a decade ago. Getting the viewport width is as easy these days as easy as writing 100vw, but …\nTypecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/typecasting-and-viewport-transitions-in-css-with-tanatan2/",
-          "publishedOn": "2025-02-12T14:15:28.000Z",
-          "wordCount": 3292,
-          "title": "Typecasting and Viewport Transitions in CSS With tan(atan2())",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/animation-zone.png"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
           "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
           "publishedOn": "2025-03-13T08:00:00.000Z",
-          "wordCount": 5223,
+          "wordCount": 5216,
           "title": "How To Prevent WordPress SQL Injection Attacks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
@@ -224,7 +224,7 @@
           "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
           "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
           "publishedOn": "2025-03-03T08:00:00.000Z",
-          "wordCount": 5336,
+          "wordCount": 5447,
           "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
@@ -239,7 +239,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
           "publishedOn": "2025-02-28T13:00:00.000Z",
-          "wordCount": 4667,
+          "wordCount": 4672,
           "title": "Sunshine And March Vibes (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png",
@@ -254,7 +254,7 @@
           "description": "Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.",
           "link": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
           "publishedOn": "2025-02-26T10:00:00.000Z",
-          "wordCount": 7291,
+          "wordCount": 7288,
           "title": "The Human Element: Using Research And Psychology To Elevate Data Storytelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg",
@@ -269,7 +269,7 @@
           "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
           "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "publishedOn": "2025-02-19T10:00:00.000Z",
-          "wordCount": 5777,
+          "wordCount": 5895,
           "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
@@ -284,7 +284,7 @@
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
           "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5415,
+          "wordCount": 5526,
           "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
@@ -292,36 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [How To Measure UX & Design Impact](https://measure-ux.com/) by yours truly.",
-          "link": "https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/",
-          "publishedOn": "2025-02-13T08:00:00.000Z",
-          "wordCount": 3534,
-          "title": "How To Test And Measure Content In UX",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-to-test-and-measure-content-in-ux/concept-testing-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-to-test-and-measure-content-in-ux/concept-testing-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/",
-          "author": "hello@smashingmagazine.com (Matt Zeunert)",
-          "description": "Optimizing web performance means looking beyond surface-level metrics. Time to First Byte (TTFB) is crucial, but improving it requires more than tweaking server response time. Matt Zeunert breaks down what TTFB is, what causes its poor score, and why reducing server response time alone isn’t enough for optimization and often won’t be the most impactful change you can make to your website.",
-          "link": "https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/",
-          "publishedOn": "2025-02-12T17:00:00.000Z",
-          "wordCount": 3656,
-          "title": "Time To First Byte: Beyond Server Response Time",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/time-to-first-byte-beyond-server-response-time/time-to-first-byte-beyond-server-response-time.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/time-to-first-byte-beyond-server-response-time/time-to-first-byte-beyond-server-response-time.jpg"
         }
       ]
     },
@@ -330,6 +300,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67d45997c9e7f2d42bb1c540",
+          "author": "Soham Banerjee",
+          "description": "In today’s world, computers are ubiquitous and generally serve two primary purposes. The first is general-purpose computing, where they handle a wide range of tasks, including running diverse applications and programs. Examples include laptops, deskt...",
+          "link": "https://www.freecodecamp.org/news/connect-read-process-sensor-data-on-microcontrollers-for-beginners/",
+          "publishedOn": "2025-03-14T16:30:15.000Z",
+          "wordCount": 5102,
+          "title": "How to Connect, Read, and Process Sensor Data on Microcontrollers – A Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741902732575/fd41a2d5-ed4f-445d-b186-936625837c8d.png"
+        },
+        {
+          "id": "67d38995d1f16f987c9eb503",
+          "author": "Beau Carnes",
+          "description": "Whether you're building a web app, mobile app, or API, understanding how to implement robust authentication and authorization is a critical skill. AWS Cognito is a powerful ability that simplifies user management, authentication, and access control, ...",
+          "link": "https://www.freecodecamp.org/news/learn-aws-incognito-for-authentication/",
+          "publishedOn": "2025-03-14T01:42:45.000Z",
+          "wordCount": 1292,
+          "title": "Learn AWS Incognito for Authentication",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741916554049/a4eaed0e-83d3-4507-96eb-6ef7830de076.png"
+        },
+        {
+          "id": "67d35b3cba576fa68285a197",
+          "author": "Manish Shivanandhan",
+          "description": "If you’ve followed cybersecurity news over the past few years, you’ve likely come across EternalBlue. This critical Windows exploit played a key role in the widespread WannaCry ransomware attack that affected systems in over 150 countries. In this ar...",
+          "link": "https://www.freecodecamp.org/news/how-to-exploit-the-eternalblue-vulnerability-on-windows/",
+          "publishedOn": "2025-03-13T22:25:00.000Z",
+          "wordCount": 1777,
+          "title": "How to Exploit the EternalBlue Vulnerability on Windows – A Step-by-Step Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737564552005/119beff1-e8fb-489c-931b-903421473464.png"
+        },
         {
           "id": "67d2cc837d28795ed4ea4d3e",
           "author": "Divya Valsala Saratchandran",
@@ -366,7 +366,7 @@
           "description": "I’ve been writing a lot of articles lately on Agile methodologies. And for this one, I wanted to cover how to get the most out of a Sprint Retrospective. I’ve been participating and running Sprint Retrospectives now for 15 years and I truly believe t...",
           "link": "https://www.freecodecamp.org/news/how-to-run-a-sprint-retrospective-start-stop-continue-method/",
           "publishedOn": "2025-03-12T21:07:53.000Z",
-          "wordCount": 2204,
+          "wordCount": 2211,
           "title": "How to Run a Sprint Retrospective Using the Start, Stop, Continue Method",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494845460/a0181901-d715-49ce-881b-936b1143d341.png"
         },
@@ -386,7 +386,7 @@
           "description": "Coding has become one of the most common tasks in modern society. With computers now central to almost every field, more people are designing algorithms and writing code to solve various problems. From healthcare to finance, robust software systems p...",
           "link": "https://www.freecodecamp.org/news/learn-software-design-basics/",
           "publishedOn": "2025-03-07T21:25:26.000Z",
-          "wordCount": 4914,
+          "wordCount": 4924,
           "title": "Learn Software Design Basics: Key Phases and Best Practices",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741188275855/9858518f-38c0-4e3b-8be1-7c56b68c77a7.png"
         },
@@ -399,36 +399,6 @@
           "wordCount": 1107,
           "title": "Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741377315559/585b915d-2390-45a7-9f4a-171dc134af5d.png"
-        },
-        {
-          "id": "67cb2cab98825a8b61ca9121",
-          "author": "Chaitanya Rahalkar",
-          "description": "In this tutorial, we’ll build a simplified, AI-flavored SIEM log analysis system using Python. Our focus will be on log analysis and anomaly detection. We’ll walk through ingesting logs, detecting anomalies with a lightweight machine learning model, ...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-python-siem-system-using-ai-and-llms/",
-          "publishedOn": "2025-03-07T17:28:11.000Z",
-          "wordCount": 3920,
-          "title": "How to Create a Python SIEM System Using AI and LLMs for Log Analysis and Anomaly Detection",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741368457380/900d7d5b-cffc-4175-b5a5-4d7361ea383d.png"
-        },
-        {
-          "id": "67c9e1b1b9163aa35c6dc2ee",
-          "author": "Beau Carnes",
-          "description": "Deep learning has revolutionized the way we approach complex problems like image recognition, natural language processing, and even audio analysis. At the core of many deep learning applications is PyTorch, a powerful and flexible framework that allo...",
-          "link": "https://www.freecodecamp.org/news/learn-pytorch-in-five-projects/",
-          "publishedOn": "2025-03-06T17:56:01.000Z",
-          "wordCount": 1260,
-          "title": "Learn PyTorch in Five Projects",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741283747402/6d00899f-105f-4c20-97e8-0f789348bacf.png"
-        },
-        {
-          "id": "67c90b95f53d5f98abdef4ce",
-          "author": "Beau Carnes",
-          "description": "Machine learning is revolutionizing industries by enabling computers to learn from data, recognize patterns, and make decisions without explicit programming. If you've ever been curious about how AI systems work, this course provides a structured int...",
-          "link": "https://www.freecodecamp.org/news/learn-machine-learning-concepts-plus-generative-ai/",
-          "publishedOn": "2025-03-06T02:42:29.000Z",
-          "wordCount": 1232,
-          "title": "Learn Machine Learning Concepts plus Generative AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741228930362/5c9e0d40-e79d-4aba-970c-ea5949a92b92.png"
         }
       ]
     }
