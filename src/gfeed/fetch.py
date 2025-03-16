@@ -4,6 +4,7 @@ import os
 import sys
 from typing import TYPE_CHECKING
 
+import hishel
 import httpx
 import yaml
 from loguru import logger
@@ -12,6 +13,14 @@ from pydantic import BaseModel
 
 if TYPE_CHECKING:
     from httpx import AsyncClient
+
+# All the specification configs
+controller = hishel.Controller(
+    cacheable_methods=["GET", "POST"],
+    cacheable_status_codes=[200],
+    allow_stale=True,
+)
+storage = hishel.AsyncFileStorage()
 
 
 class StarredRepo(BaseModel):
@@ -117,6 +126,10 @@ async def main(osmos: bool, opml: bool):
 
     async with httpx.AsyncClient(timeout=60.0, headers=headers) as client:
         repos = await get_star_repo(client)
+
+    async with hishel.AsyncCacheClient(
+        timeout=60.0, headers=headers, controller=controller, storage=storage
+    ) as client:
         tasks = [latest_release(client, repo) for repo in repos]
         releases = await asyncio.gather(*tasks)
 
