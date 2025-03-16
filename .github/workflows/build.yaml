@@ -38,7 +38,7 @@ jobs:
         run: uv sync --all-extras --dev
 
       - name: Build package with pyinstaller on ${{ matrix.os }}
-        run: uv run pyinstaller --onefile gfeed.py --name gfeed-${{matrix.name}}
+        run: uv run pyinstaller --onefile src/gfeed/__main__.py --name gfeed-${{matrix.name}}
 
       - name: Upload package
         uses: actions/upload-artifact@v4

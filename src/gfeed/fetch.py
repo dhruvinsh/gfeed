@@ -57,6 +57,7 @@ async def get_star_repo(client: "AsyncClient") -> list[StarredRepo]:
     while url:
         data, url = await fetch_star_repo(client, url)
         sr.extend(transform_repo_data(data))
+        return sr
 
     return sr
 
