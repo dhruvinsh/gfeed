@@ -1,14 +1,13 @@
-import argparse
 import asyncio
 import os
-import sys
-from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING, cast
 
 import hishel
 import httpx
 import yaml
+from aiolimiter import AsyncLimiter
 from loguru import logger
-from opml import OpmlDocument
+from opml import OpmlDocument  # pyright: ignore[reportMissingTypeStubs]
 from pydantic import BaseModel
 
 if TYPE_CHECKING:
@@ -42,12 +41,13 @@ class ReleaseData(BaseModel):
 
 
 async def fetch_star_repo(
-    client: "AsyncClient", url: str
+    client: "AsyncClient", url: str, limiter: AsyncLimiter
 ) -> tuple[list[dict[str, str]], str | None]:
     """Fetch star repository for user."""
-    logger.info(f"Fetching {url}")
-    resp = await client.get(url)
-    return resp.json(), resp.links.get("next", {}).get("url")
+    async with limiter:
+        logger.info(f"Fetching {url}")
+        resp = await client.get(url)
+        return resp.json(), resp.links.get("next", {}).get("url")
 
 
 def transform_repo_data(data: list[dict[str, str]]) -> list[StarredRepo]:
@@ -58,29 +58,32 @@ def transform_repo_data(data: list[dict[str, str]]) -> list[StarredRepo]:
     ]
 
 
-async def get_star_repo(client: "AsyncClient") -> list[StarredRepo]:
+async def get_star_repo(
+    client: "AsyncClient", limiter: AsyncLimiter
+) -> list[StarredRepo]:
     """Get star repository for user."""
     sr: list[StarredRepo] = []
     url: str | None = "https://api.github.com/user/starred?per_page=100"
 
     while url:
-        data, url = await fetch_star_repo(client, url)
+        data, url = await fetch_star_repo(client, url, limiter)
         sr.extend(transform_repo_data(data))
 
     return sr
 
 
 async def fetch_latest_release(
-    client: "AsyncClient", repo: StarredRepo
+    client: "AsyncClient", repo: StarredRepo, limiter: AsyncLimiter
 ) -> dict[str, str] | None:
     """Fetch latest release for a repository."""
     url = repo.url + "/releases/latest"
-    logger.debug(f"Fetching latest release: {url}")
-    resp = await client.get(url)
-    if resp.status_code == 404:
-        return None
+    async with limiter:
+        logger.debug(f"Fetching latest release: {url}")
+        resp = await client.get(url)
+        if resp.status_code == 404:
+            return None
 
-    return resp.json()
+    return cast(dict[str, str], resp.json())
 
 
 def transform_release_data(
@@ -101,17 +104,17 @@ def transform_release_data(
 
 
 async def latest_release(
-    client: "AsyncClient", repo: StarredRepo
+    client: "AsyncClient", repo: StarredRepo, limiter: AsyncLimiter
 ) -> ReleaseData | None:
     """Get latest release for a repository."""
-    data = await fetch_latest_release(client, repo)
+    data = await fetch_latest_release(client, repo, limiter)
     if data is None:
         return None
 
     return transform_release_data(data, repo)
 
 
-async def main(osmos: bool, opml: bool):
+async def main(osmos: bool, opml: bool, rate_limit: float):
     token = os.environ.get("GITHUB_TOKEN")
     if token is None:
         raise ValueError("Please set GITHUB_TOKEN environment variable")
@@ -123,22 +126,23 @@ async def main(osmos: bool, opml: bool):
             "X-GitHub-Api-Version": "2022-11-28",
         }
     )
+    limiter = AsyncLimiter(max_rate=rate_limit, time_period=1)
 
     async with httpx.AsyncClient(timeout=60.0, headers=headers) as client:
-        repos = await get_star_repo(client)
+        repos = await get_star_repo(client, limiter)
 
     async with hishel.AsyncCacheClient(
         timeout=60.0, headers=headers, controller=controller, storage=storage
     ) as client:
-        tasks = [latest_release(client, repo) for repo in repos]
+        tasks = [latest_release(client, repo, limiter) for repo in repos]
         releases = await asyncio.gather(*tasks)
 
-    feed = []
+    feed: list[dict[str, str]] = []
     feed_opml = OpmlDocument()
     for release in releases:
         if release is not None:
             feed.append({"href": release.atom})
-            feed_opml.add_rss(
+            feed_opml.add_rss(  # pyright: ignore[reportUnknownMemberType, reportUnusedCallResult]
                 text=f"Release from {release.full_name}",
                 xml_url=release.atom,
                 html_url=release.html_url,
@@ -151,30 +155,4 @@ async def main(osmos: bool, opml: bool):
 
     if opml:
         with open("feed.opml", "wb") as fp:
-            feed_opml.dump(fp, pretty=True)
-
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument(
-        "--osmos", action="store_true", help="Export github star repo(s) for osmosfeed."
-    )
-    group.add_argument(
-        "--opml",
-        action="store_true",
-        help="Export github star repo(s) for RSS application as opml file.",
-    )
-    parser.add_argument(
-        "--debug", action="store_true", default=False, help="More verbose output."
-    )
-
-    args = parser.parse_args()
-
-    logger.remove()
-    if args.debug:
-        logger.add(sys.stderr, level="DEBUG")
-    else:
-        logger.add(sys.stderr, level="INFO")
-
-    asyncio.run(main(args.osmos, args.opml))
+            feed_opml.dump(fp, pretty=True)  # pyright: ignore[reportUnknownMemberType]
