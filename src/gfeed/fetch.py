@@ -10,6 +10,7 @@ import yaml
 from loguru import logger
 from opml import OpmlDocument
 from pydantic import BaseModel
+from aiolimiter import AsyncLimiter
 
 if TYPE_CHECKING:
     from httpx import AsyncClient
@@ -42,12 +43,13 @@ class ReleaseData(BaseModel):
 
 
 async def fetch_star_repo(
-    client: "AsyncClient", url: str
+    client: "AsyncClient", url: str, limiter: AsyncLimiter
 ) -> tuple[list[dict[str, str]], str | None]:
     """Fetch star repository for user."""
-    logger.info(f"Fetching {url}")
-    resp = await client.get(url)
-    return resp.json(), resp.links.get("next", {}).get("url")
+    async with limiter:
+        logger.info(f"Fetching {url}")
+        resp = await client.get(url)
+        return resp.json(), resp.links.get("next", {}).get("url")
 
 
 def transform_repo_data(data: list[dict[str, str]]) -> list[StarredRepo]:
@@ -58,27 +60,28 @@ def transform_repo_data(data: list[dict[str, str]]) -> list[StarredRepo]:
     ]
 
 
-async def get_star_repo(client: "AsyncClient") -> list[StarredRepo]:
+async def get_star_repo(client: "AsyncClient", limiter: AsyncLimiter) -> list[StarredRepo]:
     """Get star repository for user."""
     sr: list[StarredRepo] = []
     url: str | None = "https://api.github.com/user/starred?per_page=100"
 
     while url:
-        data, url = await fetch_star_repo(client, url)
+        data, url = await fetch_star_repo(client, url, limiter)
         sr.extend(transform_repo_data(data))
 
     return sr
 
 
 async def fetch_latest_release(
-    client: "AsyncClient", repo: StarredRepo
+    client: "AsyncClient", repo: StarredRepo, limiter: AsyncLimiter
 ) -> dict[str, str] | None:
     """Fetch latest release for a repository."""
     url = repo.url + "/releases/latest"
-    logger.debug(f"Fetching latest release: {url}")
-    resp = await client.get(url)
-    if resp.status_code == 404:
-        return None
+    async with limiter:
+        logger.debug(f"Fetching latest release: {url}")
+        resp = await client.get(url)
+        if resp.status_code == 404:
+            return None
 
     return resp.json()
 
@@ -101,17 +104,17 @@ def transform_release_data(
 
 
 async def latest_release(
-    client: "AsyncClient", repo: StarredRepo
+    client: "AsyncClient", repo: StarredRepo, limiter: AsyncLimiter
 ) -> ReleaseData | None:
     """Get latest release for a repository."""
-    data = await fetch_latest_release(client, repo)
+    data = await fetch_latest_release(client, repo, limiter)
     if data is None:
         return None
 
     return transform_release_data(data, repo)
 
 
-async def main(osmos: bool, opml: bool):
+async def main(osmos: bool, opml: bool, rate_limit: float):
     token = os.environ.get("GITHUB_TOKEN")
     if token is None:
         raise ValueError("Please set GITHUB_TOKEN environment variable")
@@ -123,14 +126,15 @@ async def main(osmos: bool, opml: bool):
             "X-GitHub-Api-Version": "2022-11-28",
         }
     )
+    limiter = AsyncLimiter(rate_limit, 1)  # rate_limit requests per second
 
     async with httpx.AsyncClient(timeout=60.0, headers=headers) as client:
-        repos = await get_star_repo(client)
+        repos = await get_star_repo(client, limiter)
 
     async with hishel.AsyncCacheClient(
         timeout=60.0, headers=headers, controller=controller, storage=storage
     ) as client:
-        tasks = [latest_release(client, repo) for repo in repos]
+        tasks = [latest_release(client, repo, limiter) for repo in repos]
         releases = await asyncio.gather(*tasks)
 
     feed = []
@@ -168,6 +172,12 @@ if __name__ == "__main__":
     parser.add_argument(
         "--debug", action="store_true", default=False, help="More verbose output."
     )
+    parser.add_argument(
+        "--rate-limit",
+        type=float,
+        default=1.0,
+        help="Set the rate limit for requests in requests per second (e.g., 0.5 for 1 request every 2 seconds).",
+    )
 
     args = parser.parse_args()
 
@@ -177,4 +187,4 @@ if __name__ == "__main__":
     else:
         logger.add(sys.stderr, level="INFO")
 
-    asyncio.run(main(args.osmos, args.opml))
+    asyncio.run(main(args.osmos, args.opml, args.rate_limit))

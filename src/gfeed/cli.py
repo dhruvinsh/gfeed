@@ -21,6 +21,12 @@ def cli():
     parser.add_argument(
         "--debug", action="store_true", default=False, help="More verbose output."
     )
+    parser.add_argument(
+        "--rate-limit",
+        type=float,
+        default=1.0,
+        help="Set the rate limit for requests in requests per second (e.g., 0.5 for 1 request every 2 seconds).",
+    )
 
     args = parser.parse_args()
 
@@ -30,4 +36,4 @@ def cli():
     else:
         logger.add(sys.stderr, level="INFO")
 
-    asyncio.run(main(args.osmos, args.opml))
+    asyncio.run(main(args.osmos, args.opml, args.rate_limit))
