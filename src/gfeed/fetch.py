@@ -126,8 +126,7 @@ async def main(osmos: bool, opml: bool, rate_limit: float):
             "X-GitHub-Api-Version": "2022-11-28",
         }
     )
-    # '1' represents a 1-second interval, and if future flexibility is needed, it could be made configurable.
-    limiter = AsyncLimiter(rate_limit, 1)
+    limiter = AsyncLimiter(max_rate=rate_limit, time_period=1)
 
     async with httpx.AsyncClient(timeout=60.0, headers=headers) as client:
         repos = await get_star_repo(client, limiter)
