@@ -24,3 +24,6 @@ gfeed = "gfeed.__main__:cli"
 [build-system]
 requires = ["pdm-backend"]
 build-backend = "pdm.backend"
+
+[tool.mypy]
+plugins = ["pydantic.mypy"]

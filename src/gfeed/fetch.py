@@ -1,13 +1,13 @@
 import asyncio
 import os
-from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING, cast
 
 import hishel
 import httpx
 import yaml
 from aiolimiter import AsyncLimiter
 from loguru import logger
-from opml import OpmlDocument
+from opml import OpmlDocument  # pyright: ignore[reportMissingTypeStubs]
 from pydantic import BaseModel
 
 if TYPE_CHECKING:
@@ -83,7 +83,7 @@ async def fetch_latest_release(
         if resp.status_code == 404:
             return None
 
-    return resp.json()
+    return cast(dict[str, str], resp.json())
 
 
 def transform_release_data(
@@ -138,12 +138,12 @@ async def main(osmos: bool, opml: bool, rate_limit: float):
         tasks = [latest_release(client, repo, limiter) for repo in repos]
         releases = await asyncio.gather(*tasks)
 
-    feed = []
+    feed: list[dict[str, str]] = []
     feed_opml = OpmlDocument()
     for release in releases:
         if release is not None:
             feed.append({"href": release.atom})
-            feed_opml.add_rss(
+            feed_opml.add_rss(  # pyright: ignore[reportUnknownMemberType, reportUnusedCallResult]
                 text=f"Release from {release.full_name}",
                 xml_url=release.atom,
                 html_url=release.html_url,
@@ -156,4 +156,4 @@ async def main(osmos: bool, opml: bool, rate_limit: float):
 
     if opml:
         with open("feed.opml", "wb") as fp:
-            feed_opml.dump(fp, pretty=True)
+            feed_opml.dump(fp, pretty=True)  # pyright: ignore[reportUnknownMemberType]
