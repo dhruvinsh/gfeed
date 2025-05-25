@@ -7,10 +7,10 @@ from typing import TYPE_CHECKING
 import hishel
 import httpx
 import yaml
+from aiolimiter import AsyncLimiter
 from loguru import logger
 from opml import OpmlDocument
 from pydantic import BaseModel
-from aiolimiter import AsyncLimiter
 
 if TYPE_CHECKING:
     from httpx import AsyncClient
@@ -60,7 +60,9 @@ def transform_repo_data(data: list[dict[str, str]]) -> list[StarredRepo]:
     ]
 
 
-async def get_star_repo(client: "AsyncClient", limiter: AsyncLimiter) -> list[StarredRepo]:
+async def get_star_repo(
+    client: "AsyncClient", limiter: AsyncLimiter
+) -> list[StarredRepo]:
     """Get star repository for user."""
     sr: list[StarredRepo] = []
     url: str | None = "https://api.github.com/user/starred?per_page=100"
@@ -126,7 +128,8 @@ async def main(osmos: bool, opml: bool, rate_limit: float):
             "X-GitHub-Api-Version": "2022-11-28",
         }
     )
-    limiter = AsyncLimiter(rate_limit, 1)  # rate_limit requests per second
+    # '1' represents a 1-second interval, and if future flexibility is needed, it could be made configurable.
+    limiter = AsyncLimiter(rate_limit, 1)
 
     async with httpx.AsyncClient(timeout=60.0, headers=headers) as client:
         repos = await get_star_repo(client, limiter)
